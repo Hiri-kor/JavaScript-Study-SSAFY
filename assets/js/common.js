@@ -184,7 +184,7 @@
     if (document.querySelector('.site-footer')) return;
     const f = document.createElement('footer');
     f.className = 'site-footer';
-    f.innerHTML = 'SSAFY JavaScript 교안(1111 DOM · 1112 Basic Syntax 01 · 1116 Basic Syntax 02 · 1117 Controlling Event) 기반 개인 학습용 페이지 · 학습 기록은 이 브라우저에만 저장됩니다.';
+    f.innerHTML = '개인 학습용 페이지 · 학습 기록은 이 브라우저에만 저장됩니다.';
     document.body.appendChild(f);
   }
 

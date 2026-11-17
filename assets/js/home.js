@@ -23,7 +23,7 @@
     const pct = qs.length ? Math.round(s.length / qs.length * 100) : 0;
     return `<a class="topic-card" href="topics/${t.id}.html">
       ${done.includes(t.id) ? '<span class="done-mark">✓ 완료</span>' : ''}
-      <span class="no">주제 ${String(t.no).padStart(2, '0')} · 교안 ${App.esc(t.source)}</span>
+      <span class="no">주제 ${String(t.no).padStart(2, '0')}</span>
       <h3>${App.esc(t.title)}</h3>
       <p>${App.esc(t.desc)}</p>
       <div class="meta"><span>문제 ${qs.length}개</span>${s.length ? `<span>· 풀이 ${s.length} · 정답 ${c}</span>` : ''}</div>

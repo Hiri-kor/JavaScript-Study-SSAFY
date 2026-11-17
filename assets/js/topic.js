@@ -17,7 +17,7 @@
     document.title = `${String(t.no).padStart(2, '0')}. ${t.title} | JS 시험 대비 노트`;
     const done = App.Progress.doneTopics().includes(t.id);
     headEl.innerHTML = `
-      <p class="eyebrow">주제 ${t.no} / ${all.length} · 교안 ${App.esc(t.source)}</p>
+      <p class="eyebrow">주제 ${t.no} / ${all.length}</p>
       <h1 class="topic-title">${App.esc(t.title)}</h1>
       <p class="topic-desc">${App.esc(t.desc)}</p>
       <div class="legend"><span>💡 쉽게 이해하기(교안 내용 풀이)</span><span>📌 교안 TIP</span><span>📝 서술형 대비 정의</span><span>⚠️ 헷갈리기 쉬운 점</span></div>

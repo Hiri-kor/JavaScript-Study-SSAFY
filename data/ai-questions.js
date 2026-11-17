@@ -8,7 +8,7 @@
 window.AI_QUESTIONS = [
   {
     "id": "ai-1111-01",
-    "ref": "DOM 50제 #1",
+    "ref": "객관식 1세트 #1",
     "topic": "01-history",
     "type": "mc",
     "question": "1990년 WWW(World Wide Web)와 하이퍼텍스트 시스템을 고안하고, URL과 HTTP를 최초로 설계 및 구현한 인물은 누구인가요?",
@@ -23,7 +23,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-02",
-    "ref": "DOM 50제 #2",
+    "ref": "객관식 1세트 #2",
     "topic": "01-history",
     "type": "mc",
     "question": "초기 웹 환경의 핵심 기술에 대한 설명으로 올바르지 않은 것은 무엇인가요?",
@@ -38,7 +38,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-03",
-    "ref": "DOM 50제 #3",
+    "ref": "객관식 1세트 #3",
     "topic": "01-history",
     "type": "mc",
     "question": "1995년 Netscape 소속 개발자 브렌던 아이크(Brendan Eich)가 개발한 JavaScript의 이름 변천사 순서로 올바른 것은?",
@@ -53,7 +53,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-04",
-    "ref": "DOM 50제 #4",
+    "ref": "객관식 1세트 #4",
     "topic": "01-history",
     "type": "mc",
     "question": "1996년 Microsoft가 자사 웹 브라우저인 인터넷 익스플로러(IE) 3.0에 도입하여 'JavaScript 파편화'를 촉발시킨 유사 언어의 이름은 무엇인가요?",
@@ -68,7 +68,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-05",
-    "ref": "DOM 50제 #5",
+    "ref": "객관식 1세트 #5",
     "topic": "01-history",
     "type": "mc",
     "question": "1차 브라우저 전쟁(1995~2001)에 대한 설명으로 옳은 것은?",
@@ -83,7 +83,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-06",
-    "ref": "DOM 50제 #6",
+    "ref": "객관식 1세트 #6",
     "topic": "01-history",
     "type": "mc",
     "question": "웹 표준(Web Standards)이 중요한 이유로 적절하지 않은 것은?",
@@ -98,7 +98,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-07",
-    "ref": "DOM 50제 #7",
+    "ref": "객관식 1세트 #7",
     "topic": "01-history",
     "type": "mc",
     "question": "2008년 출시된 Google의 Chrome 브라우저가 2차 브라우저 전쟁에서 시장 우위를 점하게 된 가장 결정적인 이유와 탑재된 고성능 엔진의 조합으로 옳은 것은?",
@@ -113,7 +113,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-08",
-    "ref": "DOM 50제 #8",
+    "ref": "객관식 1세트 #8",
     "topic": "01-history",
     "type": "mc",
     "question": "ECMAScript와 JavaScript의 관계에 대한 설명으로 가장 올바른 것은?",
@@ -128,7 +128,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-09",
-    "ref": "DOM 50제 #9",
+    "ref": "객관식 1세트 #9",
     "topic": "01-history",
     "type": "mc",
     "question": "ECMAScript의 버전별 역사 중 2015년에 출시되어 객체지향 프로그래밍 언어로써 많은 발전을 이루고, 역사상 가장 중요한 버전으로 평가받는 것은?",
@@ -143,7 +143,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-10",
-    "ref": "DOM 50제 #10",
+    "ref": "객관식 1세트 #10",
     "topic": "01-history",
     "type": "mc",
     "question": "2009년에 출시되어 과거 웹 브라우저 내부에서만 실행되던 JavaScript를 브라우저 외부(서버 사이드 개발 등)에서도 실행 가능하게 만든 환경은 무엇인가요?",
@@ -158,7 +158,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-11",
-    "ref": "DOM 50제 #11",
+    "ref": "객관식 1세트 #11",
     "topic": "02-variables",
     "type": "mc",
     "question": "JavaScript에서 식별자(변수명) 작성 규칙에 대한 설명으로 틀린 것은?",
@@ -173,7 +173,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-12",
-    "ref": "DOM 50제 #12",
+    "ref": "객관식 1세트 #12",
     "topic": "02-variables",
     "type": "mc",
     "question": "다음 중 JavaScript의 변수명으로 사용할 수 있는 것으로만 짝지어진 것은?",
@@ -189,7 +189,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-13",
-    "ref": "DOM 50제 #13",
+    "ref": "객관식 1세트 #13",
     "topic": "02-variables",
     "type": "mc",
     "question": "JavaScript의 식별자 Naming Convention(명명 규칙)과 그 주 사용처의 연결이 올바른 것은?",
@@ -204,7 +204,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-14",
-    "ref": "DOM 50제 #14",
+    "ref": "객관식 1세트 #14",
     "topic": "02-variables",
     "type": "mc",
     "question": "변수 선언 키워드 `let`의 특징으로 올바른 것은?",
@@ -219,7 +219,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-15",
-    "ref": "DOM 50제 #15",
+    "ref": "객관식 1세트 #15",
     "topic": "02-variables",
     "type": "mc",
     "question": "변수 선언 키워드 `const`를 사용할 때 문법 에러(SyntaxError) 또는 타입 에러가 발생하는 경우가 아닌 것은?",
@@ -234,7 +234,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-16",
-    "ref": "DOM 50제 #16",
+    "ref": "객관식 1세트 #16",
     "topic": "02-variables",
     "type": "mc",
     "question": "다음 JavaScript 코드를 실행했을 때 콘솔에 출력되는 결과를 순서대로 바르게 나열한 것은?",
@@ -251,7 +251,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-17",
-    "ref": "DOM 50제 #17",
+    "ref": "객관식 1세트 #17",
     "topic": "02-variables",
     "type": "mc",
     "question": "블록 스코프(block scope)에 대한 설명으로 옳은 것은?",
@@ -266,7 +266,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-18",
-    "ref": "DOM 50제 #18",
+    "ref": "객관식 1세트 #18",
     "topic": "02-variables",
     "type": "mc",
     "question": "JavaScript에서 변수를 선언할 때 권장되는 가이드라인으로 가장 적절한 것은?",
@@ -281,7 +281,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-19",
-    "ref": "DOM 50제 #19",
+    "ref": "객관식 1세트 #19",
     "topic": "02-variables",
     "type": "mc",
     "question": "웹 브라우저에서 JavaScript를 실행하는 3가지 방법에 해당하지 않는 것은?",
@@ -296,7 +296,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-20",
-    "ref": "DOM 50제 #20",
+    "ref": "객관식 1세트 #20",
     "topic": "02-variables",
     "type": "mc",
     "question": "자바스크립트의 세미콜론(`;`)과 ASI에 대한 설명으로 틀린 것은?",
@@ -311,7 +311,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-21",
-    "ref": "DOM 50제 #21",
+    "ref": "객관식 1세트 #21",
     "topic": "08-dom",
     "type": "mc",
     "question": "DOM(Document Object Model)에 대한 설명으로 가장 거리가 먼 것은?",
@@ -326,7 +326,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-22",
-    "ref": "DOM 50제 #22",
+    "ref": "객관식 1세트 #22",
     "topic": "08-dom",
     "type": "mc",
     "question": "웹 페이지를 나타내는 DOM 트리의 최상위 객체이자, HTML 문서의 모든 콘텐츠에 접근하고 조작할 수 있는 진입점 역할을 하는 객체는?",
@@ -341,7 +341,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-23",
-    "ref": "DOM 50제 #23",
+    "ref": "객관식 1세트 #23",
     "topic": "08-dom",
     "type": "mc",
     "question": "브라우저 개발자 도구 Console에서 현재 웹 페이지의 브라우저 탭 제목(`<title>`)을 `'Hello :)'`로 변경하려고 할 때 올바른 코드는?",
@@ -356,7 +356,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-24",
-    "ref": "DOM 50제 #24",
+    "ref": "객관식 1세트 #24",
     "topic": "08-dom",
     "type": "mc",
     "question": "웹 페이지를 동적으로 조작하기 위한 올바른 순서는 무엇인가요?",
@@ -371,7 +371,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-25",
-    "ref": "DOM 50제 #25",
+    "ref": "객관식 1세트 #25",
     "topic": "08-dom",
     "type": "mc",
     "question": "`document.querySelector(selector)` 메서드에 대한 설명으로 옳은 것은?",
@@ -386,7 +386,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-26",
-    "ref": "DOM 50제 #26",
+    "ref": "객관식 1세트 #26",
     "topic": "08-dom",
     "type": "mc",
     "question": "`document.querySelectorAll(selector)` 메서드의 반환값과 특징으로 올바른 것은?",
@@ -401,7 +401,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-27",
-    "ref": "DOM 50제 #27",
+    "ref": "객관식 1세트 #27",
     "topic": "08-dom",
     "type": "mc",
     "question": "다음과 같은 HTML 구조가 있을 때, 아래 JavaScript 코드의 실행 결과로 반환되는 `NodeList`의 길이(`length`)는 얼마인가요?",
@@ -418,7 +418,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-28",
-    "ref": "DOM 50제 #28",
+    "ref": "객관식 1세트 #28",
     "topic": "08-dom",
     "type": "mc",
     "question": "DOM 용어 중 `Node`와 `Element`의 관계에 대한 설명으로 가장 정확한 것은?",
@@ -433,7 +433,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-29",
-    "ref": "DOM 50제 #29",
+    "ref": "객관식 1세트 #29",
     "topic": "08-dom",
     "type": "mc",
     "question": "`querySelectorAll()`을 통해 반환된 `NodeList`에 대한 설명으로 틀린 것은?",
@@ -448,7 +448,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-30",
-    "ref": "DOM 50제 #30",
+    "ref": "객관식 1세트 #30",
     "topic": "08-dom",
     "type": "mc",
     "question": "브라우저가 문자열로 된 HTML 문서를 읽어 해석하고 DOM Tree로 만드는 과정(구문 분석)을 무엇이라고 부르나요?",
@@ -463,7 +463,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-31",
-    "ref": "DOM 50제 #31",
+    "ref": "객관식 1세트 #31",
     "topic": "08-dom",
     "type": "mc",
     "question": "요소의 클래스 목록을 `DOMTokenList`(유사 배열) 형태로 반환하여 클래스를 쉽게 추가하거나 제거할 수 있게 해주는 프로퍼티는?",
@@ -478,7 +478,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-32",
-    "ref": "DOM 50제 #32",
+    "ref": "객관식 1세트 #32",
     "topic": "08-dom",
     "type": "mc",
     "question": "`element.classList.toggle('active')` 메서드의 동작 방식으로 올바른 것은?",
@@ -493,7 +493,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-33",
-    "ref": "DOM 50제 #33",
+    "ref": "객관식 1세트 #33",
     "topic": "08-dom",
     "type": "mc",
     "question": "다음 코드를 순서대로 실행했을 때, 마지막 `console.log`에서 `h1Tag`가 가지고 있는 클래스 목록으로 옳은 것은?",
@@ -510,7 +510,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-34",
-    "ref": "DOM 50제 #34",
+    "ref": "객관식 1세트 #34",
     "topic": "08-dom",
     "type": "mc",
     "question": "HTML 요소의 일반 속성(Attribute)을 조작하는 메서드에 대한 설명으로 틀린 것은?",
@@ -525,7 +525,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-35",
-    "ref": "DOM 50제 #35",
+    "ref": "객관식 1세트 #35",
     "topic": "08-dom",
     "type": "mc",
     "question": "`<a>` 태그에서 `aTag.removeAttribute('href')`를 실행한 직후, `console.log(aTag.getAttribute('href'))`를 실행했을 때 출력되는 값은?",
@@ -540,7 +540,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-36",
-    "ref": "DOM 50제 #36",
+    "ref": "객관식 1세트 #36",
     "topic": "08-dom",
     "type": "mc",
     "question": "다음과 같은 HTML 요소가 있을 때, `pTag.textContent`를 출력한 결과로 올바른 것은?",
@@ -557,7 +557,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-37",
-    "ref": "DOM 50제 #37",
+    "ref": "객관식 1세트 #37",
     "topic": "08-dom",
     "type": "mc",
     "question": "새로운 HTML 요소를 생성하고 DOM 트리에 추가 및 삭제하는 메서드에 대한 설명으로 옳은 것은?",
@@ -573,7 +573,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-38",
-    "ref": "DOM 50제 #38",
+    "ref": "객관식 1세트 #38",
     "topic": "08-dom",
     "type": "mc",
     "question": "다음 DOM 요소 조작 코드를 실행한 후, `<div>` 태그 내부의 최종 HTML 구조는 어떻게 되나요?",
@@ -590,7 +590,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-39",
-    "ref": "DOM 50제 #39",
+    "ref": "객관식 1세트 #39",
     "topic": "08-dom",
     "type": "mc",
     "question": "JavaScript의 `style` 프로퍼티를 사용해 요소의 글자 크기를 `2rem`으로 직접 변경하려고 한다. 올바른 코드 작성법은?",
@@ -605,7 +605,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-40",
-    "ref": "DOM 50제 #40",
+    "ref": "객관식 1세트 #40",
     "topic": "08-dom",
     "type": "mc",
     "question": "`style` 프로퍼티를 통한 스타일 조작에 대한 설명으로 적절하지 않은 것은?",
@@ -620,7 +620,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-41",
-    "ref": "DOM 50제 #41",
+    "ref": "객관식 1세트 #41",
     "topic": "08-dom",
     "type": "mc",
     "question": "크롬 개발자 도구(F12)에서 선택한 HTML 요소의 모든 DOM 속성(`accessKey`, `classList`, `childNodes`, `children` 등)을 한눈에 확인하고자 할 때 찾아가야 하는 경로는?",
@@ -635,7 +635,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-42",
-    "ref": "DOM 50제 #42",
+    "ref": "객관식 1세트 #42",
     "topic": "08-dom",
     "type": "mc",
     "question": "웹사이트에서 '다크 모드' 버튼을 눌렀을 때 화면이 어두워지는 기능을 구현하는 3단계 과정으로 가장 적절한 것은?",
@@ -650,7 +650,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-43",
-    "ref": "DOM 50제 #43",
+    "ref": "객관식 1세트 #43",
     "topic": "02-variables",
     "type": "mc",
     "question": "ES6 이전에 변수 선언에 사용했던 `var` 키워드의 특징이 아닌 것은?",
@@ -665,7 +665,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-44",
-    "ref": "DOM 50제 #44",
+    "ref": "객관식 1세트 #44",
     "topic": "02-variables",
     "type": "mc",
     "question": "다음 코드를 실행했을 때 발생하는 결과와 그 이유로 올바른 것은?",
@@ -682,7 +682,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-45",
-    "ref": "DOM 50제 #45",
+    "ref": "객관식 1세트 #45",
     "topic": "02-variables",
     "type": "mc",
     "question": "자바스크립트 엔진이 변수를 생성하는 3단계를 순서대로 바르게 나열한 것은?",
@@ -697,7 +697,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-46",
-    "ref": "DOM 50제 #46",
+    "ref": "객관식 1세트 #46",
     "topic": "02-variables",
     "type": "mc",
     "question": "다음 두 코드 스니펫(A, B)을 실행했을 때의 결과를 바르게 연결한 것은?",
@@ -714,7 +714,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-47",
-    "ref": "DOM 50제 #47",
+    "ref": "객관식 1세트 #47",
     "topic": "02-variables",
     "type": "mc",
     "question": "`let`과 `const`로 선언한 변수를 선언문 이전에 참조하려고 할 때 `age is not defined`가 아니라 `Cannot access 'age' before initialization` 에러가 발생하는 이유는 무엇인가요?",
@@ -729,7 +729,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-48",
-    "ref": "DOM 50제 #48",
+    "ref": "객관식 1세트 #48",
     "topic": "02-variables",
     "type": "mc",
     "question": "TDZ(Temporal Dead Zone, 일시적 사각지대)에 대한 설명으로 옳은 것은?",
@@ -744,7 +744,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-49",
-    "ref": "DOM 50제 #49",
+    "ref": "객관식 1세트 #49",
     "topic": "02-variables",
     "type": "mc",
     "question": "다음 중 선언, 초기화, 할당이 모두 동시에 스코프 최상단으로 끌어올려져, 선언문 이전 줄에서도 아무런 에러 없이 정상적으로 호출(사용)할 수 있는 것은?",
@@ -759,7 +759,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-50",
-    "ref": "DOM 50제 #50",
+    "ref": "객관식 1세트 #50",
     "topic": "02-variables",
     "type": "mc",
     "question": "키워드별 호이스팅 및 TDZ 여부를 정리한 내용으로 틀린 것은?",
@@ -774,7 +774,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-01",
-    "ref": "Basic Syntax 01 50제 #1",
+    "ref": "객관식 2세트 #1",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "원시 자료형(Primitive type)에 대한 설명으로 옳지 않은 것은?",
@@ -789,7 +789,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-02",
-    "ref": "Basic Syntax 01 50제 #2",
+    "ref": "객관식 2세트 #2",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 참조 자료형(Reference type)에 속하지 않는 것은?",
@@ -804,7 +804,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-03",
-    "ref": "Basic Syntax 01 50제 #3",
+    "ref": "객관식 2세트 #3",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 알맞은 것은?",
@@ -821,7 +821,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-04",
-    "ref": "Basic Syntax 01 50제 #4",
+    "ref": "객관식 2세트 #4",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 콘솔에 출력될 값은?",
@@ -838,7 +838,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-05",
-    "ref": "Basic Syntax 01 50제 #5",
+    "ref": "객관식 2세트 #5",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 콘솔에 출력될 값을 순서대로 나열한 것은?",
@@ -855,7 +855,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-06",
-    "ref": "Basic Syntax 01 50제 #6",
+    "ref": "객관식 2세트 #6",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "JavaScript의 `Number` 자료형에 대한 설명으로 틀린 것은?",
@@ -870,7 +870,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-07",
-    "ref": "Basic Syntax 01 50제 #7",
+    "ref": "객관식 2세트 #7",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "템플릿 리터럴(Template literals)에 대한 설명으로 옳은 것은?",
@@ -885,7 +885,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-08",
-    "ref": "Basic Syntax 01 50제 #8",
+    "ref": "객관식 2세트 #8",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "`null`과 `undefined`를 산술 연산에 사용했을 때의 결과로 올바른 설명은?",
@@ -900,7 +900,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-09",
-    "ref": "Basic Syntax 01 50제 #9",
+    "ref": "객관식 2세트 #9",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 조건문이나 반복문에서 Boolean 타입으로 자동 형 변환될 때 `true`로 변환되는 값은?",
@@ -915,7 +915,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-10",
-    "ref": "Basic Syntax 01 50제 #10",
+    "ref": "객관식 2세트 #10",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 연산의 결과가 `NaN`이 아닌 것은?",
@@ -930,7 +930,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-11",
-    "ref": "Basic Syntax 01 50제 #11",
+    "ref": "객관식 2세트 #11",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "`NaN`에 대한 설명으로 옳은 것은?",
@@ -945,7 +945,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-12",
-    "ref": "Basic Syntax 01 50제 #12",
+    "ref": "객관식 2세트 #12",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "`typeof null`의 결과가 `'object'`로 나오는 이유에 대한 설명으로 가장 적절한 것은?",
@@ -960,7 +960,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-13",
-    "ref": "Basic Syntax 01 50제 #13",
+    "ref": "객관식 2세트 #13",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 코드가 실행된 후 변수 `a`에 저장된 최종 값은?",
@@ -977,7 +977,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-14",
-    "ref": "Basic Syntax 01 50제 #14",
+    "ref": "객관식 2세트 #14",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 출력될 `x`, `y`, `m`, `n`의 값을 순서대로 바르게 나열한 것은?",
@@ -994,7 +994,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-15",
-    "ref": "Basic Syntax 01 50제 #15",
+    "ref": "객관식 2세트 #15",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 비교 연산의 결과 중 `false`가 반환되는 것은?",
@@ -1009,7 +1009,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-16",
-    "ref": "Basic Syntax 01 50제 #16",
+    "ref": "객관식 2세트 #16",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "동등 연산자(`==`)에 대한 설명으로 틀린 것은?",
@@ -1024,7 +1024,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-17",
-    "ref": "Basic Syntax 01 50제 #17",
+    "ref": "객관식 2세트 #17",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 `[1] == [1]`의 실행 결과와 그 이유로 올바른 것은?",
@@ -1039,7 +1039,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-18",
-    "ref": "Basic Syntax 01 50제 #18",
+    "ref": "객관식 2세트 #18",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 일치 연산자(`===`)를 사용한 표현식의 결과가 `true`인 것은?",
@@ -1055,7 +1055,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-19",
-    "ref": "Basic Syntax 01 50제 #19",
+    "ref": "객관식 2세트 #19",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "일반적인 JavaScript 프로그래밍에서 동등 연산자(`==`) 대신 일치 연산자(`===`) 사용을 권장하는 가장 주된 이유는?",
@@ -1070,7 +1070,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-20",
-    "ref": "Basic Syntax 01 50제 #20",
+    "ref": "객관식 2세트 #20",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 논리 연산자의 단축 평가 결과로 출력될 값을 순서대로 바르게 짝지은 것은?",
@@ -1087,7 +1087,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-21",
-    "ref": "Basic Syntax 01 50제 #21",
+    "ref": "객관식 2세트 #21",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 논리 연산자의 단축 평가 결과로 출력될 값을 순서대로 바르게 짝지은 것은?",
@@ -1104,7 +1104,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-22",
-    "ref": "Basic Syntax 01 50제 #22",
+    "ref": "객관식 2세트 #22",
     "topic": "03-types-operators",
     "type": "mc",
     "question": "다음 중 논리 연산자에 대한 설명으로 옳지 않은 것은?",
@@ -1119,7 +1119,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-23",
-    "ref": "Basic Syntax 01 50제 #23",
+    "ref": "객관식 2세트 #23",
     "topic": "04-control",
     "type": "mc",
     "question": "`if` 조건문에 대한 설명으로 올바른 것은?",
@@ -1134,7 +1134,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-24",
-    "ref": "Basic Syntax 01 50제 #24",
+    "ref": "객관식 2세트 #24",
     "topic": "04-control",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 출력되는 문자열은?",
@@ -1151,7 +1151,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-25",
-    "ref": "Basic Syntax 01 50제 #25",
+    "ref": "객관식 2세트 #25",
     "topic": "04-control",
     "type": "mc",
     "question": "삼항 연산자(`condition ? expression1 : expression2`)에 대한 설명으로 틀린 것은?",
@@ -1166,7 +1166,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-26",
-    "ref": "Basic Syntax 01 50제 #26",
+    "ref": "객관식 2세트 #26",
     "topic": "04-control",
     "type": "mc",
     "question": "다음 코드의 실행 결과 `message`에 할당되는 값은?",
@@ -1183,7 +1183,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-27",
-    "ref": "Basic Syntax 01 50제 #27",
+    "ref": "객관식 2세트 #27",
     "topic": "04-control",
     "type": "mc",
     "question": "`for ([초기문]; [조건문]; [증감문]) { // 코드 블록 }`의 동작 순서로 올바른 것은?",
@@ -1198,7 +1198,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-28",
-    "ref": "Basic Syntax 01 50제 #28",
+    "ref": "객관식 2세트 #28",
     "topic": "04-control",
     "type": "mc",
     "question": "다음 `while` 반복문이 종료되었을 때 마지막으로 콘솔에 출력된 숫자와, 반복문 종료 직후 변수 `i`의 값으로 올바른 것은?",
@@ -1215,7 +1215,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-29",
-    "ref": "Basic Syntax 01 50제 #29",
+    "ref": "객관식 2세트 #29",
     "topic": "04-control",
     "type": "mc",
     "question": "`for...in` 반복문에 대한 설명으로 옳은 것은?",
@@ -1230,7 +1230,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-30",
-    "ref": "Basic Syntax 01 50제 #30",
+    "ref": "객관식 2세트 #30",
     "topic": "04-control",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 올바른 것은?",
@@ -1247,7 +1247,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-31",
-    "ref": "Basic Syntax 01 50제 #31",
+    "ref": "객관식 2세트 #31",
     "topic": "04-control",
     "type": "mc",
     "question": "배열 `const arr = ['a', 'b', 'c']`에 대해 `for (const i in arr) { console.log(i) }`를 실행했을 때 출력되는 값과 그 타입은?",
@@ -1262,7 +1262,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-32",
-    "ref": "Basic Syntax 01 50제 #32",
+    "ref": "객관식 2세트 #32",
     "topic": "04-control",
     "type": "mc",
     "question": "배열을 순회할 때 `for...in`을 사용하지 않고 일반 `for` 문이나 `for...of`를 사용하는 이유로 틀린 것은?",
@@ -1277,7 +1277,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-33",
-    "ref": "Basic Syntax 01 50제 #33",
+    "ref": "객관식 2세트 #33",
     "topic": "04-control",
     "type": "mc",
     "question": "다음 코드의 출력 결과를 순서대로 나열한 것은?",
@@ -1294,7 +1294,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-34",
-    "ref": "Basic Syntax 01 50제 #34",
+    "ref": "객관식 2세트 #34",
     "topic": "04-control",
     "type": "mc",
     "question": "반복문에서 변수 선언 키워드 `const`의 사용 가능 여부에 대한 설명으로 올바른 것은?",
@@ -1309,7 +1309,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-35",
-    "ref": "Basic Syntax 01 50제 #35",
+    "ref": "객관식 2세트 #35",
     "topic": "04-control",
     "type": "mc",
     "question": "`while`, `for`, `for...in`, `for...of` 반복문 내부에서 `let`이나 `const`를 사용했을 때 형성되는 스코프는?",
@@ -1324,7 +1324,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-36",
-    "ref": "Basic Syntax 01 50제 #36",
+    "ref": "객관식 2세트 #36",
     "topic": "04-control",
     "type": "mc",
     "question": "객체 `const fruits = { a: 'apple', b: 'banana' }`에서 `for (const property in fruits)`를 사용할 때, `'apple'`과 `'banana'`라는 값에 접근하기 위한 올바른 표현식은?",
@@ -1339,7 +1339,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-37",
-    "ref": "Basic Syntax 01 50제 #37",
+    "ref": "객관식 2세트 #37",
     "topic": "05-functions",
     "type": "mc",
     "question": "JavaScript의 함수(Function)에 대한 설명으로 옳지 않은 것은?",
@@ -1354,7 +1354,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-38",
-    "ref": "Basic Syntax 01 50제 #38",
+    "ref": "객관식 2세트 #38",
     "topic": "05-functions",
     "type": "mc",
     "question": "함수 선언식(Function declaration)과 함수 표현식(Function expression)을 비교한 설명으로 틀린 것은?",
@@ -1369,7 +1369,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-39",
-    "ref": "Basic Syntax 01 50제 #39",
+    "ref": "객관식 2세트 #39",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 코드를 실행했을 때 발생하는 결과와 그 이유로 가장 적절한 것은?",
@@ -1386,7 +1386,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-40",
-    "ref": "Basic Syntax 01 50제 #40",
+    "ref": "객관식 2세트 #40",
     "topic": "05-functions",
     "type": "mc",
     "question": "기본 함수 매개변수(Default function parameter)가 적용된 다음 함수에서 기본값 `'Anonymous'`가 사용되는 경우를 모두 고른 것은?",
@@ -1403,7 +1403,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-41",
-    "ref": "Basic Syntax 01 50제 #41",
+    "ref": "객관식 2세트 #41",
     "topic": "05-functions",
     "type": "mc",
     "question": "나머지 매개변수(Rest parameter)의 작성 규칙으로 올바른 것은?",
@@ -1418,7 +1418,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-42",
-    "ref": "Basic Syntax 01 50제 #42",
+    "ref": "객관식 2세트 #42",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 콘솔에 출력될 값은?",
@@ -1435,7 +1435,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-43",
-    "ref": "Basic Syntax 01 50제 #43",
+    "ref": "객관식 2세트 #43",
     "topic": "05-functions",
     "type": "mc",
     "question": "매개변수의 개수와 전달된 인자의 개수가 불일치할 때의 동작으로 옳은 것은?",
@@ -1450,7 +1450,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-44",
-    "ref": "Basic Syntax 01 50제 #44",
+    "ref": "객관식 2세트 #44",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 출력될 값을 순서대로 바르게 나열한 것은?",
@@ -1467,7 +1467,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-45",
-    "ref": "Basic Syntax 01 50제 #45",
+    "ref": "객관식 2세트 #45",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 코드에서 사용된 전개 구문(`...`)의 역할과 출력 결과로 알맞은 것은?",
@@ -1484,7 +1484,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-46",
-    "ref": "Basic Syntax 01 50제 #46",
+    "ref": "객관식 2세트 #46",
     "topic": "05-functions",
     "type": "mc",
     "question": "화살표 함수(Arrow function) 작성 과정에 대한 설명으로 틀린 것은?",
@@ -1499,7 +1499,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-47",
-    "ref": "Basic Syntax 01 50제 #47",
+    "ref": "객관식 2세트 #47",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 일반 함수 표현식을 화살표 함수로 바르게 변환하지 못한 것은?",
@@ -1517,7 +1517,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-48",
-    "ref": "Basic Syntax 01 50제 #48",
+    "ref": "객관식 2세트 #48",
     "topic": "05-functions",
     "type": "mc",
     "question": "화살표 함수에서 인자가 없거나 쓰지 않는 매개변수를 표현하는 방법으로 문법적으로 올바른 것은?",
@@ -1532,7 +1532,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-49",
-    "ref": "Basic Syntax 01 50제 #49",
+    "ref": "객관식 2세트 #49",
     "topic": "05-functions",
     "type": "mc",
     "question": "화살표 함수에서 `return` 키워드와 중괄호를 생략하고 객체 `{ key: 'value' }`를 바로 반환하려고 할 때 올바른 작성법은?",
@@ -1547,7 +1547,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-50",
-    "ref": "Basic Syntax 01 50제 #50",
+    "ref": "객관식 2세트 #50",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음은 장바구니 총액을 계산하여 50,000원 이상이면 무료 배송을 안내하는 함수이다. 빈칸 `( A )`, `( B )`에 들어갈 키워드로 가장 알맞은 것은?",
@@ -1564,7 +1564,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-01",
-    "ref": "Basic Syntax 02 50제 #1",
+    "ref": "객관식 3세트 #1",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript의 객체(Object) 구조에 대한 설명으로 틀린 것은?",
@@ -1579,7 +1579,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-02",
-    "ref": "Basic Syntax 02 50제 #2",
+    "ref": "객관식 3세트 #2",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음과 같은 객체가 선언되어 있을 때, `'key with space'` 속성의 값에 접근하는 올바른 방법은?",
@@ -1596,7 +1596,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-03",
-    "ref": "Basic Syntax 02 50제 #3",
+    "ref": "객관식 3세트 #3",
     "topic": "06-objects",
     "type": "mc",
     "question": "객체 `user`에서 `name` 속성을 완전히 삭제하기 위해 사용하는 올바른 구문은?",
@@ -1611,7 +1611,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-04",
-    "ref": "Basic Syntax 02 50제 #4",
+    "ref": "객관식 3세트 #4",
     "topic": "06-objects",
     "type": "mc",
     "question": "객체의 속성 존재 여부를 확인하는 `in` 연산자에 대한 설명으로 옳지 않은 것은?",
@@ -1626,7 +1626,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-05",
-    "ref": "Basic Syntax 02 50제 #5",
+    "ref": "객관식 3세트 #5",
     "topic": "06-objects",
     "type": "mc",
     "question": "객체들이 기능을 물려받는 원본(부모 역할) 객체를 가리키며, 자신에게 없는 속성을 부모, 조상 순으로 찾아가는 메커니즘과 관련된 용어는?",
@@ -1641,7 +1641,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-06",
-    "ref": "Basic Syntax 02 50제 #6",
+    "ref": "객관식 3세트 #6",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 출력되는 값은?",
@@ -1658,7 +1658,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-07",
-    "ref": "Basic Syntax 02 50제 #7",
+    "ref": "객관식 3세트 #7",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript의 메서드(Method)에 대한 설명으로 가장 적절한 것은?",
@@ -1673,7 +1673,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-08",
-    "ref": "Basic Syntax 02 50제 #8",
+    "ref": "객관식 3세트 #8",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript의 `this` 키워드에 대한 설명으로 올바른 것은?",
@@ -1688,7 +1688,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-09",
-    "ref": "Basic Syntax 02 50제 #9",
+    "ref": "객관식 3세트 #9",
     "topic": "06-objects",
     "type": "mc",
     "question": "브라우저 환경에서 다음과 같이 일반 함수를 단순 호출했을 때 `this`가 가리키는 대상은?",
@@ -1705,7 +1705,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-10",
-    "ref": "Basic Syntax 02 50제 #10",
+    "ref": "객관식 3세트 #10",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드에서 `myObj2.myFunc()`를 호출했을 때 콘솔에 출력되는 `this`에 대한 설명으로 옳은 것은?",
@@ -1722,7 +1722,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-11",
-    "ref": "Basic Syntax 02 50제 #11",
+    "ref": "객관식 3세트 #11",
     "topic": "06-objects",
     "type": "mc",
     "question": "10번 문제의 코드에서 `forEach` 내부의 `this`가 `myObj2`를 가리키도록 해결하는 가장 적절한 방법은?",
@@ -1737,7 +1737,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-12",
-    "ref": "Basic Syntax 02 50제 #12",
+    "ref": "객관식 3세트 #12",
     "topic": "06-objects",
     "type": "mc",
     "question": "화살표 함수에서의 `this` 동작 원리로 올바른 것은?",
@@ -1752,7 +1752,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-13",
-    "ref": "Basic Syntax 02 50제 #13",
+    "ref": "객관식 3세트 #13",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript에서 `this`가 호출 방식에 따라 동적으로 결정됨으로써 얻는 장점은?",
@@ -1767,7 +1767,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-14",
-    "ref": "Basic Syntax 02 50제 #14",
+    "ref": "객관식 3세트 #14",
     "topic": "06-objects",
     "type": "mc",
     "question": "JSON(JavaScript Object Notation)에 대한 설명으로 틀린 것은?",
@@ -1782,7 +1782,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-15",
-    "ref": "Basic Syntax 02 50제 #15",
+    "ref": "객관식 3세트 #15",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript 객체를 JSON 형식의 문자열로 변환하는 메서드(A)와, JSON 문자열을 다시 JavaScript 객체로 변환하는 메서드(B)가 바르게 짝지어진 것은?",
@@ -1797,7 +1797,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-16",
-    "ref": "Basic Syntax 02 50제 #16",
+    "ref": "객관식 3세트 #16",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드에서 적용된 ES6 추가 객체 문법 2가지는 무엇인가?",
@@ -1814,7 +1814,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-17",
-    "ref": "Basic Syntax 02 50제 #17",
+    "ref": "객관식 3세트 #17",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드와 같이 대괄호(`[]`)를 이용해 변수의 값이나 표현식의 결과를 객체의 키로 동적 생성하는 문법의 명칭은?",
@@ -1831,7 +1831,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-18",
-    "ref": "Basic Syntax 02 50제 #18",
+    "ref": "객관식 3세트 #18",
     "topic": "06-objects",
     "type": "mc",
     "question": "객체 구조 분해 할당(Destructuring assignment)에 대한 설명으로 옳은 것은?",
@@ -1846,7 +1846,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-19",
-    "ref": "Basic Syntax 02 50제 #19",
+    "ref": "객관식 3세트 #19",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드의 실행 결과로 콘솔에 출력되는 `newObj`의 모습은?",
@@ -1863,7 +1863,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-20",
-    "ref": "Basic Syntax 02 50제 #20",
+    "ref": "객관식 3세트 #20",
     "topic": "06-objects",
     "type": "mc",
     "question": "전개 구문(`...`)을 이용한 객체 복사의 특징인 '얕은 복사(Shallow Copy)'의 의미로 가장 정확한 것은?",
@@ -1878,7 +1878,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-21",
-    "ref": "Basic Syntax 02 50제 #21",
+    "ref": "객관식 3세트 #21",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 코드의 출력 결과로 올바른 것은?",
@@ -1895,7 +1895,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-22",
-    "ref": "Basic Syntax 02 50제 #22",
+    "ref": "객관식 3세트 #22",
     "topic": "06-objects",
     "type": "mc",
     "question": "Optional chaining(`?.`) 연산자의 동작 방식으로 틀린 것은?",
@@ -1910,7 +1910,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-23",
-    "ref": "Basic Syntax 02 50제 #23",
+    "ref": "객관식 3세트 #23",
     "topic": "06-objects",
     "type": "mc",
     "question": "Optional chaining(`?.`) 사용 시 주의사항으로 옳지 않은 것은?",
@@ -1925,7 +1925,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-24",
-    "ref": "Basic Syntax 02 50제 #24",
+    "ref": "객관식 3세트 #24",
     "topic": "06-objects",
     "type": "mc",
     "question": "다음 중 에러(`TypeError` 또는 `ReferenceError`)가 발생하는 코드는? (단, `userData`는 `{ name: 'Alice' }`로 선언되어 있고, `undeclaredVar`는 선언되지 않음)",
@@ -1940,7 +1940,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-25",
-    "ref": "Basic Syntax 02 50제 #25",
+    "ref": "객관식 3세트 #25",
     "topic": "07-arrays",
     "type": "mc",
     "question": "객체(Object)와 비교했을 때 배열(Array)이 가지는 특징으로 틀린 것은?",
@@ -1955,7 +1955,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-26",
-    "ref": "Basic Syntax 02 50제 #26",
+    "ref": "객관식 3세트 #26",
     "topic": "07-arrays",
     "type": "mc",
     "question": "배열의 기본 조작 메서드(`push`, `pop`, `unshift`, `shift`)에 대한 설명으로 옳은 것은?",
@@ -1970,7 +1970,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-27",
-    "ref": "Basic Syntax 02 50제 #27",
+    "ref": "객관식 3세트 #27",
     "topic": "07-arrays",
     "type": "mc",
     "question": "배열이 클수록 모든 요소를 밀거나 당겨와야 해서 성능이 저하되므로 가급적 사용을 피해야 하는 메서드 조합은?",
@@ -1985,7 +1985,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-28",
-    "ref": "Basic Syntax 02 50제 #28",
+    "ref": "객관식 3세트 #28",
     "topic": "07-arrays",
     "type": "mc",
     "question": "다음 코드의 실행이 끝난 후 `names` 배열의 상태와 `result` 변수에 저장된 값은?",
@@ -2002,7 +2002,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-29",
-    "ref": "Basic Syntax 02 50제 #29",
+    "ref": "객관식 3세트 #29",
     "topic": "05-functions",
     "type": "mc",
     "question": "콜백 함수(Callback function)의 개념과 비유(진동벨)에 대한 설명으로 가장 거리가 먼 것은?",
@@ -2017,7 +2017,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-30",
-    "ref": "Basic Syntax 02 50제 #30",
+    "ref": "객관식 3세트 #30",
     "topic": "05-functions",
     "type": "mc",
     "question": "콜백 함수를 사용하는 이유로 적절하지 않은 것은?",
@@ -2032,7 +2032,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-31",
-    "ref": "Basic Syntax 02 50제 #31",
+    "ref": "객관식 3세트 #31",
     "topic": "05-functions",
     "type": "mc",
     "question": "다음 코드의 출력 순서로 올바른 것은?\n*(힌트: `setTimeout`의 타이머 콜백 동작 원리 참고)*",
@@ -2049,7 +2049,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-32",
-    "ref": "Basic Syntax 02 50제 #32",
+    "ref": "객관식 3세트 #32",
     "topic": "07-arrays",
     "type": "mc",
     "question": "`forEach`, `map`, `filter` 메서드의 콜백 함수가 공통적으로 전달받는 매개변수 3개의 순서로 올바른 것은?",
@@ -2064,7 +2064,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-33",
-    "ref": "Basic Syntax 02 50제 #33",
+    "ref": "객관식 3세트 #33",
     "topic": "07-arrays",
     "type": "mc",
     "question": "`forEach` 메서드에 대한 설명으로 틀린 것은?",
@@ -2079,7 +2079,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-34",
-    "ref": "Basic Syntax 02 50제 #34",
+    "ref": "객관식 3세트 #34",
     "topic": "07-arrays",
     "type": "mc",
     "question": "배열을 순회하다가 특정 조건을 만족하면 즉시 반복을 중단(`break`)해야 하는 상황에서 가장 권장되는 순회 방식은?",
@@ -2094,7 +2094,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-35",
-    "ref": "Basic Syntax 02 50제 #35",
+    "ref": "객관식 3세트 #35",
     "topic": "07-arrays",
     "type": "mc",
     "question": "`map` 메서드의 핵심 특징으로 옳지 않은 것은?",
@@ -2109,7 +2109,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-36",
-    "ref": "Basic Syntax 02 50제 #36",
+    "ref": "객관식 3세트 #36",
     "topic": "07-arrays",
     "type": "mc",
     "question": "다음 코드에서 `result1`과 `result2`에 저장되는 값으로 올바른 것은?",
@@ -2126,7 +2126,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-37",
-    "ref": "Basic Syntax 02 50제 #37",
+    "ref": "객관식 3세트 #37",
     "topic": "07-arrays",
     "type": "mc",
     "question": "Python의 `map` 함수와 JavaScript의 `map` 메서드를 비교한 설명으로 올바른 것은?",
@@ -2141,7 +2141,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-38",
-    "ref": "Basic Syntax 02 50제 #38",
+    "ref": "객관식 3세트 #38",
     "topic": "07-arrays",
     "type": "mc",
     "question": "`filter` 메서드에 대한 설명으로 옳은 것은?",
@@ -2156,7 +2156,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-39",
-    "ref": "Basic Syntax 02 50제 #39",
+    "ref": "객관식 3세트 #39",
     "topic": "07-arrays",
     "type": "mc",
     "question": "장바구니 목록(`products`)에서 `id`가 `3`인 상품을 삭제한 새로운 목록을 만들려고 할 때, 모던 JavaScript에서 주로 사용하는 불변성 유지 패턴은?",
@@ -2171,7 +2171,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-40",
-    "ref": "Basic Syntax 02 50제 #40",
+    "ref": "객관식 3세트 #40",
     "topic": "07-arrays",
     "type": "mc",
     "question": "다음 메서드 체이닝(Chaining) 코드의 최종 실행 결과(`result`)는?",
@@ -2188,7 +2188,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-41",
-    "ref": "Basic Syntax 02 50제 #41",
+    "ref": "객관식 3세트 #41",
     "topic": "07-arrays",
     "type": "mc",
     "question": "기타 유용한 Array Helper Methods인 `find`, `some`, `every`에 대한 설명으로 틀린 것은?",
@@ -2203,7 +2203,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-42",
-    "ref": "Basic Syntax 02 50제 #42",
+    "ref": "객관식 3세트 #42",
     "topic": "07-arrays",
     "type": "mc",
     "question": "배열에서의 전개 구문(`...`)에 대한 설명으로 틀린 것은?",
@@ -2218,7 +2218,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-43",
-    "ref": "Basic Syntax 02 50제 #43",
+    "ref": "객관식 3세트 #43",
     "topic": "07-arrays",
     "type": "mc",
     "question": "(심화) `reduce` 메서드의 구조와 동작 원리에 대한 설명으로 옳지 않은 것은?",
@@ -2235,7 +2235,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-44",
-    "ref": "Basic Syntax 02 50제 #44",
+    "ref": "객관식 3세트 #44",
     "topic": "07-arrays",
     "type": "mc",
     "question": "다음 `reduce`를 활용한 코드의 실행 결과로 올바른 것은?",
@@ -2252,7 +2252,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-45",
-    "ref": "Basic Syntax 02 50제 #45",
+    "ref": "객관식 3세트 #45",
     "topic": "07-arrays",
     "type": "mc",
     "question": "모던 웹 개발(Vue, React 등)에서 `for...of`보다 `forEach`, `map` 같은 배열 메서드를 더 선호하는 이유로 가장 적절한 것은?",
@@ -2267,7 +2267,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-46",
-    "ref": "Basic Syntax 02 50제 #46",
+    "ref": "객관식 3세트 #46",
     "topic": "07-arrays",
     "type": "mc",
     "question": "\"배열은 객체다\"라는 명제에 대한 설명으로 틀린 것은?",
@@ -2282,7 +2282,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-47",
-    "ref": "Basic Syntax 02 50제 #47",
+    "ref": "객관식 3세트 #47",
     "topic": "06-objects",
     "type": "mc",
     "question": "JavaScript의 클래스(Class) 기본 문법에 대한 설명으로 틀린 것은?",
@@ -2297,7 +2297,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-48",
-    "ref": "Basic Syntax 02 50제 #48",
+    "ref": "객관식 3세트 #48",
     "topic": "06-objects",
     "type": "mc",
     "question": "클래스의 특징과 동작 원리에 대한 설명으로 옳은 것은?",
@@ -2312,7 +2312,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-49",
-    "ref": "Basic Syntax 02 50제 #49",
+    "ref": "객관식 3세트 #49",
     "topic": "06-objects",
     "type": "mc",
     "question": "클래스로부터 새로운 인스턴스를 생성할 때 사용하는 `new` 연산자에 대한 설명으로 틀린 것은?",
@@ -2327,7 +2327,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-50",
-    "ref": "Basic Syntax 02 50제 #50",
+    "ref": "객관식 3세트 #50",
     "topic": "07-arrays",
     "type": "mc",
     "question": "여러 사람의 데이터를 효율적으로 다루기 위한 개념 연결이 순서대로 바르게 짝지어진 것은?\n- (가) 한 사람의 이름, 나이, 직업을 하나로 묶는 자료형\n- (나) 여러 사람의 데이터를 순서가 있는 목록으로 관리하는 자료구조\n- (다) 목록의 모든 사람에게 똑같은 작업을 일괄적으로 수행하는 고차 함수 모음",
@@ -2342,7 +2342,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-01",
-    "ref": "Controlling Event 50제 #1",
+    "ref": "객관식 4세트 #1",
     "topic": "09-events",
     "type": "mc",
     "question": "웹 페이지에서 발생하는 '이벤트(event)'에 대한 설명으로 가장 적절한 것은?",
@@ -2357,7 +2357,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-02",
-    "ref": "Controlling Event 50제 #2",
+    "ref": "객관식 4세트 #2",
     "topic": "09-events",
     "type": "mc",
     "question": "강의 자료의 '카페 키오스크' 비유에서 (ㄱ) 손님이 키오스크에서 하는 '주문', (ㄴ) 주문을 받는 '키오스크', (ㄷ) 주문에 맞춰 커피를 만드는 '바리스타의 행동'에 해당하는 개념을 바르게 짝지은 것은?",
@@ -2372,7 +2372,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-03",
-    "ref": "Controlling Event 50제 #3",
+    "ref": "객관식 4세트 #3",
     "topic": "09-events",
     "type": "mc",
     "question": "강의 자료의 '영화 서비스' 비유에서 보고 싶은 영화 포스터에 마우스를 올렸을 때, '작은 미리보기 영상이나 설명을 보여주는 반응'에 해당하는 것은?",
@@ -2387,7 +2387,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-04",
-    "ref": "Controlling Event 50제 #4",
+    "ref": "객관식 4세트 #4",
     "topic": "09-events",
     "type": "mc",
     "question": "DOM 요소와 이벤트에 대한 설명으로 틀린 것은?",
@@ -2402,7 +2402,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-05",
-    "ref": "Controlling Event 50제 #5",
+    "ref": "객관식 4세트 #5",
     "topic": "09-events",
     "type": "mc",
     "question": "DOM에서 이벤트가 발생했을 때 브라우저가 자동으로 생성하는 '이벤트 객체(event object)'에 대한 설명으로 옳은 것은?",
@@ -2417,7 +2417,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-06",
-    "ref": "Controlling Event 50제 #6",
+    "ref": "객관식 4세트 #6",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 핸들러(event handler)에 대한 설명으로 옳지 않은 것은?",
@@ -2432,7 +2432,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-07",
-    "ref": "Controlling Event 50제 #7",
+    "ref": "객관식 4세트 #7",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 중 `button` 요소에 클릭 이벤트 핸들러로 `handleClick` 함수를 등록하는 올바른 코드는?",
@@ -2447,7 +2447,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-08",
-    "ref": "Controlling Event 50제 #8",
+    "ref": "객관식 4세트 #8",
     "topic": "09-events",
     "type": "mc",
     "question": "`.addEventListener(type, handler)`에 함수를 등록할 때 `handleClick()`이 아닌 `handleClick`처럼 괄호 없이 전달하는 이유로 가장 적절한 것은?",
@@ -2462,7 +2462,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-09",
-    "ref": "Controlling Event 50제 #9",
+    "ref": "객관식 4세트 #9",
     "topic": "09-events",
     "type": "mc",
     "question": "`EventTarget.addEventListener(type, handler)` 구문의 구성 요소에 대한 설명으로 틀린 것은?",
@@ -2477,7 +2477,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-10",
-    "ref": "Controlling Event 50제 #10",
+    "ref": "객관식 4세트 #10",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 코드를 실행하고 화면의 버튼을 클릭했을 때 콘솔에 출력되는 결과로 옳은 것은?",
@@ -2494,7 +2494,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-11",
-    "ref": "Controlling Event 50제 #11",
+    "ref": "객관식 4세트 #11",
     "topic": "09-events",
     "type": "mc",
     "question": "일반 함수(`function () {}`)를 이벤트 핸들러로 사용했을 때, 함수 내부의 `this`가 가리키는 대상은?",
@@ -2509,7 +2509,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-12",
-    "ref": "Controlling Event 50제 #12",
+    "ref": "객관식 4세트 #12",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 코드에서 버튼을 클릭했을 때 `console.log(event.currentTarget === this)`의 출력 결과는?",
@@ -2526,7 +2526,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-13",
-    "ref": "Controlling Event 50제 #13",
+    "ref": "객관식 4세트 #13",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 중 웹에서의 이벤트 예시로 볼 수 없는 것은?",
@@ -2541,7 +2541,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-14",
-    "ref": "Controlling Event 50제 #14",
+    "ref": "객관식 4세트 #14",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 버블링(Event Bubbling)에 대한 설명으로 가장 정확한 것은?",
@@ -2556,7 +2556,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-15",
-    "ref": "Controlling Event 50제 #15",
+    "ref": "객관식 4세트 #15",
     "topic": "09-events",
     "type": "mc",
     "question": "다음과 같이 중첩된 HTML 구조에서 `form`, `div`, `p` 요소에 각각 클릭 이벤트 핸들러가 등록되어 있다. 사용자가 `<p>` 요소를 클릭했을 때 콘솔에 출력되는 순서로 옳은 것은?",
@@ -2573,7 +2573,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-16",
-    "ref": "Controlling Event 50제 #16",
+    "ref": "객관식 4세트 #16",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 버블링이 일어날 때, 이벤트가 전파되는 최종 종착지(가장 최상단의 조상 객체)에 해당하는 것은?",
@@ -2588,7 +2588,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-17",
-    "ref": "Controlling Event 50제 #17",
+    "ref": "객관식 4세트 #17",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 객체의 속성인 `event.target`과 `event.currentTarget`에 대한 설명으로 옳은 것은?",
@@ -2603,7 +2603,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-18",
-    "ref": "Controlling Event 50제 #18",
+    "ref": "객관식 4세트 #18",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 코드에서 최상위 요소인 `#outerouter`에만 클릭 이벤트 핸들러가 등록되어 있다. 사용자가 가장 안쪽의 `#inner` 요소를 클릭했을 때 콘솔에 출력되는 `currentTarget`과 `target`의 `id` 값으로 옳은 것은?",
@@ -2620,7 +2620,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-19",
-    "ref": "Controlling Event 50제 #19",
+    "ref": "객관식 4세트 #19",
     "topic": "09-events",
     "type": "mc",
     "question": "위 18번 문제의 코드에서 사용자가 중간 요소인 `#outer`를 클릭했을 때 콘솔에 출력되는 결과는?",
@@ -2635,7 +2635,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-20",
-    "ref": "Controlling Event 50제 #20",
+    "ref": "객관식 4세트 #20",
     "topic": "09-events",
     "type": "mc",
     "question": "위 18번 문제의 코드에서 `event.currentTarget`과 `event.target`의 출력 결과가 모두 `outerouter`로 같아지는 경우는 언제인가?",
@@ -2650,7 +2650,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-21",
-    "ref": "Controlling Event 50제 #21",
+    "ref": "객관식 4세트 #21",
     "topic": "09-events",
     "type": "mc",
     "question": "`#outerouter`에만 이벤트 핸들러를 연결했음에도 불구하고, 하위 요소인 `#inner`를 클릭했을 때 `#outerouter`의 핸들러가 실행되는 이유는 무엇인가?",
@@ -2665,7 +2665,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-22",
-    "ref": "Controlling Event 50제 #22",
+    "ref": "객관식 4세트 #22",
     "topic": "09-events",
     "type": "mc",
     "question": "표준 DOM 이벤트에서 이벤트 전파의 3단계를 순서대로 바르게 나열한 것은?",
@@ -2680,7 +2680,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-23",
-    "ref": "Controlling Event 50제 #23",
+    "ref": "객관식 4세트 #23",
     "topic": "09-events",
     "type": "mc",
     "question": "테이블(`<table>`) 내부의 `<td>` 요소를 클릭했을 때 일어나는 '캡처링(Capturing)' 단계의 전파 경로로 올바른 것은?",
@@ -2695,7 +2695,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-24",
-    "ref": "Controlling Event 50제 #24",
+    "ref": "객관식 4세트 #24",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 캡처링(Capturing)과 버블링(Bubbling)에 대한 설명으로 틀린 것은?",
@@ -2710,7 +2710,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-25",
-    "ref": "Controlling Event 50제 #25",
+    "ref": "객관식 4세트 #25",
     "topic": "09-events",
     "type": "mc",
     "question": "다음과 같이 `<div>` 내부에 수많은 `<button>` 요소가 있을 때, 각 버튼마다 개별적으로 핸들러를 등록하지 않고 공통 조상인 `<div>`에 핸들러를 단 하나만 등록하여 처리하는 기법과 관련된 설명으로 가장 적절한 것은?",
@@ -2727,7 +2727,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-26",
-    "ref": "Controlling Event 50제 #26",
+    "ref": "객관식 4세트 #26",
     "topic": "09-events",
     "type": "mc",
     "question": "위 25번과 같이 공통 조상인 `<div>`에 클릭 이벤트 핸들러를 등록했을 때, 실제로 사용자가 클릭한 `<button>` 요소가 무엇인지 알아내기 위해 참조해야 하는 속성은?",
@@ -2742,7 +2742,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-27",
-    "ref": "Controlling Event 50제 #27",
+    "ref": "객관식 4세트 #27",
     "topic": "09-events",
     "type": "mc",
     "question": "다음은 버튼을 클릭할 때마다 숫자를 1씩 증가시켜 화면에 출력하는 실습 코드이다. 빈칸 `( ㄱ )`에 들어갈 코드로 알맞은 것은?",
@@ -2759,7 +2759,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-28",
-    "ref": "Controlling Event 50제 #28",
+    "ref": "객관식 4세트 #28",
     "topic": "09-events",
     "type": "mc",
     "question": "위 27번 코드에서 `let initialValue = 0`을 `clickHandler` 함수 외부(전역)가 아니라 `clickHandler` 함수 내부의 첫 줄에 선언한다면 어떤 현상이 발생하는가?",
@@ -2774,7 +2774,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-29",
-    "ref": "Controlling Event 50제 #29",
+    "ref": "객관식 4세트 #29",
     "topic": "09-events",
     "type": "mc",
     "question": "`<input type=\"text\">` 요소에 사용자가 텍스트를 입력할 때마다 실시간으로 값을 감지하여 `<p>` 요소에 출력하려고 한다. 이때 `addEventListener`의 첫 번째 인자로 지정해야 할 가장 적절한 이벤트 타입과, 입력된 값을 가져오는 속성으로 바르게 짝지은 것은?",
@@ -2789,7 +2789,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-30",
-    "ref": "Controlling Event 50제 #30",
+    "ref": "객관식 4세트 #30",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 핸들러 내부에서 `console.log(event)`로 이벤트 객체 전체를 출력한 뒤 개발자 도구 콘솔에서 해당 객체를 펼쳐 확인했을 때, `currentTarget` 속성의 값이 `null`로 표시되는 이유로 옳은 것은?",
@@ -2804,7 +2804,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-31",
-    "ref": "Controlling Event 50제 #31",
+    "ref": "객관식 4세트 #31",
     "topic": "09-events",
     "type": "mc",
     "question": "위 30번과 같은 특징 때문에, 개발자 도구에서 `event` 객체를 펼쳐서 이벤트 발생 요소 이후의 하위 속성 값들을 확인하고 싶을 때 강의 자료에서 권장하는 방법은?",
@@ -2819,7 +2819,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-32",
-    "ref": "Controlling Event 50제 #32",
+    "ref": "객관식 4세트 #32",
     "topic": "09-events",
     "type": "mc",
     "question": "다음은 버튼을 클릭할 때마다 `<h1>` 요소에 `.blue` 클래스를 추가하거나 제거하여 글자 색상을 토글(켜고 끄기)하는 코드이다. 주석 처리된 세 가지 방법 중 **클릭할 때마다 파란색과 기본색이 번갈아 바뀌는(토글되는) 동작**을 수행하는 방법을 모두 고른 것은?",
@@ -2836,7 +2836,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-33",
-    "ref": "Controlling Event 50제 #33",
+    "ref": "객관식 4세트 #33",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 Todo 프로그램 실습 코드에서 사용자가 할 일을 입력하고 `+` 버튼을 눌렀을 때 실행되는 과정에 대한 설명으로 틀린 것은?",
@@ -2853,7 +2853,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-34",
-    "ref": "Controlling Event 50제 #34",
+    "ref": "객관식 4세트 #34",
     "topic": "09-events",
     "type": "mc",
     "question": "Todo 프로그램에서 사용자가 아무것도 입력하지 않거나 공백(스페이스바)만 입력한 상태에서 `+` 버튼을 눌렀을 때 빈 항목이 추가되는 것을 방지하고 경고창을 띄우려고 한다. 다음 코드의 빈칸 `( ㄱ )`에 들어갈 가장 적절한 조건문은?",
@@ -2870,7 +2870,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-35",
-    "ref": "Controlling Event 50제 #35",
+    "ref": "객관식 4세트 #35",
     "topic": "09-events",
     "type": "mc",
     "question": "위 34번 코드에서 만약 사용자가 입력창에 공백 문자만 3번(`\"   \"`) 입력하고 버튼을 클릭했을 때 일어나는 동작은?",
@@ -2885,7 +2885,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-36",
-    "ref": "Controlling Event 50제 #36",
+    "ref": "객관식 4세트 #36",
     "topic": "09-events",
     "type": "mc",
     "question": "로또 번호 생성기 실습에서 사용한 외부 라이브러리인 `lodash`에 대한 설명으로 옳은 것은?",
@@ -2900,7 +2900,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-37",
-    "ref": "Controlling Event 50제 #37",
+    "ref": "객관식 4세트 #37",
     "topic": "09-events",
     "type": "mc",
     "question": "로또 번호 생성기 실습에서 `lodash`를 활용해 1부터 45까지의 숫자 배열을 생성하고, 그중 중복 없이 6개의 랜덤 번호를 추출하는 코드로 올바른 것은?",
@@ -2915,7 +2915,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-38",
-    "ref": "Controlling Event 50제 #38",
+    "ref": "객관식 4세트 #38",
     "topic": "09-events",
     "type": "mc",
     "question": "`lodash`의 `_.sampleSize([1, 2, 3], 4)`를 실행했을 때의 반환 결과에 대한 설명으로 옳은 것은? (단, 강의 자료의 lodash 문서 예시 기준)",
@@ -2930,7 +2930,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-39",
-    "ref": "Controlling Event 50제 #39",
+    "ref": "객관식 4세트 #39",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 로또 번호 생성기 코드에서 '행운 번호 받기' 버튼을 **3번** 클릭했을 때, `<div>` 요소 내부에 생성되는 `<ul>` 요소의 총개수와 전체 `<li>` 요소의 총개수는?",
@@ -2947,7 +2947,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-40",
-    "ref": "Controlling Event 50제 #40",
+    "ref": "객관식 4세트 #40",
     "topic": "09-events",
     "type": "mc",
     "question": "위 39번 코드에서 `const ulTag = document.createElement('ul')`을 `getLottery` 함수 내부가 아니라 함수 외부(1번 주석 위치)에 선언해 두었다면, 버튼을 여러 번 클릭할 때 어떤 현상이 발생하는가?",
@@ -2962,7 +2962,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-41",
-    "ref": "Controlling Event 50제 #41",
+    "ref": "객관식 4세트 #41",
     "topic": "09-events",
     "type": "mc",
     "question": "`event.preventDefault()` 메서드에 대한 설명으로 가장 적절한 것은?",
@@ -2977,7 +2977,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-42",
-    "ref": "Controlling Event 50제 #42",
+    "ref": "객관식 4세트 #42",
     "topic": "09-events",
     "type": "mc",
     "question": "강의 자료에서 `event.preventDefault()`를 설명하기 위해 사용한 일상생활의 비유로 알맞은 것은?",
@@ -2992,7 +2992,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-43",
-    "ref": "Controlling Event 50제 #43",
+    "ref": "객관식 4세트 #43",
     "topic": "09-events",
     "type": "mc",
     "question": "웹 페이지의 `<h1>중요한 내용</h1>` 텍스트를 사용자가 드래그하여 복사(`Ctrl + C` 등)하지 못하도록 막고 경고창을 띄우려고 한다. 다음 코드의 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 내용으로 옳은 것은?",
@@ -3009,7 +3009,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-44",
-    "ref": "Controlling Event 50제 #44",
+    "ref": "객관식 4세트 #44",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 HTML `<form>`에서 사용자가 Submit 버튼을 클릭했을 때 페이지가 새로고침되는 기본 동작을 막기 위한 스크립트 코드로 가장 올바른 것은?",
@@ -3026,7 +3026,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-45",
-    "ref": "Controlling Event 50제 #45",
+    "ref": "객관식 4세트 #45",
     "topic": "09-events",
     "type": "mc",
     "question": "`<form>` 요소를 제출(submit)할 때 `event.preventDefault()`를 호출하지 않으면 기본적으로 어떤 동작이 발생하는가?",
@@ -3041,7 +3041,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-46",
-    "ref": "Controlling Event 50제 #46",
+    "ref": "객관식 4세트 #46",
     "topic": "09-events",
     "type": "mc",
     "question": "`addEventListener`의 이벤트 핸들러로 화살표 함수(`() => {}`)를 사용했을 때의 특징으로 옳은 것은?",
@@ -3056,7 +3056,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-47",
-    "ref": "Controlling Event 50제 #47",
+    "ref": "객관식 4세트 #47",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 코드에서 두 버튼을 각각 클릭했을 때 콘솔에 출력되는 `( ㄱ )`과 `( ㄴ )`의 결과를 바르게 짝지은 것은?",
@@ -3073,7 +3073,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-48",
-    "ref": "Controlling Event 50제 #48",
+    "ref": "객관식 4세트 #48",
     "topic": "09-events",
     "type": "mc",
     "question": "이벤트 핸들러를 화살표 함수로 작성하면서도, 이벤트 리스너가 연결된 DOM 요소(일반 함수에서의 `this`와 동일한 대상)에 안전하게 접근하기 위한 해결책으로 옳은 것은?",
@@ -3088,7 +3088,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-49",
-    "ref": "Controlling Event 50제 #49",
+    "ref": "객관식 4세트 #49",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 중 이벤트와 관련된 주요 개념 및 메서드의 연결이 바르지 않은 것은?",
@@ -3103,7 +3103,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-50",
-    "ref": "Controlling Event 50제 #50",
+    "ref": "객관식 4세트 #50",
     "topic": "09-events",
     "type": "mc",
     "question": "다음 중 JavaScript 이벤트 제어에 대한 종합적인 설명으로 가장 올바른 것은?",
@@ -3118,7 +3118,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e01",
-    "ref": "DOM 서술 10제 #1",
+    "ref": "서술형 1세트 #1",
     "topic": "01-history",
     "question": "[웹 표준과 브라우저 전쟁]\n1차·2차 브라우저 전쟁을 거치며 '웹 표준(Web Standards)'의 중요성이 크게 대두되었습니다. 웹 표준이 중요한 이유를 **사용자 관점**과 **개발자 관점**으로 나누어 서술하시오.",
     "type": "essay",
@@ -3144,7 +3144,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e02",
-    "ref": "DOM 서술 10제 #2",
+    "ref": "서술형 1세트 #2",
     "topic": "01-history",
     "question": "[ECMAScript와 JavaScript]\n`ECMAScript`와 `JavaScript`를 혼용해서 부르는 경우가 많지만 두 개념에는 명확한 차이가 있습니다. 두 개념의 정의와 상호 관계를 설명하시오.",
     "type": "essay",
@@ -3166,7 +3166,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e03",
-    "ref": "DOM 서술 10제 #3",
+    "ref": "서술형 1세트 #3",
     "topic": "02-variables",
     "question": "[변수 선언 키워드 선택 가이드]\nJavaScript(ES6 이후)에서 변수를 선언할 때 `let`보다 `const`를 기본으로 사용하는 것을 권장하는 이유 2가지를 서술하고, 어떤 경우에 `let`을 사용해야 하는지 설명하시오.",
     "type": "essay",
@@ -3192,7 +3192,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e04",
-    "ref": "DOM 서술 10제 #4",
+    "ref": "서술형 1세트 #4",
     "topic": "02-variables",
     "question": "[블록 스코프와 함수 스코프]\n`let`·`const`가 가지는 스코프와 `var`가 가지는 스코프의 명칭을 각각 쓰시오. 또한 두 스코프가 변수의 접근 범위를 제한하는 기준(`if`, `for`, `function` 등)이 어떻게 다른지 비교하여 서술하시오.",
     "type": "essay",
@@ -3218,7 +3218,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e05",
-    "ref": "DOM 서술 10제 #5",
+    "ref": "서술형 1세트 #5",
     "topic": "08-dom",
     "question": "[DOM의 개념과 역할]\n웹 브라우저 환경에서 **DOM(Document Object Model)**이란 무엇인지 정의하고, 정적인 HTML 문서와 JavaScript 사이에서 DOM이 어떤 역할을 수행하는지 서술하시오.",
     "type": "essay",
@@ -3240,7 +3240,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e06",
-    "ref": "DOM 서술 10제 #6",
+    "ref": "서술형 1세트 #6",
     "topic": "08-dom",
     "question": "[DOM 요소 선택 메서드 비교]\nDOM 요소를 선택하는 메서드인 `document.querySelector()`와 `document.querySelectorAll()`의 차이점을 **선택 대상의 개수**와 **반환값(일치하는 요소가 없을 때 포함)**을 중심으로 비교하여 서술하시오.",
     "type": "essay",
@@ -3266,7 +3266,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e07",
-    "ref": "DOM 서술 10제 #7",
+    "ref": "서술형 1세트 #7",
     "topic": "08-dom",
     "question": "[DOM 요소 생성 및 삽입 원리]\nJavaScript에서 `document.createElement('h1')` 코드만 실행했을 때 웹 페이지 화면에 즉시 요소가 나타나지 않는 이유를 설명하고, 이를 실제 화면에 보이게 하려면 어떤 조치를 취해야 하는지 메서드를 포함하여 서술하시오.",
     "type": "essay",
@@ -3288,7 +3288,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e08",
-    "ref": "DOM 서술 10제 #8",
+    "ref": "서술형 1세트 #8",
     "topic": "08-dom",
     "question": "[Node와 Element의 관계, NodeList의 특징]\nDOM 트리를 구성하는 `Node`와 `Element`의 포함 관계(\"모든 A는 B이지만...\")를 설명하시오. 그리고 `querySelectorAll()`로 반환된 `NodeList`가 추후 DOM에 발생하는 변경사항을 어떻게 처리하는지(실시간 반영 여부) 서술하시오.",
     "type": "essay",
@@ -3310,7 +3310,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e09",
-    "ref": "DOM 서술 10제 #9",
+    "ref": "서술형 1세트 #9",
     "topic": "08-dom",
     "question": "[클래스를 활용한 다크 모드 구현 원리]\n웹사이트에서 여러 스타일을 한 번에 변경하는 '다크 모드' 버튼을 구현하고자 합니다. `style` 프로퍼티를 직접 수정하는 대신 클래스를 제어하는 방식을 사용할 때, 어떤 선택/조작 메서드를 사용하여 어떤 순서(3단계)로 동작하게 되는지 서술하시오.",
     "type": "essay",
@@ -3332,7 +3332,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-e10",
-    "ref": "DOM 서술 10제 #10",
+    "ref": "서술형 1세트 #10",
     "topic": "02-variables",
     "question": "[호이스팅(Hoisting)과 TDZ]\n변수의 생성 3단계를 명시하고, `var`와 `let`(또는 `const`)이 모두 호이스팅됨에도 불구하고 선언문 이전에 변수에 접근했을 때 `var`는 `undefined`를 반환하고 `let`은 `ReferenceError`를 발생시키는 이유를 **초기화 시점**과 **TDZ(일시적 사각지대)** 개념을 사용하여 서술하시오.",
     "type": "essay",
@@ -3358,7 +3358,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s01",
-    "ref": "DOM 주관식 20제 #1",
+    "ref": "주관식 1세트 #1",
     "topic": "01-history",
     "question": "JavaScript의 파편화를 막기 위해 1997년 Ecma International이 정의한 '표준화된 스크립트 프로그래밍 언어 명세'의 이름은 무엇인가요?",
     "type": "short",
@@ -3369,7 +3369,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s02",
-    "ref": "DOM 주관식 20제 #2",
+    "ref": "주관식 1세트 #2",
     "topic": "01-history",
     "question": "2008년 출시된 Google Chrome 브라우저에 탑재되어 웹을 단순 문서에서 애플리케이션 플랫폼으로 바꾸는 데 결정적인 역할을 한 고성능 자바스크립트 엔진의 이름은 무엇인가요?",
     "type": "short",
@@ -3381,7 +3381,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s03",
-    "ref": "DOM 주관식 20제 #3",
+    "ref": "주관식 1세트 #3",
     "topic": "02-variables",
     "question": "식별자(변수명) Naming Convention 중 변수, 객체, 함수 이름을 작성할 때 사용하는 표기법(예: `userName`, `phoneNumber`)과 상수(constants)를 작성할 때 사용하는 표기법을 각각 쓰시오.",
     "type": "short",
@@ -3407,7 +3407,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s04",
-    "ref": "DOM 주관식 20제 #4",
+    "ref": "주관식 1세트 #4",
     "topic": "02-variables",
     "question": "ES6에서 추가된 변수 선언 키워드 2가지를 쓰고, 두 키워드의 '재할당 가능 여부' 차이를 간단히 서술하시오.",
     "type": "short",
@@ -3417,7 +3417,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s05",
-    "ref": "DOM 주관식 20제 #5",
+    "ref": "주관식 1세트 #5",
     "topic": "08-dom",
     "question": "웹 페이지(Document)를 구조화된 객체 트리 구조로 제공하여, 프로그래밍 언어가 페이지의 구조, 스타일, 내용 등에 접근하고 동적으로 조작할 수 있도록 하는 모델을 무엇이라고 부르나요? (약어 또는 전체 영문명)",
     "type": "short",
@@ -3429,7 +3429,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s06",
-    "ref": "DOM 주관식 20제 #6",
+    "ref": "주관식 1세트 #6",
     "topic": "08-dom",
     "question": "DOM 트리의 최상위 객체이자, HTML 문서의 모든 콘텐츠에 접근하고 조작할 수 있는 진입점 역할을 하는 객체의 이름은 무엇인가요?",
     "type": "short",
@@ -3440,7 +3440,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s07",
-    "ref": "DOM 주관식 20제 #7",
+    "ref": "주관식 1세트 #7",
     "topic": "08-dom",
     "question": "브라우저가 문자열로 작성된 HTML 문서를 읽고 해석(구문 분석)하여 DOM Tree로 만드는 과정을 무엇이라고 부르나요?",
     "type": "short",
@@ -3453,7 +3453,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s08",
-    "ref": "DOM 주관식 20제 #8",
+    "ref": "주관식 1세트 #8",
     "topic": "08-dom",
     "question": "제공한 CSS 선택자(selector)를 만족하는 첫 번째 `element` 객체 하나를 반환하며, 일치하는 요소가 없다면 `null`을 반환하는 `document` 객체의 메서드는 무엇인가요?",
     "type": "short",
@@ -3465,7 +3465,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s09",
-    "ref": "DOM 주관식 20제 #9",
+    "ref": "주관식 1세트 #9",
     "topic": "08-dom",
     "question": "`document.querySelectorAll(selector)` 메서드를 실행했을 때 반환되는 객체의 타입(자료형 이름)은 무엇이며, 이 반환값이 DOM의 추후 변경사항을 실시간으로 반영하는지 여부(O/X)를 쓰시오.",
     "type": "short",
@@ -3487,7 +3487,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s10",
-    "ref": "DOM 주관식 20제 #10",
+    "ref": "주관식 1세트 #10",
     "topic": "08-dom",
     "question": "다음 코드에서 `h1Tag` 요소에 `'dark-mode'`라는 클래스가 있으면 제거하고(반환값 `false`), 없으면 추가하는(반환값 `true`) 메서드를 빈칸에 알맞게 채우시오.",
     "code": "const h1Tag = document.querySelector('.heading')\nh1Tag.____________.____________('dark-mode')",
@@ -3504,7 +3504,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s11",
-    "ref": "DOM 주관식 20제 #11",
+    "ref": "주관식 1세트 #11",
     "topic": "08-dom",
     "question": "다음은 `<a>` 태그의 `href` 속성 값을 조회, 수정, 삭제하는 코드입니다. 빈칸 `( A )`, `( B )`, `( C )`에 들어갈 알맞은 메서드 이름을 각각 쓰시오.",
     "code": "const aTag = document.querySelector('a')\n\n// 1. href 속성 값 조회\nconsole.log(aTag.(   A   )('href'))\n\n// 2. href 속성 값을 'https://www.naver.com/'으로 설정(수정)\naTag.(   B   )('href', 'https://www.naver.com/')\n\n// 3. href 속성 제거\naTag.(   C   )('href')",
@@ -3534,7 +3534,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s12",
-    "ref": "DOM 주관식 20제 #12",
+    "ref": "주관식 1세트 #12",
     "topic": "08-dom",
     "question": "다음과 같은 HTML 요소가 있을 때, 아래 JavaScript 코드를 실행하면 콘솔에 출력되는 문자열은 무엇인가요?",
     "code": "<p class=\"greeting\">Hello <b>World</b>!</p>\n<script>\n  const pTag = document.querySelector('.greeting')\n  console.log(pTag.textContent)\n</script>",
@@ -3547,7 +3547,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s13",
-    "ref": "DOM 주관식 20제 #13",
+    "ref": "주관식 1세트 #13",
     "topic": "08-dom",
     "question": "메모리에 새로운 `<h1>` 요소를 생성한 뒤, 이를 선택한 `<div>` 요소의 마지막 자식 노드로 삽입하려고 합니다. 빈칸 `( A )`와 `( B )`에 들어갈 알맞은 메서드 이름을 쓰시오.",
     "code": "const h1Tag = document.(   A   )('h1')\nh1Tag.textContent = '제목'\n\nconst divTag = document.querySelector('div')\ndivTag.(   B   )(h1Tag)",
@@ -3571,7 +3571,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s14",
-    "ref": "DOM 주관식 20제 #14",
+    "ref": "주관식 1세트 #14",
     "topic": "08-dom",
     "question": "부모 노드(`divTag`)에서 특정 자식 노드(`pTag`)를 제거하는 메서드는 무엇이며, 이 메서드로 제거된 노드를 변수에 담아두었을 때 재사용이 가능한지 여부(가능/불가능)를 쓰시오.",
     "type": "short",
@@ -3594,7 +3594,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s15",
-    "ref": "DOM 주관식 20제 #15",
+    "ref": "주관식 1세트 #15",
     "topic": "08-dom",
     "question": "JavaScript의 `style` 프로퍼티를 사용하여 `pTag` 요소의 CSS `font-size` 속성을 `'2rem'`으로 직접 변경하는 코드를 작성하시오.",
     "code": "const pTag = document.querySelector('p')\n// 아래에 한 줄의 코드를 작성하시오.",
@@ -3607,7 +3607,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s16",
-    "ref": "DOM 주관식 20제 #16",
+    "ref": "주관식 1세트 #16",
     "topic": "08-dom",
     "question": "DOM 트리의 기본 구성 단위는 `Node`이고, HTML 태그 요소를 나타내는 특별한 유형의 노드는 `Element`입니다. 다음 문장의 빈칸에 `Node`와 `Element`를 알맞게 넣으시오.\n\"모든 `(   A   )`는 `(   B   )`이지만, 모든 `(   B   )`가 `(   A   )`인 것은 아니다.\"",
     "type": "short",
@@ -3629,7 +3629,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s17",
-    "ref": "DOM 주관식 20제 #17",
+    "ref": "주관식 1세트 #17",
     "topic": "02-variables",
     "question": "자바스크립트에서 문장 마지막에 세미콜론(`;`)을 작성하지 않아도 엔진이 규칙에 따라 자동으로 세미콜론을 삽입해 주는 기능의 약어(또는 명칭)는 무엇인가요?",
     "type": "short",
@@ -3643,7 +3643,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s18",
-    "ref": "DOM 주관식 20제 #18",
+    "ref": "주관식 1세트 #18",
     "topic": "02-variables",
     "question": "`let`, `const` 키워드로 선언한 변수가 가지는 스코프(유효 범위)와 `var` 키워드로 선언한 변수가 가지는 스코프의 이름을 각각 쓰시오.",
     "type": "short",
@@ -3669,7 +3669,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s19",
-    "ref": "DOM 주관식 20제 #19",
+    "ref": "주관식 1세트 #19",
     "topic": "02-variables",
     "question": "코드가 실행되기 전, 변수 및 함수 선언문이 해당 스코프의 최상단으로 끌어올려지는 듯한 현상을 무엇이라고 부르며, 자바스크립트 엔진이 변수를 생성하는 3단계를 순서대로 쓰시오.\n- 변수 생성 3단계: `(       ) ➔ (       ) ➔ (       )`",
     "type": "short",
@@ -3696,7 +3696,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-s20",
-    "ref": "DOM 주관식 20제 #20",
+    "ref": "주관식 1세트 #20",
     "topic": "02-variables",
     "question": "다음 두 코드(A, B)를 실행했을 때 콘솔에 출력되는 결과(또는 발생하는 에러)를 각각 쓰고, 코드 B에서 그러한 결과가 나타나는 이유를 'TDZ(일시적 사각지대)' 개념을 포함하여 간단히 서술하시오.",
     "code": "// [코드 A]\nconsole.log(name)\nvar name = '홍길동'\n\n// [코드 B]\nconsole.log(age)\nlet age = 30",
@@ -3708,7 +3708,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b01",
-    "ref": "DOM 빈칸 20제 #1",
+    "ref": "빈칸 1세트 #1",
     "topic": "02-variables",
     "question": "[변수 선언 키워드]\n재할당이 필요한 변수와 재할당이 불가능한 상수를 선언하는 코드입니다. 빈칸 `( A )`와 `( B )`에 알맞은 변수 선언 키워드를 쓰시오.",
     "code": "// 1. 재할당이 가능한 변수 선언\n(   A   ) changeableNum = 10\nchangeableNum = 20\n\n// 2. 재할당이 불가능한 상수 선언 (기본 권장 키워드)\n(   B   ) fixedNum = 100",
@@ -3732,7 +3732,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b02",
-    "ref": "DOM 빈칸 20제 #2",
+    "ref": "빈칸 1세트 #2",
     "topic": "02-variables",
     "question": "[블록 스코프와 출력 결과]\n다음 코드를 실행했을 때 콘솔에 출력되는 값 `( A )`와 `( B )`를 쓰시오.",
     "code": "let x = 1\nif (x === 1) {\n  let x = 2\n  console.log(x)  // 출력 결과: (   A   )\n}\nconsole.log(x)    // 출력 결과: (   B   )",
@@ -3756,7 +3756,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b03",
-    "ref": "DOM 빈칸 20제 #3",
+    "ref": "빈칸 1세트 #3",
     "topic": "02-variables",
     "question": "[외부 JavaScript 파일 연결]\nHTML 문서에서 외부에 작성된 `hello.js` 파일을 불러와 실행하려고 합니다. 빈칸 `( A )`와 `( B )`에 들어갈 태그명과 속성명을 쓰시오.",
     "code": "<body>\n  <(   A   ) (   B   )=\"hello.js\"></(   A   )>\n</body>",
@@ -3780,7 +3780,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b04",
-    "ref": "DOM 빈칸 20제 #4",
+    "ref": "빈칸 1세트 #4",
     "topic": "08-dom",
     "question": "[브라우저 탭 제목 변경]\nDOM 트리의 최상위 객체를 사용하여 현재 웹 페이지의 `<title>`(브라우저 탭 제목)을 `'Hello :)'`로 변경하는 코드입니다. 빈칸 `( A )`와 `( B )`를 채우시오.",
     "code": "(   A   ).(   B   ) = 'Hello :)'",
@@ -3804,7 +3804,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b05",
-    "ref": "DOM 빈칸 20제 #5",
+    "ref": "빈칸 1세트 #5",
     "topic": "08-dom",
     "question": "[단일 요소와 복수 요소 선택 메서드]\nHTML 문서에서 첫 번째 `.content` 요소 하나만 선택하는 메서드 `( A )`와, 모든 `.content` 요소를 `NodeList`로 선택하는 메서드 `( B )`를 쓰시오.",
     "code": "// 1. 일치하는 첫 번째 요소 한 개 선택\nconst firstContent = document.(   A   )('.content')\n\n// 2. 일치하는 모든 요소를 NodeList로 선택\nconst allContents = document.(   B   )('.content')",
@@ -3828,7 +3828,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b06",
-    "ref": "DOM 빈칸 20제 #6",
+    "ref": "빈칸 1세트 #6",
     "topic": "08-dom",
     "question": "[CSS 선택자를 활용한 DOM 선택]\n다음 HTML 구조에서 주석의 조건에 맞는 CSS 선택자(selector) 문자열을 빈칸 `( A )`와 `( B )`에 작성하시오.",
     "code": "<body>\n  <h1 class=\"heading\">DOM 선택</h1>\n  <ul>\n    <li>list1</li>\n    <li>list2</li>\n  </ul>\n  <script>\n    // 1. 클래스가 'heading'인 요소 선택\n    const heading = document.querySelector('(   A   )')\n\n    // 2. ul 태그의 직계 자식인 모든 li 태그 선택\n    const listItems = document.querySelectorAll('(   B   )')\n  </script>\n</body>",
@@ -3852,7 +3852,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b07",
-    "ref": "DOM 빈칸 20제 #7",
+    "ref": "빈칸 1세트 #7",
     "topic": "08-dom",
     "question": "[NodeList 순회하기]\n`querySelectorAll()`로 선택한 `NodeList`의 모든 요소를 순회하며 콘솔에 출력하려고 합니다. `NodeList`에서 사용 가능한 배열 메서드를 빈칸 `( A )`에 쓰시오.",
     "code": "const items = document.querySelectorAll('.item')\n\nitems.(   A   )((item) => {\n  console.log(item)\n})",
@@ -3870,7 +3870,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b08",
-    "ref": "DOM 빈칸 20제 #8",
+    "ref": "빈칸 1세트 #8",
     "topic": "08-dom",
     "question": "[클래스 추가 및 제거]\n선택한 `h1Tag` 요소의 클래스 목록(`DOMTokenList`)에 접근하여 `'red'` 클래스를 추가하고 다시 제거하는 코드입니다. 빈칸 `( A )`, `( B )`, `( C )`를 채우시오.",
     "code": "const h1Tag = document.querySelector('.heading')\n\n// 'red' 클래스 추가\nh1Tag.(   A   ).(   B   )('red')\n\n// 'red' 클래스 제거\nh1Tag.(   A   ).(   C   )('red')",
@@ -3900,7 +3900,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b09",
-    "ref": "DOM 빈칸 20제 #9",
+    "ref": "빈칸 1세트 #9",
     "topic": "08-dom",
     "question": "[다크 모드 클래스 토글]\n요소에 `'dark-mode'` 클래스가 존재하면 제거(`false` 반환)하고, 존재하지 않으면 추가(`true` 반환)하는 코드입니다. 빈칸 `( A )`에 들어갈 메서드 이름을 쓰시오.",
     "code": "const bodyTag = document.querySelector('body')\nbodyTag.classList.(   A   )('dark-mode')",
@@ -3918,7 +3918,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b10",
-    "ref": "DOM 빈칸 20제 #10",
+    "ref": "빈칸 1세트 #10",
     "topic": "08-dom",
     "question": "[일반 속성 조회 및 수정]\n`<a>` 태그의 `href` 속성 값을 조회한 뒤, 새로운 주소로 변경하는 코드입니다. 빈칸 `( A )`와 `( B )`에 들어갈 메서드를 쓰시오.",
     "code": "const aTag = document.querySelector('a')\n\n// 1. 현재 href 속성 값 조회\nconsole.log(aTag.(   A   )('href'))\n\n// 2. href 속성 값을 'https://www.naver.com/'으로 변경\naTag.(   B   )('href', 'https://www.naver.com/')",
@@ -3942,7 +3942,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b11",
-    "ref": "DOM 빈칸 20제 #11",
+    "ref": "빈칸 1세트 #11",
     "topic": "08-dom",
     "question": "[일반 속성 제거 및 반환값 확인]\n`<a>` 태그에서 `href` 속성을 제거한 후 다시 조회했을 때 콘솔에 출력되는 값 `( B )`와 제거 메서드 `( A )`를 쓰시오.",
     "code": "const aTag = document.querySelector('a')\n\n// href 속성 제거\naTag.(   A   )('href')\n\n// 제거 후 조회 결과 출력\nconsole.log(aTag.getAttribute('href')) // 출력 결과: (   B   )",
@@ -3966,7 +3966,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b12",
-    "ref": "DOM 빈칸 20제 #12",
+    "ref": "빈칸 1세트 #12",
     "topic": "08-dom",
     "question": "[HTML 텍스트 콘텐츠 조작]\nHTML 태그를 제외한 순수한 텍스트 데이터만 읽고 수정하는 프로퍼티 `( A )`와, 첫 번째 `console.log`의 출력 결과 `( B )`를 쓰시오.",
     "code": "<h1 class=\"heading\">안녕 <b>자바스크립트</b></h1>\n<script>\n  const h1Tag = document.querySelector('.heading')\n  \n  console.log(h1Tag.(   A   )) // 출력 결과: '(   B   )'\n  \n  h1Tag.(   A   ) = '내용 수정 완료'\n</script>",
@@ -3990,7 +3990,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b13",
-    "ref": "DOM 빈칸 20제 #13",
+    "ref": "빈칸 1세트 #13",
     "topic": "08-dom",
     "question": "[새로운 DOM 요소 생성 및 삽입]\n메모리에 새로운 `<h1>` 요소를 생성하고 텍스트를 넣은 뒤, `<div>` 요소의 마지막 자식으로 문서에 삽입하는 코드입니다. 빈칸 `( A )`와 `( B )`에 들어갈 메서드를 쓰시오.",
     "code": "// 1. 메모리에 <h1> 요소 생성\nconst h1Tag = document.(   A   )('h1')\nh1Tag.textContent = '제목'\n\n// 2. <div>의 마지막 자식으로 삽입하여 화면에 표시\nconst divTag = document.querySelector('div')\ndivTag.(   B   )(h1Tag)",
@@ -4014,7 +4014,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b14",
-    "ref": "DOM 빈칸 20제 #14",
+    "ref": "빈칸 1세트 #14",
     "topic": "08-dom",
     "question": "[DOM 자식 요소 삭제]\n부모 요소인 `divTag`에서 자식 요소인 `pTag`를 제거하는 코드입니다. 빈칸 `( A )`에 들어갈 메서드 이름을 쓰시오.",
     "code": "const divTag = document.querySelector('div')\nconst pTag = document.querySelector('p')\n\n// divTag에서 자식 노드 pTag 제거\nconst removedNode = divTag.(   A   )(pTag)",
@@ -4032,7 +4032,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b15",
-    "ref": "DOM 빈칸 20제 #15",
+    "ref": "빈칸 1세트 #15",
     "topic": "08-dom",
     "question": "[인라인 Style 프로퍼티 조작]\nJavaScript를 이용해 `<p>` 태그의 글자 색상(`color`), 글자 크기(`font-size`), 테두리(`border`) 스타일을 직접 변경하는 코드입니다. 빈칸 `( A )`와 `( B )`에 들어갈 프로퍼티 이름을 쓰시오.",
     "code": "const pTag = document.querySelector('p')\n\npTag.(   A   ).color = 'crimson'\npTag.(   A   ).(   B   ) = '2rem'\npTag.(   A   ).border = '1px solid black'",
@@ -4056,7 +4056,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b16",
-    "ref": "DOM 빈칸 20제 #16",
+    "ref": "빈칸 1세트 #16",
     "topic": "08-dom",
     "question": "[종합: 할 일 목록(li) 동적 추가하기]\n`<ul>` 태그 안에 `'자바스크립트 공부하기'`라는 텍스트를 가진 `<li class=\"todo-item\">` 요소를 만들어 추가하는 전체 과정입니다. 빈칸 `( A )`, `( B )`, `( C )`, `( D )`를 채우시오.",
     "code": "const ulTag = document.querySelector('ul')\n\n// 1. li 요소 생성\nconst liTag = document.(   A   )('li')\n\n// 2. 텍스트 내용 설정\nliTag.(   B   ) = '자바스크립트 공부하기'\n\n// 3. 'todo-item' 클래스 추가\nliTag.classList.(   C   )('todo-item')\n\n// 4. ul 태그의 마지막 자식으로 추가\nulTag.(   D   )(liTag)",
@@ -4092,7 +4092,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b17",
-    "ref": "DOM 빈칸 20제 #17",
+    "ref": "빈칸 1세트 #17",
     "topic": "08-dom",
     "question": "[종합: 이미지(img) 속성 변경하기]\n선택한 `<img>` 태그의 이미지 경로(`src`)를 `'profile.jpg'`로 설정하고, 기존에 있던 `'hidden'` 클래스를 제거하여 화면에 보이게 하는 코드입니다. 빈칸 `( A )`와 `( B )`를 채우시오.",
     "code": "const imgTag = document.querySelector('img')\n\n// 1. src 속성을 'profile.jpg'로 설정\nimgTag.(   A   )('src', 'profile.jpg')\n\n// 2. 'hidden' 클래스 제거\nimgTag.classList.(   B   )('hidden')",
@@ -4116,7 +4116,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b18",
-    "ref": "DOM 빈칸 20제 #18",
+    "ref": "빈칸 1세트 #18",
     "topic": "02-variables",
     "question": "[var와 함수 스코프]\n다음 코드를 실행했을 때 첫 번째 콘솔 출력값 `( A )`와 두 번째 콘솔에서 발생하는 에러의 종류 `( B )`를 쓰시오.",
     "code": "function foo() {\n  var x = 1\n  console.log(x) // 출력 결과: (   A   )\n}\nfoo()\nconsole.log(x)   // 에러 발생: (   B   ): x is not defined",
@@ -4140,7 +4140,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b19",
-    "ref": "DOM 빈칸 20제 #19",
+    "ref": "빈칸 1세트 #19",
     "topic": "02-variables",
     "question": "[var와 let의 호이스팅 결과 비교]\n변수를 선언하기 전에 접근했을 때 `var`와 `let`의 실행 결과를 보여주는 코드입니다. 빈칸 `( A )`에 출력되는 값과 `( B )`에 발생하는 에러의 종류를 쓰시오.",
     "code": "// 1. var의 호이스팅 (선언 + 초기화 동시 진행)\nconsole.log(name) // 출력 결과: (   A   )\nvar name = '홍길동'\n\n// 2. let의 호이스팅 (TDZ로 인해 초기화 전 접근 불가)\nconsole.log(age)  // 에러 발생: (   B   ): Cannot access 'age' before initialization\nlet age = 30",
@@ -4164,7 +4164,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1111-b20",
-    "ref": "DOM 빈칸 20제 #20",
+    "ref": "빈칸 1세트 #20",
     "topic": "02-variables",
     "question": "[함수 선언식의 호이스팅]\n함수를 선언하기 전에 호출했음에도 정상적으로 `'Hello!'`가 출력되도록 빈칸 `( A )`에 알맞은 키워드를 작성하시오.",
     "code": "sayHello() // 'Hello!' 정상 출력\n\n(   A   ) sayHello() {\n  console.log('Hello!')\n}",
@@ -4182,7 +4182,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e01",
-    "ref": "Basic Syntax 01 서술 10제 #1",
+    "ref": "서술형 2세트 #1",
     "topic": "03-types-operators",
     "question": "[데이터 타입] JavaScript의 데이터 타입인 '원시 자료형(Primitive type)'과 '참조 자료형(Reference type)'의 차이점을 ① 저장 방식, ② 변경 가능성(불변/가변), ③ 변수 간 할당 시 복사되는 대상 및 원본에 미치는 영향을 기준으로 비교하여 서술하시오.",
     "type": "essay",
@@ -4204,7 +4204,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e02",
-    "ref": "Basic Syntax 01 서술 10제 #2",
+    "ref": "서술형 2세트 #2",
     "topic": "03-types-operators",
     "question": "[null과 undefined] JavaScript에서 '값이 없음'을 나타내는 `null`과 `undefined`의 의미 차이를 설명하고, `typeof null`을 실행했을 때 `'object'`가 반환되는 역사적 배경(이유)을 서술하시오.",
     "type": "essay",
@@ -4230,7 +4230,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e03",
-    "ref": "Basic Syntax 01 서술 10제 #3",
+    "ref": "서술형 2세트 #3",
     "topic": "03-types-operators",
     "question": "[비교 연산자] 동등 연산자(`==`)와 일치 연산자(`===`)의 동작 방식 차이를 설명하고, 실무에서 특별한 경우를 제외하고 일치 연산자(`===`)의 사용을 권장하는 이유를 `[1] == [1]` 또는 `'1' == 1`과 같은 예시와 함께 서술하시오.",
     "type": "essay",
@@ -4252,7 +4252,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e04",
-    "ref": "Basic Syntax 01 서술 10제 #4",
+    "ref": "서술형 2세트 #4",
     "topic": "03-types-operators",
     "question": "[논리 연산자] 논리 연산자 `&&`(AND)와 `||`(OR)에서 지원하는 '단축 평가(Short-circuit evaluation)'의 개념을 설명하고, 아래 두 코드가 각각 어떤 과정을 거쳐 해당 값을 반환하는지 서술하시오.",
     "code": "console.log(0 && 1) // 0\nconsole.log(4 || 7) // 4",
@@ -4276,7 +4276,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e05",
-    "ref": "Basic Syntax 01 서술 10제 #5",
+    "ref": "서술형 2세트 #5",
     "topic": "04-control",
     "question": "[반복문 비교] `for...in` 반복문과 `for...of` 반복문의 순회 대상과 반환 값의 차이를 설명하고, 일반 객체(`{ korea: '서울' }`)에 `for...of`를 사용했을 때 발생하는 현상과 그 이유를 서술하시오.",
     "type": "essay",
@@ -4298,7 +4298,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e06",
-    "ref": "Basic Syntax 01 서술 10제 #6",
+    "ref": "서술형 2세트 #6",
     "topic": "04-control",
     "question": "[배열과 반복문] 배열(`Array`)을 순회할 때 `for...in` 반복문을 사용하지 않고 일반 `for` 문이나 `for...of` 반복문을 사용할 것을 권장하는 이유를 3가지 측면에서 서술하시오.",
     "type": "essay",
@@ -4320,7 +4320,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e07",
-    "ref": "Basic Syntax 01 서술 10제 #7",
+    "ref": "서술형 2세트 #7",
     "topic": "04-control",
     "question": "[반복문과 변수 선언] 일반 `for` 문(`for (const i = 0; i < 5; i++)`)에서는 제어 변수 선언에 `const`를 사용하면 에러가 발생하지만, `for...in`이나 `for...of` 반복문(`for (const item of arr)`)에서는 `const`를 사용해도 에러가 발생하지 않는 이유를 비교하여 서술하시오.",
     "type": "essay",
@@ -4338,7 +4338,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e08",
-    "ref": "Basic Syntax 01 서술 10제 #8",
+    "ref": "서술형 2세트 #8",
     "topic": "05-functions",
     "question": "[함수 정의와 호이스팅] '함수 선언식'과 '함수 표현식'의 정의 방식 및 선언 전 호출 가능 여부(호이스팅 및 TDZ 관점)의 차이를 설명하고, 개발 시 '함수 표현식' 사용을 더 권장하는 이유를 2가지 이상 서술하시오.",
     "type": "essay",
@@ -4360,7 +4360,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e09",
-    "ref": "Basic Syntax 01 서술 10제 #9",
+    "ref": "서술형 2세트 #9",
     "topic": "05-functions",
     "question": "[매개변수와 전개 구문] 함수에서 점 세 개(`...`) 기호를 사용하는 '나머지 매개변수(Rest parameter)'와 함수 호출 시의 '전개 구문(Spread syntax)'의 역할 차이를 설명하고, 나머지 매개변수를 작성할 때 지켜야 할 문법적 규칙 2가지를 서술하시오.",
     "type": "essay",
@@ -4386,7 +4386,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-e10",
-    "ref": "Basic Syntax 01 서술 10제 #10",
+    "ref": "서술형 2세트 #10",
     "topic": "05-functions",
     "question": "[화살표 함수] 일반 함수 표현식을 '화살표 함수(Arrow function)'로 축약하는 3단계를 설명하고, 중괄호와 `return`을 생략한 화살표 함수에서 객체(`{ key: 'value' }`)를 반환할 때 주의해야 할 점과 해결 방법을 서술하시오.",
     "type": "essay",
@@ -4408,7 +4408,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s01",
-    "ref": "Basic Syntax 01 주관식 20제 #1",
+    "ref": "주관식 2세트 #1",
     "topic": "03-types-operators",
     "question": "JavaScript의 데이터 타입은 크게 원시 자료형(Primitive type)과 참조 자료형(Reference type)으로 나뉩니다. 변수 간 할당 시 원시 자료형은 '무엇'이 복사되고, 참조 자료형은 '무엇'이 복사되는지 각각 쓰시오.",
     "type": "short",
@@ -4434,7 +4434,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s02",
-    "ref": "Basic Syntax 01 주관식 20제 #2",
+    "ref": "주관식 2세트 #2",
     "topic": "03-types-operators",
     "question": "다음 코드를 실행했을 때 콘솔에 출력될 결과를 순서대로 쓰시오.",
     "code": "let b = 10\nlet c = b\nc = 20\n\nconst obj1 = { name: 'Alice', age: 30 }\nconst obj2 = obj1\nobj2.age = 40\n\nconsole.log(b, c)\nconsole.log(obj1.age, obj2.age)",
@@ -4458,7 +4458,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s03",
-    "ref": "Basic Syntax 01 주관식 20제 #3",
+    "ref": "주관식 2세트 #3",
     "topic": "03-types-operators",
     "question": "백틱(`` ` ``)을 사용하여 문자열을 정의하며, 여러 줄에 걸쳐 문자열을 작성하거나 `${expression}` 형태로 변수를 문자열 안에 바로 연결할 수 있는 ES6+의 문자열 작성 방식을 무엇이라고 하는지 쓰시오.",
     "type": "short",
@@ -4471,7 +4471,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s04",
-    "ref": "Basic Syntax 01 주관식 20제 #4",
+    "ref": "주관식 2세트 #4",
     "topic": "03-types-operators",
     "question": "JavaScript에서 '값이 없음'을 나타내는 두 가지 원시 자료형 중, (1) 개발자가 의도적으로 값이 없음을 나타낼 때 사용하는 것과 (2) 시스템이나 엔진이 값이 할당되지 않았음을 나타낼 때 사용하는 것을 각각 구분하여 쓰시오.",
     "type": "short",
@@ -4493,7 +4493,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s05",
-    "ref": "Basic Syntax 01 주관식 20제 #5",
+    "ref": "주관식 2세트 #5",
     "topic": "03-types-operators",
     "question": "다음 세 줄의 코드를 실행했을 때 콘솔에 출력되는 결과를 순서대로 쓰시오.",
     "code": "console.log(typeof null)\nconsole.log(typeof undefined)\nconsole.log(typeof NaN)",
@@ -4504,7 +4504,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s06",
-    "ref": "Basic Syntax 01 주관식 20제 #6",
+    "ref": "주관식 2세트 #6",
     "topic": "03-types-operators",
     "question": "다음 코드를 실행했을 때 콘솔에 출력되는 `x`, `y`, `m`, `n`의 값을 순서대로 쓰시오.",
     "code": "let x = 5\nconst y = x++\n\nlet m = 5\nconst n = --m\n\nconsole.log(x, y, m, n)",
@@ -4518,7 +4518,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s07",
-    "ref": "Basic Syntax 01 주관식 20제 #7",
+    "ref": "주관식 2세트 #7",
     "topic": "03-types-operators",
     "question": "동등 연산자(`==`)와 일치 연산자(`===`)의 가장 핵심적인 차이점을 '타입 변환'이라는 키워드를 포함하여 서술하시오.",
     "type": "short",
@@ -4527,7 +4527,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s08",
-    "ref": "Basic Syntax 01 주관식 20제 #8",
+    "ref": "주관식 2세트 #8",
     "topic": "03-types-operators",
     "question": "논리 연산자의 단축 평가(Short-circuit evaluation)가 적용된 다음 코드의 출력 결과를 순서대로 쓰시오.",
     "code": "console.log(1 && 0)\nconsole.log(4 && 7)\nconsole.log(0 || 1)\nconsole.log(4 || 7)",
@@ -4538,7 +4538,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s09",
-    "ref": "Basic Syntax 01 주관식 20제 #9",
+    "ref": "주관식 2세트 #9",
     "topic": "04-control",
     "question": "다음 `if...else` 조건문을 동일한 동작을 하는 '삼항 연산자' 표현식 한 줄로 변환하여 빈칸을 채우시오.",
     "code": "const age = 20\nlet message\nif (age >= 18) {\n  message = '성인'\n} else {\n  message = '미성년자'\n}\n\n// 삼항 연산자로 변환:\nconst message = _______________________________________",
@@ -4554,7 +4554,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s10",
-    "ref": "Basic Syntax 01 주관식 20제 #10",
+    "ref": "주관식 2세트 #10",
     "topic": "04-control",
     "question": "객체의 열거 가능한 속성(property)의 '키(key)'를 순회할 때 사용하는 반복문과, 배열 등 반복 가능한(iterable) 객체의 '값(value)'을 순회할 때 사용하는 반복문의 이름을 각각 쓰시오.",
     "type": "short",
@@ -4576,7 +4576,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s11",
-    "ref": "Basic Syntax 01 주관식 20제 #11",
+    "ref": "주관식 2세트 #11",
     "topic": "04-control",
     "question": "다음 두 반복문을 실행했을 때 콘솔에 출력되는 결과를 각각 쓰시오.",
     "code": "const arr = ['a', 'b', 'c']\n\n// (1) 첫 번째 반복문\nfor (const i in arr) {\n  console.log(i)\n}\n\n// (2) 두 번째 반복문\nfor (const i of arr) {\n  console.log(i)\n}",
@@ -4587,7 +4587,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s12",
-    "ref": "Basic Syntax 01 주관식 20제 #12",
+    "ref": "주관식 2세트 #12",
     "topic": "04-control",
     "question": "일반 객체 `const capitals = { korea: '서울', japan: '도쿄' }`에 대해 `for (const capital of capitals)`를 실행하면 어떤 에러가 발생하는지 에러의 종류(이름)와 그 이유를 간단히 쓰시오.",
     "type": "short",
@@ -4596,7 +4596,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s13",
-    "ref": "Basic Syntax 01 주관식 20제 #13",
+    "ref": "주관식 2세트 #13",
     "topic": "04-control",
     "question": "배열을 순회할 때 `for...in` 반복문을 사용하지 않고 일반 `for` 문이나 `for...of` 문을 사용할 것을 권장하는 이유를 2가지 이상 서술하시오.",
     "type": "short",
@@ -4605,7 +4605,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s14",
-    "ref": "Basic Syntax 01 주관식 20제 #14",
+    "ref": "주관식 2세트 #14",
     "topic": "04-control",
     "question": "일반 `for` 문(`for (let i = 0; i < 5; i++)`)에서는 제어 변수 선언에 `const`를 사용하면 에러가 발생하지만, `for...in`이나 `for...of` 반복문에서는 `const`를 사용해도 에러가 발생하지 않는 이유를 서술하시오.",
     "type": "short",
@@ -4614,7 +4614,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s15",
-    "ref": "Basic Syntax 01 주관식 20제 #15",
+    "ref": "주관식 2세트 #15",
     "topic": "05-functions",
     "question": "자바스크립트 엔진이 코드 실행 전 변수와 함수 선언을 먼저 등록해서, 선언이 스코프 최상단으로 끌어올려진 것처럼 보이는 현상을 무엇이라고 하는지 쓰시오.",
     "type": "short",
@@ -4627,7 +4627,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s16",
-    "ref": "Basic Syntax 01 주관식 20제 #16",
+    "ref": "주관식 2세트 #16",
     "topic": "05-functions",
     "question": "함수 선언식과 달리, `const`나 `let`을 사용한 함수 표현식을 선언 전에 호출하면 `ReferenceError`가 발생합니다. 변수가 호이스팅되었음에도 선언한 줄에 도달하기 전까지 접근할 수 없는 이 구간을 무엇이라고 부르는지 쓰시오. (약어 또는 전체 명칭)",
     "type": "short",
@@ -4641,7 +4641,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s17",
-    "ref": "Basic Syntax 01 주관식 20제 #17",
+    "ref": "주관식 2세트 #17",
     "topic": "05-functions",
     "question": "함수 정의 시 정해지지 않은 개수의 인자들을 하나의 '배열'로 모아서 받기 위해 사용하는 매개변수 문법의 명칭을 쓰고, 아래 코드의 출력 결과를 쓰시오.",
     "code": "const myFunc = function (a, b, ...rest) {\n  return [a, b, rest]\n}\nconsole.log(myFunc(10, 20, 30, 40))\nconsole.log(myFunc(10, 20))",
@@ -4673,7 +4673,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s18",
-    "ref": "Basic Syntax 01 주관식 20제 #18",
+    "ref": "주관식 2세트 #18",
     "topic": "05-functions",
     "question": "다음 두 함수를 호출했을 때 콘솔에 출력되는 결과를 각각 쓰시오.",
     "code": "const threeArgs = function (p1, p2, p3) {\n  return [p1, p2, p3]\n}\nconsole.log(threeArgs(1, 2))\n\nconst twoArgs = function (p1, p2) {\n  return [p1, p2]\n}\nconsole.log(twoArgs(1, 2, 3, 4))",
@@ -4697,7 +4697,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s19",
-    "ref": "Basic Syntax 01 주관식 20제 #19",
+    "ref": "주관식 2세트 #19",
     "topic": "05-functions",
     "question": "다음 함수 표현식을 인자의 소괄호 `()`, 본문의 중괄호 `{}`, 그리고 `return` 키워드를 모두 생략한 가장 간결한 형태의 '화살표 함수(Arrow function)'로 다시 작성하시오.",
     "code": "const greet = function (name) {\n  return `hello, ${name}`\n}",
@@ -4711,7 +4711,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-s20",
-    "ref": "Basic Syntax 01 주관식 20제 #20",
+    "ref": "주관식 2세트 #20",
     "topic": "05-functions",
     "question": "화살표 함수에서 `return` 키워드와 중괄호를 생략하고 객체 `{ key: 'value' }`를 즉시 반환하려고 할 때, 아래와 같이 작성하면 `undefined`가 반환됩니다. 올바르게 객체를 반환하도록 코드를 수정하시오.",
     "code": "// 잘못된 코드\nconst returnObject = () => { key: 'value' }",
@@ -4725,7 +4725,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b01",
-    "ref": "Basic Syntax 01 빈칸 20제 #1",
+    "ref": "빈칸 2세트 #1",
     "topic": "03-types-operators",
     "question": "다음은 참조 자료형(객체)의 주소 복사 특성을 확인하는 코드입니다. 마지막 두 줄의 `console.log` 결과가 모두 `40`이 출력되도록 빈칸 `( A )`, `( B )`를 채우시오.",
     "code": "const obj1 = { name: 'Alice', age: 30 }\nconst obj2 = (  A  )\n\nobj2.(  B  ) = 40\n\nconsole.log(obj1.age) // 40\nconsole.log(obj2.age) // 40",
@@ -4749,7 +4749,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b02",
-    "ref": "Basic Syntax 01 빈칸 20제 #2",
+    "ref": "빈칸 2세트 #2",
     "topic": "03-types-operators",
     "question": "템플릿 리터럴(Template literals)을 사용하여 콘솔에 `'홍길동은 100세입니다.'`가 출력되도록 빈칸 `( A )`, `( B )`, `( C )`에 알맞은 기호와 표현식을 채우시오.",
     "code": "const age = 100\nconst message = ( A )홍길동은 (   B   )세입니다.( C )\n\nconsole.log(message) // 홍길동은 100세입니다.",
@@ -4783,7 +4783,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b03",
-    "ref": "Basic Syntax 01 빈칸 20제 #3",
+    "ref": "빈칸 2세트 #3",
     "topic": "03-types-operators",
     "question": "변수 `x`에는 개발자가 의도적으로 '값이 없음'을 나타내는 값을 할당하고, 변수 `y`는 선언만 하여 시스템이 '값이 할당되지 않음'을 나타내도록 빈칸 `( A )`와 주석의 출력 결과 `( B )`를 채우시오.",
     "code": "let x = (   A   )\nlet y\n\nconsole.log(x) // null\nconsole.log(y) // (   B   )",
@@ -4807,7 +4807,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b04",
-    "ref": "Basic Syntax 01 빈칸 20제 #4",
+    "ref": "빈칸 2세트 #4",
     "topic": "03-types-operators",
     "question": "`null`과 `undefined`의 타입을 확인하는 코드입니다. 실행 결과 주석의 빈칸 `( A )`, `( B )`를 채우시오.",
     "code": "console.log(typeof null)      // \"(   A   )\"\nconsole.log(typeof undefined) // \"(   B   )\"",
@@ -4831,7 +4831,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b05",
-    "ref": "Basic Syntax 01 빈칸 20제 #5",
+    "ref": "빈칸 2세트 #5",
     "topic": "03-types-operators",
     "question": "단축 할당 연산자를 사용하여 주석에 적힌 순서대로 변수 `a`의 값이 출력되도록 빈칸 `( A )` ~ `( D )`에 알맞은 연산자를 채우시오.",
     "code": "let a = 0\n\na ( A ) 10\nconsole.log(a) // 10\n\na ( B ) 3\nconsole.log(a) // 7\n\na ( C ) 10\nconsole.log(a) // 70\n\na ( D ) 7\nconsole.log(a) // 0",
@@ -4867,7 +4867,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b06",
-    "ref": "Basic Syntax 01 빈칸 20제 #6",
+    "ref": "빈칸 2세트 #6",
     "topic": "03-types-operators",
     "question": "전위/후위 증가 연산자의 위치에 따라 주석과 같은 결과가 출력되도록 빈칸 `( A )`, `( B )`를 채우시오. (변수 `x`와 `m`에 각각 `++` 연산자를 결합하여 작성)",
     "code": "let x = 3\nconst y = (  A  )\nconsole.log(x, y) // 4 3\n\nlet m = 3\nconst n = (  B  )\nconsole.log(m, n) // 4 4",
@@ -4891,7 +4891,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b07",
-    "ref": "Basic Syntax 01 빈칸 20제 #7",
+    "ref": "빈칸 2세트 #7",
     "topic": "03-types-operators",
     "question": "첫 번째 줄은 암묵적 타입 변환이 일어나는 '동등 연산자'를 사용하고, 두 번째 줄은 타입까지 엄격하게 비교하는 '일치 연산자'를 사용하도록 빈칸 `( A )`, `( B )`에 알맞은 연산자를 채우시오.",
     "code": "console.log('1' (  A  ) 1) // true\nconsole.log('1' (  B  ) 1) // false",
@@ -4915,7 +4915,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b08",
-    "ref": "Basic Syntax 01 빈칸 20제 #8",
+    "ref": "빈칸 2세트 #8",
     "topic": "04-control",
     "question": "다음은 `name` 변수의 값에 따라 다른 환영 메시지를 출력하는 조건문입니다. 빈칸 `( A )`, `( B )`에 알맞은 조건문 키워드를 채우시오.",
     "code": "const name = 'customer'\n\nif (name === 'admin') {\n  console.log('관리자님 환영해요')\n} (   A   ) (name === 'customer') {\n  console.log('고객님 환영해요')\n} (  B  ) {\n  console.log(`반갑습니다. ${name}님`)\n}",
@@ -4939,7 +4939,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b09",
-    "ref": "Basic Syntax 01 빈칸 20제 #9",
+    "ref": "빈칸 2세트 #9",
     "topic": "04-control",
     "question": "변수 `age`가 `18` 이상이면 `'성인'`, 그렇지 않으면 `'미성년자'`를 반환하는 삼항 연산자 식을 완성하기 위해 빈칸 `( A )`, `( B )`에 알맞은 기호를 채우시오.",
     "code": "const age = 20\nconst message = (age >= 18) ( A ) '성인' ( B ) '미성년자'\nconsole.log(message) // '성인'",
@@ -4963,7 +4963,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b10",
-    "ref": "Basic Syntax 01 빈칸 20제 #10",
+    "ref": "빈칸 2세트 #10",
     "topic": "04-control",
     "question": "`0`부터 `5`까지의 숫자를 순서대로 콘솔에 출력하는 `while` 반복문과 `for` 반복문입니다. 빈칸 `( A )`, `( B )`, `( C )`에 알맞은 코드를 채우시오.",
     "code": "// 1) while 문\nlet i = 0\nwhile ((   A   )) {\n  console.log(i)\n  i += 1\n}\n\n// 2) for 문\nfor ((   B   ); i < 6; (  C  )) {\n  console.log(i)\n}",
@@ -4997,7 +4997,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b11",
-    "ref": "Basic Syntax 01 빈칸 20제 #11",
+    "ref": "빈칸 2세트 #11",
     "topic": "04-control",
     "question": "객체 `fruits`의 키(`a`, `b`)와 값(`apple`, `banana`)을 모두 출력하기 위해 빈칸 `( A )`에 알맞은 반복문 키워드를 넣고, 빈칸 `( B )`에 객체의 값에 접근하는 표현식을 채우시오.",
     "code": "const fruits = { a: 'apple', b: 'banana' }\n\nfor (const property ( A ) fruits) {\n  console.log(property)   // a, b\n  console.log((    B    )) // apple, banana\n}",
@@ -5021,7 +5021,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b12",
-    "ref": "Basic Syntax 01 빈칸 20제 #12",
+    "ref": "빈칸 2세트 #12",
     "topic": "04-control",
     "question": "배열 `numbers`의 요소 값(`0, 1, 2, 3`)을 순서대로 순회하며 출력하도록 빈칸 `( A )`, `( B )`를 채우시오. (단, 블록 내부에서 재할당하지 않으므로 상수 선언 키워드를 사용할 것)",
     "code": "const numbers = [0, 1, 2, 3]\n\nfor ((  A  ) number ( B ) numbers) {\n  console.log(number) // 0, 1, 2, 3\n}",
@@ -5045,7 +5045,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b13",
-    "ref": "Basic Syntax 01 빈칸 20제 #13",
+    "ref": "빈칸 2세트 #13",
     "topic": "04-control",
     "question": "다음은 장바구니 상품 목록(`items`)을 순회하며 총액을 계산하는 함수입니다. 빈칸 `( A )`, `( B )`, `( C )`에 알맞은 코드를 채우시오.",
     "code": "const calculateCartTotal = function (items) {\n  let total = 0\n\n  for (const item ( A ) items) {\n    total ( B ) item.price * item.quantity\n  }\n\n  if (total ( C ) 50000) {\n    console.log(`총액: ${total}원 (무료 배송)`)\n  } else {\n    console.log(`총액: ${total}원`)\n  }\n}",
@@ -5075,7 +5075,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b14",
-    "ref": "Basic Syntax 01 빈칸 20제 #14",
+    "ref": "빈칸 2세트 #14",
     "topic": "05-functions",
     "question": "두 수를 더하는 `add` 함수를 '함수 선언식'으로 정의하고, 두 수를 빼는 `sub` 함수를 익명 함수를 활용한 '함수 표현식'으로 정의하려고 합니다. 빈칸 `( A )`, `( B )`를 채우시오.",
     "code": "// 1) 함수 선언식\n(       A       ) (num1, num2) {\n  return num1 + num2\n}\n\n// 2) 함수 표현식\nconst sub = (       B       ) (num1, num2) {\n  return num1 - num2\n}",
@@ -5099,7 +5099,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b15",
-    "ref": "Basic Syntax 01 빈칸 20제 #15",
+    "ref": "빈칸 2세트 #15",
     "topic": "05-functions",
     "question": "함수 호출 시 인자를 전달하지 않았을 때 `'Anonymous'`라는 기본값이 사용되도록 기본 함수 매개변수(Default function parameter)를 설정하는 빈칸 `( A )`를 채우시오.",
     "code": "const greeting = function ((          A          )) {\n  return `Hi ${name}`\n}\n\nconsole.log(greeting()) // Hi Anonymous",
@@ -5117,7 +5117,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b16",
-    "ref": "Basic Syntax 01 빈칸 20제 #16",
+    "ref": "빈칸 2세트 #16",
     "topic": "05-functions",
     "question": "첫 번째와 두 번째 인자는 각각 `param1`, `param2`로 받고, 그 외에 정해지지 않은 개수의 나머지 인자들은 `restParams`라는 배열로 모아서 받도록 빈칸 `( A )`를 채우시오.",
     "code": "const myFunc = function (param1, param2, (       A       )) {\n  return [param1, param2, restParams]\n}\n\nconsole.log(myFunc(1, 2, 3, 4, 5)) // [1, 2, [3, 4, 5]]\nconsole.log(myFunc(1, 2))          // [1, 2, []]",
@@ -5135,7 +5135,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b17",
-    "ref": "Basic Syntax 01 빈칸 20제 #17",
+    "ref": "빈칸 2세트 #17",
     "topic": "05-functions",
     "question": "배열 `numbers`의 요소들을 전개 구문(Spread syntax)을 사용해 함수 `myFunc`의 개별 인자로 확장하여 전달하도록 빈칸 `( A )`를 채우시오.",
     "code": "function myFunc(x, y, z) {\n  return x + y + z\n}\n\nlet numbers = [1, 2, 3]\n\nconsole.log(myFunc((     A     ))) // 6",
@@ -5153,7 +5153,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b18",
-    "ref": "Basic Syntax 01 빈칸 20제 #18",
+    "ref": "빈칸 2세트 #18",
     "topic": "05-functions",
     "question": "일반 함수 표현식을 3단계에 걸쳐 가장 간결한 화살표 함수로 줄이는 과정입니다. 빈칸 `( A )`, `( B )`, `( C )`를 채우시오.",
     "code": "const arrow1 = function (name) {\n  return `hello, ${name}`\n}\n\n// 1단계: function 키워드 제거 후 화살표 작성\nconst arrow2 = (name) ( A ) { return `hello, ${name}` }\n\n// 2단계: 인자가 1개이므로 소괄호 제거\nconst arrow3 = (  B  ) => { return `hello, ${name}` }\n\n// 3단계: 본문이 표현식 1줄이므로 중괄호와 return 제거\nconst arrow4 = name => (       C       )",
@@ -5183,7 +5183,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b19",
-    "ref": "Basic Syntax 01 빈칸 20제 #19",
+    "ref": "빈칸 2세트 #19",
     "topic": "05-functions",
     "question": "매개변수가 없는 화살표 함수를 정의하는 두 가지 방법입니다. 빈칸 `( A )`에는 소괄호를 사용하고, 빈칸 `( B )`에는 관례상 쓰지 않는 매개변수를 나타내는 기호(식별자) 1개를 사용하여 채우시오.",
     "code": "// 1) 소괄호 사용\nconst noArgs1 = ( A ) => 'No args'\n\n// 2) 쓰지 않는 매개변수 표기 관례 사용\nconst noArgs2 = ( B ) => 'No args'",
@@ -5207,7 +5207,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1112-b20",
-    "ref": "Basic Syntax 01 빈칸 20제 #20",
+    "ref": "빈칸 2세트 #20",
     "topic": "05-functions",
     "question": "화살표 함수에서 `{ key: 'value' }` 객체를 반환하는 두 가지 방법입니다. `returnObject1`은 `return` 키워드를 명시하고, `returnObject2`는 `return` 키워드를 생략하는 방식으로 빈칸 `( A )`, `( B )`를 채우시오.",
     "code": "// 1) return 키워드를 명시하는 경우\nconst returnObject1 = () => { (          A          ) }\n\n// 2) return 키워드와 블록 중괄호를 생략하는 경우\nconst returnObject2 = () => (          B          )",
@@ -5231,7 +5231,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e01",
-    "ref": "Basic Syntax 02 서술 10제 #1",
+    "ref": "서술형 3세트 #1",
     "topic": "06-objects",
     "question": "객체의 속성 확인: `in` 연산자와 `Object.hasOwn()`\n객체에 특정 속성이 존재하는지 확인할 때 `in` 연산자를 사용할 수 있습니다. 하지만 실무에서는 `in` 연산자 대신 `Object.hasOwn(obj, key)` (또는 `hasOwnProperty`) 사용을 권장하는 경우가 많습니다. 그 이유를 **프로토타입** 개념을 포함하여 서술하시오.",
     "type": "essay",
@@ -5253,7 +5253,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e02",
-    "ref": "Basic Syntax 02 서술 10제 #2",
+    "ref": "서술형 3세트 #2",
     "topic": "06-objects",
     "question": "메서드 내부 중첩 함수에서의 `this` 바인딩과 해결책\n다음 코드에서 `myObj.myFunc()`를 실행했을 때 콘솔에 `myObj`가 아닌 `window`가 출력되는 이유를 설명하고, 이를 해결하여 `myObj`가 출력되도록 만드는 방법과 그 원리를 서술하시오.",
     "code": "const myObj = {\n  numbers: [1, 2, 3],\n  myFunc: function () {\n    this.numbers.forEach(function (number) {\n      console.log(this)\n    })\n  }\n}",
@@ -5281,7 +5281,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e03",
-    "ref": "Basic Syntax 02 서술 10제 #3",
+    "ref": "서술형 3세트 #3",
     "topic": "06-objects",
     "question": "JSON의 개념과 변환 메서드\nAPI 통신 등에서 널리 쓰이는 **JSON(JavaScript Object Notation)**이 JavaScript의 일반 객체(Object)와 어떻게 다른지 자료형 관점에서 설명하고, JavaScript에서 이 둘을 상호 변환할 때 사용하는 두 가지 메서드의 이름과 각각의 역할을 서술하시오.",
     "type": "essay",
@@ -5303,7 +5303,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e04",
-    "ref": "Basic Syntax 02 서술 10제 #4",
+    "ref": "서술형 3세트 #4",
     "topic": "06-objects",
     "question": "Optional Chaining (`?.`)의 동작 원리와 남용 금지 이유\n중첩된 객체의 속성에 접근할 때 사용하는 Optional Chaining(`?.`) 연산자의 동작 원리(단락 평가 포함)를 설명하고, `userData?.address?.street`처럼 모든 객체 참조에 `?.`를 남용해서는 안 되는 이유를 서술하시오.",
     "type": "essay",
@@ -5325,7 +5325,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e05",
-    "ref": "Basic Syntax 02 서술 10제 #5",
+    "ref": "서술형 3세트 #5",
     "topic": "07-arrays",
     "question": "배열 조작 메서드: `push`/`pop` 대비 `unshift`/`shift`의 성능 문제\n배열의 기본 조작 메서드 4가지(`push`, `pop`, `unshift`, `shift`)의 공통적인 원본 배열 수정 여부를 밝히고, 배열의 크기가 클 때 `unshift()`와 `shift()`의 사용을 가급적 피해야 하는 이유를 배열의 구조적 특징과 연관 지어 서술하시오.",
     "type": "essay",
@@ -5347,7 +5347,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e06",
-    "ref": "Basic Syntax 02 서술 10제 #6",
+    "ref": "서술형 3세트 #6",
     "topic": "05-functions",
     "question": "콜백 함수(Callback Function)의 정의와 활용 이유\n콜백 함수의 개념을 '실행 권한'의 관점에서 정의하고, 프로그래밍에서 콜백 함수를 사용하는 주요 이유 2가지를 강의 자료의 예시(계산기 부품 교체, 타이머 등)를 들어 서술하시오.",
     "type": "essay",
@@ -5369,7 +5369,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e07",
-    "ref": "Basic Syntax 02 서술 10제 #7",
+    "ref": "서술형 3세트 #7",
     "topic": "07-arrays",
     "question": "`forEach`, `map`, `filter`의 비교 및 불변성(Immutability)\n주요 Array Helper Method인 `forEach`, `map`, `filter` 세 가지 메서드의 **목적(역할)**과 **반환 값(길이 포함)**의 차이를 비교하여 설명하고, 모던 웹 개발에서 `push` 대신 `map`이나 `filter`를 선호하는 이유를 '원본 배열(불변성)' 관점에서 서술하시오.",
     "type": "essay",
@@ -5395,7 +5395,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e08",
-    "ref": "Basic Syntax 02 서술 10제 #8",
+    "ref": "서술형 3세트 #8",
     "topic": "07-arrays",
     "question": "전개 구문(`...`)을 이용한 '얕은 복사(Shallow Copy)'의 한계\n객체나 배열에서 전개 구문(`...`)을 사용하여 복사본을 만들 때 수행되는 **얕은 복사(Shallow Copy)**의 개념을 설명하고, 만약 배열 내부에 객체가 포함된 상태에서 전개 구문으로 복사한 뒤 복사본의 내부 객체 속성을 변경하면 어떤 일이 발생하는지 그 이유와 함께 서술하시오.",
     "type": "essay",
@@ -5417,7 +5417,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e09",
-    "ref": "Basic Syntax 02 서술 10제 #9",
+    "ref": "서술형 3세트 #9",
     "topic": "07-arrays",
     "question": "`reduce` 메서드의 동작 원리와 핵심 요소\n배열의 `reduce` 메서드가 동작하는 원리를 '눈덩이 굴리기' 비유 또는 흐름으로 설명하고, `reduce`를 구성하는 필수 요소 3가지(`acc`, `cur`, `initialValue`)가 각각 어떤 역할을 하는지 서술하시오.",
     "type": "essay",
@@ -5443,7 +5443,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-e10",
-    "ref": "Basic Syntax 02 서술 10제 #10",
+    "ref": "서술형 3세트 #10",
     "topic": "07-arrays",
     "question": "명령형 프로그래밍(`for...of`) vs 선언형 프로그래밍(`forEach`, `map`)\n기능적으로는 `for...of` 반복문만으로도 배열 순회가 충분함에도 불구하고, Vue나 React 같은 모던 웹 프레임워크 환경에서 `forEach`나 `map` 같은 배열 헬퍼 메서드를 훨씬 더 선호하는 이유를 **명령형**과 **선언형** 프로그래밍의 차이점을 중심으로 서술하시오.",
     "type": "essay",
@@ -5469,7 +5469,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s01",
-    "ref": "Basic Syntax 02 주관식 20제 #1",
+    "ref": "주관식 3세트 #1",
     "topic": "06-objects",
     "question": "[단답형] 객체에 특정 속성이 존재하는지 여부를 확인할 때 사용하는 연산자 `( A )`와, 프로토타입 체인을 통해 상속받은 속성은 제외하고 객체 자기 자신의 고유 속성만 확인할 때 사용하는 정적 메서드 `Object.( B )(obj, key)`의 빈칸에 들어갈 알맞은 말을 쓰시오.",
     "type": "short",
@@ -5493,7 +5493,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s02",
-    "ref": "Basic Syntax 02 주관식 20제 #2",
+    "ref": "주관식 3세트 #2",
     "topic": "06-objects",
     "question": "[실행 결과 예측] 브라우저 환경에서 다음 코드를 실행했을 때 콘솔에 출력되는 결과 2가지를 순서대로 쓰시오.",
     "code": "const myObj = {\n  numbers: [1],\n  myFunc1: function () {\n    this.numbers.forEach(function (num) {\n      console.log(this) // (1) 첫 번째 출력\n    })\n  },\n  myFunc2: function () {\n    this.numbers.forEach((num) => {\n      console.log(this) // (2) 두 번째 출력\n    })\n  }\n}\n\nmyObj.myFunc1()\nmyObj.myFunc2()",
@@ -5521,7 +5521,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s03",
-    "ref": "Basic Syntax 02 주관식 20제 #3",
+    "ref": "주관식 3세트 #3",
     "topic": "06-objects",
     "question": "[서술형] 2번 문제의 `myFunc1`과 `myFunc2`에서 `this`의 출력 결과가 서로 다르게 나타나는 이유를 '일반 함수'와 '화살표 함수'의 `this` 바인딩 특징을 비교하여 간단히 서술하시오.",
     "type": "short",
@@ -5529,7 +5529,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s04",
-    "ref": "Basic Syntax 02 주관식 20제 #4",
+    "ref": "주관식 3세트 #4",
     "topic": "06-objects",
     "question": "[단답형] 네트워크 통신 등을 위해 JavaScript 객체를 JSON 형식의 문자열로 변환하는 메서드 `( A )`와, 반대로 JSON 형식의 문자열을 JavaScript 객체로 변환하는 메서드 `( B )`의 전체 이름(예: `JSON.xxx`)을 쓰시오.",
     "type": "short",
@@ -5553,7 +5553,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s05",
-    "ref": "Basic Syntax 02 주관식 20제 #5",
+    "ref": "주관식 3세트 #5",
     "topic": "06-objects",
     "question": "[코드 작성] 다음 코드에서 함수 `printInfo`의 매개변수 자리에 '객체 구조 분해 할당' 문법을 적용하여 빈칸 `(   A   )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const userInfo = {\n  firstName: 'Alice',\n  userId: 'alice123',\n  email: 'alice123@gmail.com'\n}\n\nfunction printInfo(   A   ) {\n  console.log(`이름: ${firstName}, 이메일: ${email}`)\n}\n\nprintInfo(userInfo) // 출력: 이름: Alice, 이메일: alice123@gmail.com",
@@ -5566,7 +5566,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s06",
-    "ref": "Basic Syntax 02 주관식 20제 #6",
+    "ref": "주관식 3세트 #6",
     "topic": "06-objects",
     "question": "[단답형] 객체를 정의할 때 대괄호(`[]`)를 사용하여 고정된 문자열이 아닌 변수의 값이나 표현식의 연산 결과를 동적으로 객체의 키(Key)로 생성하는 문법(예: `{ [prefix + suffix]: 'value' }`)을 무엇이라고 하는지 쓰시오.",
     "type": "short",
@@ -5579,7 +5579,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s07",
-    "ref": "Basic Syntax 02 주관식 20제 #7",
+    "ref": "주관식 3세트 #7",
     "topic": "06-objects",
     "question": "[실행 결과 예측] 다음 코드에서 `Object`의 정적 메서드를 호출했을 때 콘솔에 출력되는 `(1)`, `(2)`, `(3)`의 결과를 배열 형태로 정확히 쓰시오.",
     "code": "const profile = { name: 'Alice', age: 30 }\n\nconsole.log(Object.keys(profile))    // (1)\nconsole.log(Object.values(profile))  // (2)\nconsole.log(Object.entries(profile)) // (3)",
@@ -5609,7 +5609,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s08",
-    "ref": "Basic Syntax 02 주관식 20제 #8",
+    "ref": "주관식 3세트 #8",
     "topic": "06-objects",
     "question": "[단답형] 중첩된 객체의 속성에 접근할 때 참조 대상이 `null` 또는 `undefined`인 경우 에러(`TypeError`)를 발생시키는 대신 평가를 멈추고 `undefined`를 반환하는 연산자의 기호 `( A )`와, 이처럼 중간 평가 대상이 없을 때 뒤쪽 코드를 실행하지 않고 멈추는 평가 방식을 뜻하는 용어 `( B )`를 쓰시오.",
     "type": "short",
@@ -5636,7 +5636,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s09",
-    "ref": "Basic Syntax 02 주관식 20제 #9",
+    "ref": "주관식 3세트 #9",
     "topic": "07-arrays",
     "question": "[단답형] 배열의 기본 조작 메서드 4가지(`push`, `pop`, `unshift`, `shift`) 중, 배열의 맨 앞 요소를 추가하거나 제거하기 때문에 나머지 모든 요소를 한 칸씩 밀거나 당겨와야 해서 배열이 클수록 성능이 저하되는 메서드 2가지를 모두 쓰시오.",
     "type": "short",
@@ -5650,7 +5650,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s10",
-    "ref": "Basic Syntax 02 주관식 20제 #10",
+    "ref": "주관식 3세트 #10",
     "topic": "07-arrays",
     "question": "[실행 결과 예측] 다음 코드를 실행했을 때 콘솔에 출력되는 `(1)`과 `(2)`의 값을 쓰시오.",
     "code": "const names = ['Alice', 'Bella', 'Cathy']\nconst returnVal1 = names.push('Dan')\nconst returnVal2 = names.pop()\n\nconsole.log(returnVal1) // (1)\nconsole.log(returnVal2) // (2)",
@@ -5674,7 +5674,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s11",
-    "ref": "Basic Syntax 02 주관식 20제 #11",
+    "ref": "주관식 3세트 #11",
     "topic": "05-functions",
     "question": "[단답형] 다른 함수의 인자로 전달되어, 당장 실행되지 않고 특정 작업이 완료된 후나 특정 시점에 외부 함수에 의해 호출되는 함수를 무엇이라고 하는지 쓰시오. (카페의 '진동벨'에 비유되는 개념)",
     "type": "short",
@@ -5687,7 +5687,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s12",
-    "ref": "Basic Syntax 02 주관식 20제 #12",
+    "ref": "주관식 3세트 #12",
     "topic": "05-functions",
     "question": "[실행 결과 예측] 다음 비동기 타이머 코드를 실행했을 때 콘솔에 출력되는 문자열의 순서를 쓰시오.",
     "code": "console.log('1. 주문 하기')\n\nsetTimeout(function () {\n  console.log('2. 커피 나왔습니다!')\n}, 3000)\n\nconsole.log('3. 자리에 앉기')",
@@ -5698,7 +5698,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s13",
-    "ref": "Basic Syntax 02 주관식 20제 #13",
+    "ref": "주관식 3세트 #13",
     "topic": "07-arrays",
     "question": "[실행 결과 예측] `forEach`와 `map`의 차이를 보여주는 다음 코드에서 `result1`과 `result2`에 저장되어 콘솔에 출력되는 값을 각각 쓰시오.",
     "code": "const arr = [1, 2, 3]\n\nconst result1 = arr.forEach((item) => {\n  return item * 2\n})\n\nconst result2 = arr.map((item) => {\n  return item * 2\n})\n\nconsole.log(result1) // (1)\nconsole.log(result2) // (2)",
@@ -5722,7 +5722,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s14",
-    "ref": "Basic Syntax 02 주관식 20제 #14",
+    "ref": "주관식 3세트 #14",
     "topic": "07-arrays",
     "question": "[서술형] 배열을 순회하는 `forEach()` 메서드의 주의사항 2가지를 '반환 값(return)'과 '반복 제어(`break`, `continue`)' 관점에서 서술하고, 만약 순회 도중 멈춰야 할 때는 어떤 반복문을 사용해야 하는지 함께 쓰시오.",
     "type": "short",
@@ -5730,7 +5730,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s15",
-    "ref": "Basic Syntax 02 주관식 20제 #15",
+    "ref": "주관식 3세트 #15",
     "topic": "07-arrays",
     "question": "[코드 작성] 다음 상품 목록 배열 `products`에서 `id`가 `3`인 상품을 제거한 새로운 배열 `deletedList`를 만들고자 한다. 원본 배열을 훼손하지 않는 배열 헬퍼 메서드를 사용하여 빈칸 `(   A   )`를 완성하시오. (화살표 함수 사용)",
     "code": "const products = [\n  { id: 1, name: 'Cucumber' },\n  { id: 2, name: 'Banana' },\n  { id: 3, name: 'Carrot' },\n  { id: 4, name: 'Apple' },\n]\n\nconst deletedList = products.(   A   )",
@@ -5746,7 +5746,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s16",
-    "ref": "Basic Syntax 02 주관식 20제 #16",
+    "ref": "주관식 3세트 #16",
     "topic": "07-arrays",
     "question": "[단답형] 다음 설명에 해당하는 Array Helper Method의 이름을 각각 쓰시오.\n- `( A )`: 배열에서 콜백 함수의 반환 값이 `true`인 모든 요소를 모아 새로운 배열로 반환하되, 조건을 만족하는 요소가 하나도 없으면 빈 배열(`[]`)을 반환한다.\n- `( B )`: 배열의 요소 중 적어도 하나라도 콜백 함수를 통과하면 즉시 배열 순회를 중지하고 `true`를 반환한다.\n- `( C )`: 배열의 모든 요소가 콜백 함수를 통과해야만 `true`를 반환하며, 하나라도 통과하지 못하면 즉시 `false`를 반환하고 순회를 중지한다.",
     "type": "short",
@@ -5774,7 +5774,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s17",
-    "ref": "Basic Syntax 02 주관식 20제 #17",
+    "ref": "주관식 3세트 #17",
     "topic": "07-arrays",
     "question": "[서술형] 객체나 배열에서 전개 구문(`...`)을 사용하여 복사본을 만들 때 수행되는 '얕은 복사(Shallow Copy)'의 개념을 설명하고, 배열 안에 객체가 들어있는 경우 복사본의 내부 객체 속성을 수정하면 원본 배열에는 어떤 영향이 발생하는지 서술하시오.",
     "type": "short",
@@ -5782,7 +5782,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s18",
-    "ref": "Basic Syntax 02 주관식 20제 #18",
+    "ref": "주관식 3세트 #18",
     "topic": "07-arrays",
     "question": "[코드 빈칸 및 결과 예측] `reduce` 메서드를 사용하여 배열 내 각 이름의 등장 횟수를 세어 객체로 변환하는 코드이다. 빈칸 `( A )`에 들어갈 알맞은 초기값(initialValue)과, 최종적으로 콘솔에 출력되는 `nameCounts`의 결과 `( B )`를 쓰시오.",
     "code": "const names = ['Alice', 'Bob', 'Alice', 'Charlie', 'Bob']\n\nconst nameCounts = names.reduce((acc, name) => {\n  acc[name] = (acc[name] || 0) + 1\n  return acc\n}, ( A ))\n\nconsole.log(nameCounts) // ( B )",
@@ -5808,7 +5808,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s19",
-    "ref": "Basic Syntax 02 주관식 20제 #19",
+    "ref": "주관식 3세트 #19",
     "topic": "07-arrays",
     "question": "[단답형] `for...of`처럼 \"어떻게(How)\" 순회할지 하나하나 명령하는 방식을 '명령형 프로그래밍'이라고 한다면, `forEach`나 `map`처럼 콜백 함수를 전달하여 \"무엇을(What)\" 할지만 신경 쓰는 프로그래밍 스타일(Vue, React가 지향하는 방식)을 무엇이라고 부르는지 쓰시오.",
     "type": "short",
@@ -5821,7 +5821,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-s20",
-    "ref": "Basic Syntax 02 주관식 20제 #20",
+    "ref": "주관식 3세트 #20",
     "topic": "06-objects",
     "question": "[단답형] ES6에서 도입된 클래스(Class) 문법과 관련하여 다음 빈칸에 들어갈 알맞은 키워드 및 용어를 쓰시오.\n- 클래스로부터 새로운 객체를 생성할 때 사용하는 연산자는 `( A )`이며, 이 연산자 없이 클래스를 호출하면 `TypeError`가 발생한다.\n- 클래스 내부에서 객체가 생성될 때 자동으로 호출되어 속성 값의 초기 설정을 담당하며, 클래스 내에 단 하나만 존재할 수 있는 메서드의 이름은 `( B )`이다.\n- 클래스는 호이스팅되지만 선언 전에 접근하면 에러가 발생하는데, 이처럼 선언 전 접근을 막는 일시적 사각 지대를 가리키는 약어는 `( C )`이다.",
     "type": "short",
@@ -5852,7 +5852,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b01",
-    "ref": "Basic Syntax 02 빈칸 20제 #1",
+    "ref": "빈칸 3세트 #1",
     "topic": "06-objects",
     "question": "객체 속성 접근 및 삭제\n띄어쓰기가 포함된 객체의 속성을 조회하고, 특정 속성을 삭제하는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const user = {\n  name: 'Alice',\n  'key with space': true,\n}\n\n// 1. 'key with space' 속성 조회하기\nconsole.log(user( A )) // 출력: true\n\n// 2. user 객체에서 name 속성 삭제하기\n( B ) user.name\nconsole.log(user) // 출력: { 'key with space': true }",
@@ -5876,7 +5876,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b02",
-    "ref": "Basic Syntax 02 빈칸 20제 #2",
+    "ref": "빈칸 3세트 #2",
     "topic": "06-objects",
     "question": "객체 고유 속성 확인\n프로토타입 체인을 통해 상속받은 속성은 제외하고, `user` 객체 **자기 자신의 고유 속성**으로 `'name'`이 존재하는지 확인하는 코드이다. 빈칸 `( A )`에 들어갈 알맞은 메서드명을 작성하시오.",
     "code": "const user = { name: 'Alice' }\n\nconsole.log(Object.( A )(user, 'name')) // 출력: true",
@@ -5896,7 +5896,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b03",
-    "ref": "Basic Syntax 02 빈칸 20제 #3",
+    "ref": "빈칸 3세트 #3",
     "topic": "06-objects",
     "question": "메서드와 `this` 키워드\n객체의 메서드 내부에서 자신이 속한 객체의 `name` 속성에 접근하여 인사말을 반환하는 코드이다. 빈칸 `( A )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const person = {\n  name: 'Alice',\n  greeting: function () {\n    return `Hello my name is ${( A )}`\n  },\n}\n\nconsole.log(person.greeting()) // 출력: Hello my name is Alice",
@@ -5914,7 +5914,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b04",
-    "ref": "Basic Syntax 02 빈칸 20제 #4",
+    "ref": "빈칸 3세트 #4",
     "topic": "06-objects",
     "question": "중첩 함수에서의 `this` 문제 해결 (화살표 함수)\n`myObj.myFunc()` 실행 시 `forEach` 내부에서 `this`가 전역 객체(`window`)가 아닌 `myObj`를 가리키도록 콜백 함수를 작성하려고 한다. 빈칸 `( A )`에 들어갈 화살표 함수 선언부를 작성하시오. (매개변수 이름은 `number` 사용)",
     "code": "const myObj = {\n  numbers: [1, 2, 3],\n  myFunc: function () {\n    this.numbers.forEach(( A ) {\n      console.log(this) // 출력: myObj (3번 반복)\n    })\n  }\n}\n\nmyObj.myFunc()",
@@ -5933,7 +5933,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b05",
-    "ref": "Basic Syntax 02 빈칸 20제 #5",
+    "ref": "빈칸 3세트 #5",
     "topic": "06-objects",
     "question": "객체와 JSON 상호 변환\nJavaScript 객체를 JSON 문자열로 변환하고, 이를 다시 JavaScript 객체로 되돌리는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 알맞은 메서드를 작성하시오.",
     "code": "const jsObject = { coffee: 'Americano', iceCream: 'Cookie and cream' }\n\n// 1. Object -> JSON 문자열 변환\nconst objToJson = JSON.( A )(jsObject)\nconsole.log(typeof objToJson) // 출력: string\n\n// 2. JSON 문자열 -> Object 변환\nconst jsonToObj = JSON.( B )(objToJson)\nconsole.log(typeof jsonToObj) // 출력: object",
@@ -5957,7 +5957,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b06",
-    "ref": "Basic Syntax 02 빈칸 20제 #6",
+    "ref": "빈칸 3세트 #6",
     "topic": "06-objects",
     "question": "계산된 속성 (Computed Property Name)\n변수 `prefix`와 `suffix`를 결합한 문자열을 객체 `bag`의 동적 키(Key)로 설정하는 코드이다. 빈칸 `( A )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const prefix = 'my'\nconst suffix = 'property'\n\nconst bag = {\n  ( A ): 'value'\n}\n\nconsole.log(bag) // 출력: { myproperty: 'value' }",
@@ -5975,7 +5975,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b07",
-    "ref": "Basic Syntax 02 빈칸 20제 #7",
+    "ref": "빈칸 3세트 #7",
     "topic": "06-objects",
     "question": "객체 구조 분해 할당 (기본 및 매개변수)\n객체의 속성을 분해하여 변수에 할당하고, 함수의 매개변수 자리에서도 구조 분해 할당을 활용하는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const userInfo = {\n  firstName: 'Alice',\n  userId: 'alice123',\n  email: 'alice123@gmail.com'\n}\n\n// 1. userInfo에서 firstName과 userId만 추출하여 동명의 상수에 할당\nconst ( A ) = userInfo\nconsole.log(firstName, userId) // 출력: Alice alice123\n\n// 2. 함수의 매개변수에서 구조 분해 할당을 사용하여 firstName과 email만 추출\nfunction printInfo(( B )) {\n  console.log(`이름: ${firstName}, 이메일: ${email}`)\n}\nprintInfo(userInfo) // 출력: 이름: Alice, 이메일: alice123@gmail.com",
@@ -5999,7 +5999,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b08",
-    "ref": "Basic Syntax 02 빈칸 20제 #8",
+    "ref": "빈칸 3세트 #8",
     "topic": "06-objects",
     "question": "객체 전개 구문과 속성 덮어쓰기\n전개 구문(`...`)을 사용하여 `obj`를 얕은 복사하면서 동시에 기존 속성 `a`의 값을 `1`로 수정하고 새 속성 `e: 5`를 추가하는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 코드를 작성하시오.",
     "code": "const obj = { a: 2, c: 3, d: 4 }\n\nconst newObj = { ( A ), ( B ), e: 5 }\nconsole.log(newObj) // 출력: { a: 1, c: 3, d: 4, e: 5 }",
@@ -6023,7 +6023,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b09",
-    "ref": "Basic Syntax 02 빈칸 20제 #9",
+    "ref": "빈칸 3세트 #9",
     "topic": "06-objects",
     "question": "유용한 객체 정적 메서드 (`keys`, `values`, `entries`)\n주어진 `profile` 객체에서 키 배열, 값 배열, `[키, 값]` 쌍의 배열을 각각 추출하는 코드이다. 빈칸 `( A )`, `( B )`, `( C )`에 들어갈 알맞은 메서드명을 작성하시오.",
     "code": "const profile = { name: 'Alice', age: 30 }\n\nconsole.log(Object.( A )(profile)) // 출력: ['name', 'age']\nconsole.log(Object.( B )(profile)) // 출력: ['Alice', 30]\nconsole.log(Object.( C )(profile)) // 출력: [['name', 'Alice'], ['age', 30]]",
@@ -6053,7 +6053,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b10",
-    "ref": "Basic Syntax 02 빈칸 20제 #10",
+    "ref": "빈칸 3세트 #10",
     "topic": "06-objects",
     "question": "Optional Chaining (`?.`)\n존재하지 않는 중첩 속성(`address.street`)과 존재하지 않는 메서드(`nonMethod`)에 접근할 때 에러(`TypeError`) 대신 `undefined`가 반환되도록 안전하게 접근하는 코드이다. 빈칸 `( A )`와 `( B )`를 완성하시오.",
     "code": "const userData = {\n  name: 'Alice'\n}\n\n// 1. 중첩 속성에 안전하게 접근\nconsole.log(userData.address( A )street) // 출력: undefined\n\n// 2. 존재하지 않을 수 있는 메서드를 안전하게 호출\nconsole.log(userData.nonMethod( B )) // 출력: undefined",
@@ -6077,7 +6077,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b11",
-    "ref": "Basic Syntax 02 빈칸 20제 #11",
+    "ref": "빈칸 3세트 #11",
     "topic": "07-arrays",
     "question": "배열 기본 조작 메서드 (`push`, `pop`, `unshift`, `shift`)\n주석의 배열 상태 변화에 맞게 빈칸 `( A )`, `( B )`, `( C )`, `( D )`에 들어갈 배열 조작 메서드명을 각각 작성하시오.",
     "code": "const names = ['Alice', 'Bella']\n\nnames.( A )('Cathy') // 배열 끝에 추가 -> ['Alice', 'Bella', 'Cathy']\nnames.( B )()        // 배열 끝 요소 제거 -> ['Alice', 'Bella']\nnames.( C )('Eric')  // 배열 앞에 추가 -> ['Eric', 'Alice', 'Bella']\nnames.( D )()        // 배열 앞 요소 제거 -> ['Alice', 'Bella']",
@@ -6113,7 +6113,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b12",
-    "ref": "Basic Syntax 02 빈칸 20제 #12",
+    "ref": "빈칸 3세트 #12",
     "topic": "05-functions",
     "question": "콜백 함수 기본 동작 원리\n함수를 다른 함수의 인자로 전달하여 호출하는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const calculator = function (a, b, action) {\n  // 넘겨받은 콜백 함수를 인자 a, b와 함께 호출하여 결과 반환\n  return ( A )\n}\n\nconst add = (a, b) => a + b\n\n// calculator 함수에 10, 20과 함께 add 함수를 콜백으로 전달\nconsole.log(calculator(10, 20, ( B ))) // 출력: 30",
@@ -6137,7 +6137,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b13",
-    "ref": "Basic Syntax 02 빈칸 20제 #13",
+    "ref": "빈칸 3세트 #13",
     "topic": "07-arrays",
     "question": "`forEach` 매개변수 활용\n`forEach` 메서드의 콜백 함수가 제공하는 3가지 기본 매개변수를 모두 받아 출력하는 코드이다. 출력 결과에 맞게 빈칸 `( A )`, `( B )`, `( C )`에 들어갈 매개변수를 순서대로 작성하시오.",
     "code": "const names = ['Alice', 'Bella']\n\nnames.forEach((( A ), ( B ), ( C )) => {\n  console.log(`${name} / ${index} / ${array}`)\n})\n/* 출력 결과:\nAlice / 0 / Alice,Bella\nBella / 1 / Alice,Bella\n*/",
@@ -6167,7 +6167,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b14",
-    "ref": "Basic Syntax 02 빈칸 20제 #14",
+    "ref": "빈칸 3세트 #14",
     "topic": "07-arrays",
     "question": "`map`을 활용한 데이터 변형\n객체 배열 `persons`에서 각 사람의 `name` 속성만 추출하여 새로운 배열을 만들고, 문자열 배열 `names`에서 각 문자열의 길이를 담은 새로운 배열을 만드는 코드이다. 빈칸 `( A )`와 `( B )`를 완성하시오.",
     "code": "const persons = [\n  { name: 'Alice', age: 20 },\n  { name: 'Bella', age: 21 }\n]\n\n// 1. 이름만 모은 새 배열 생성 (return 문 작성)\nconst personNames = persons.map((person) => {\n  ( A )\n})\nconsole.log(personNames) // 출력: ['Alice', 'Bella']\n\n// 2. 한 줄 화살표 함수를 사용해 각 이름의 길이 배열 생성\nconst lengths = personNames.map(( B ))\nconsole.log(lengths) // 출력: [5, 5]",
@@ -6192,7 +6192,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b15",
-    "ref": "Basic Syntax 02 빈칸 20제 #15",
+    "ref": "빈칸 3세트 #15",
     "topic": "07-arrays",
     "question": "`filter`를 활용한 조건 선별 및 삭제 구현\n숫자 배열에서 짝수만 걸러내고, 상품 배열에서 특정 ID를 제외한 나머지 상품만 남기는 코드이다. 빈칸 `( A )`와 `( B )`에 들어갈 조건식을 작성하시오.",
     "code": "// 1. 짝수만 걸러내기\nconst numbers = [1, 2, 3, 4, 5]\nconst evens = numbers.filter((num) => {\n  return ( A )\n})\nconsole.log(evens) // 출력: [2, 4]\n\n// 2. id가 3인 상품을 제외(삭제)한 새 배열 만들기\nconst products = [\n  { id: 1, name: 'Cucumber' },\n  { id: 2, name: 'Banana' },\n  { id: 3, name: 'Carrot' }\n]\nconst deletedList = products.filter(product => ( B ))\nconsole.log(deletedList) // 출력: [{ id: 1, name: 'Cucumber' }, { id: 2, name: 'Banana' }]",
@@ -6216,7 +6216,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b16",
-    "ref": "Basic Syntax 02 빈칸 20제 #16",
+    "ref": "빈칸 3세트 #16",
     "topic": "07-arrays",
     "question": "기타 배열 헬퍼 메서드 (`find`, `some`, `every`)\n주석의 설명과 출력 결과에 맞게 빈칸 `( A )`, `( B )`, `( C )`에 들어갈 알맞은 배열 헬퍼 메서드명을 작성하시오.",
     "code": "const nums = [1, 2, 3, 4, 5]\n\n// 1. 3보다 큰 첫 번째 요소 자체를 반환\nconst found = nums.( A )(n => n > 3)\nconsole.log(found) // 출력: 4\n\n// 2. 요소 중 짝수가 하나라도 있는지 확인\nconst hasEven = nums.( B )(n => n % 2 === 0)\nconsole.log(hasEven) // 출력: true\n\n// 3. 모든 요소가 0보다 큰지 확인\nconst allPositive = nums.( C )(n => n > 0)\nconsole.log(allPositive) // 출력: true",
@@ -6246,7 +6246,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b17",
-    "ref": "Basic Syntax 02 빈칸 20제 #17",
+    "ref": "빈칸 3세트 #17",
     "topic": "07-arrays",
     "question": "배열과 전개 구문 (Spread Syntax)\n원본 배열 `parts`를 수정하지 않고 배열 중간에 `parts`의 요소들을 펼쳐서 삽입한 새로운 배열 `lyrics`를 만드는 코드이다. 빈칸 `( A )`에 들어갈 코드를 작성하시오.",
     "code": "const parts = ['어깨', '무릎']\nconst lyrics = ['머리', ( A ), '발']\n\nconsole.log(lyrics) // 출력: ['머리', '어깨', '무릎', '발']",
@@ -6264,7 +6264,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b18",
-    "ref": "Basic Syntax 02 빈칸 20제 #18",
+    "ref": "빈칸 3세트 #18",
     "topic": "07-arrays",
     "question": "`reduce` 기초: 숫자 합계 구하기\n`reduce` 메서드를 사용하여 배열의 모든 숫자의 합을 구하는 코드이다. 누적값 매개변수 `acc`와 현재값 매개변수 `cur`를 활용하여 빈칸 `( A )`와 초기값 `( B )`를 작성하시오.",
     "code": "const numbers = [1, 2, 3, 4, 5]\n\nconst sum = numbers.reduce((acc, cur) => {\n  return ( A )\n}, ( B ))\n\nconsole.log(sum) // 출력: 15",
@@ -6288,7 +6288,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b19",
-    "ref": "Basic Syntax 02 빈칸 20제 #19",
+    "ref": "빈칸 3세트 #19",
     "topic": "07-arrays",
     "question": "`reduce` 심화: 배열을 객체로 집계 (등장 횟수 세기)\n이름 목록 배열을 순회하며 `{ 이름: 등장횟수 }` 형태의 객체로 변환하는 코드이다. 빈칸 `( A )`, `( B )`, `( C )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const names = ['Alice', 'Bob', 'Alice', 'Charlie', 'Bob']\n\nconst nameCounts = names.reduce((acc, name) => {\n  acc[name] = (acc[name] || ( A )) + 1\n  return ( B )\n}, ( C ))\n\nconsole.log(nameCounts) // 출력: { Alice: 2, Bob: 2, Charlie: 1 }",
@@ -6318,7 +6318,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1116-b20",
-    "ref": "Basic Syntax 02 빈칸 20제 #20",
+    "ref": "빈칸 3세트 #20",
     "topic": "06-objects",
     "question": "클래스(Class) 정의 및 인스턴스 생성\n객체를 생성하기 위한 템플릿인 `Member` 클래스를 정의하고, 이를 바탕으로 새로운 인스턴스를 생성하는 코드이다. 빈칸 `( A )`, `( B )`, `( C )`, `( D )`에 들어갈 알맞은 키워드나 코드를 작성하시오.",
     "code": "( A ) Member {\n  // 생성자 메서드\n  ( B )(name, age) {\n    this.name = name\n    this.age = age\n  }\n  sayHi() {\n    console.log(`Hi, I am ${( C )}`)\n  }\n}\n\n// 인스턴스 생성\nconst member1 = ( D ) Member('Alice', 20)\nmember1.sayHi() // 출력: Hi, I am Alice",
@@ -6354,7 +6354,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e01",
-    "ref": "Controlling Event 서술 10제 #1",
+    "ref": "서술형 4세트 #1",
     "topic": "09-events",
     "question": "웹 페이지에서의 이벤트 처리 과정 (카페 키오스크 비유)\n강의 자료에서는 웹 페이지의 이벤트 처리 과정을 **'카페에서 손님이 키오스크로 주문하고 바리스타가 커피를 만드는 과정'**에 비유하고 있습니다.\n`이벤트(event)`, `이벤트 리스너(event listener)`, `이벤트 핸들러(event handler)` 세 가지 개념의 정의와 역할을 이 비유(손님의 주문, 키오스크, 바리스타)와 연결하여 서술하시오.",
     "type": "essay",
@@ -6376,7 +6376,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e02",
-    "ref": "Controlling Event 서술 10제 #2",
+    "ref": "서술형 4세트 #2",
     "topic": "09-events",
     "question": "`.addEventListener()`에 핸들러 등록 시 함수 괄호 생략 이유\n`button.addEventListener('click', handleClick)`과 같이 이벤트 핸들러를 등록할 때, `handleClick()`처럼 함수 이름 뒤에 소괄호 `()`를 붙이지 않고 `handleClick`으로 전달해야 하는 이유를 **콜백 함수의 호출 주체 및 실행 시점** 관점에서 서술하시오.",
     "type": "essay",
@@ -6398,7 +6398,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e03",
-    "ref": "Controlling Event 서술 10제 #3",
+    "ref": "서술형 4세트 #3",
     "topic": "09-events",
     "question": "이벤트 객체(`event object`)의 생성과 역할\nDOM 요소에서 이벤트가 발생했을 때 생성되는 **이벤트 객체(`event object`)**는 누가 언제 생성하며, 어떤 정보를 담고 있고, 이벤트 핸들러 함수 내부에서는 이를 어떻게 전달받아 활용할 수 있는지 서술하시오.",
     "type": "essay",
@@ -6420,7 +6420,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e04",
-    "ref": "Controlling Event 서술 10제 #4",
+    "ref": "서술형 4세트 #4",
     "topic": "09-events",
     "question": "이벤트 버블링(Bubbling)과 캡처링(Capturing)의 비교\n표준 DOM 이벤트 흐름에서 **캡처링(Capturing)**과 **버블링(Bubbling)**의 개념을 각각 설명하고, 중첩된 요소(`form > div > p`)에서 가장 안쪽의 `<p>` 요소를 클릭했을 때 두 단계의 **이벤트 전파 방향(순서)**이 어떻게 다른지 비교하여 서술하시오.",
     "type": "essay",
@@ -6442,7 +6442,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e05",
-    "ref": "Controlling Event 서술 10제 #5",
+    "ref": "서술형 4세트 #5",
     "topic": "09-events",
     "question": "`event.target`과 `event.currentTarget`의 차이점\n최상위 요소인 `#outerouter`에만 클릭 이벤트 핸들러가 등록되어 있고, 그 안에 `#outer > #inner`가 중첩되어 있는 구조가 있습니다. 사용자가 가장 안쪽의 **`#inner` 요소를 클릭했을 때** `#outerouter`의 핸들러가 실행되는 이유를 밝히고, 이때 핸들러 내부에서 `event.target`과 `event.currentTarget`이 각각 어떤 요소를 가리키는지 차이점을 서술하시오.",
     "type": "essay",
@@ -6464,7 +6464,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e06",
-    "ref": "Controlling Event 서술 10제 #6",
+    "ref": "서술형 4세트 #6",
     "topic": "09-events",
     "question": "이벤트 버블링의 필요성과 활용 (이벤트 위임 패턴)\n하나의 부모 `<div>` 요소 안에 각기 다른 동작을 하는 100개의 `<button>` 자식 요소가 있습니다. 각 버튼마다 개별적으로 이벤트 핸들러를 등록하지 않고 **효율적으로 이벤트를 처리하는 방법**이 무엇인지 설명하고, 그 방법이 동작하는 원리를 서술하시오.",
     "type": "essay",
@@ -6486,7 +6486,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e07",
-    "ref": "Controlling Event 서술 10제 #7",
+    "ref": "서술형 4세트 #7",
     "topic": "09-events",
     "question": "콘솔에서 `event` 객체 확인 시 `currentTarget`이 `null`이 되는 이유와 대처법\n이벤트 핸들러 내부에서 `console.log(event)`를 실행한 뒤, 브라우저 개발자 도구 콘솔에서 출력된 이벤트 객체를 펼쳐 보면 `currentTarget` 속성의 값이 `null`로 표시됩니다. 이러한 현상이 발생하는 **원인**과, 이를 해결하여 요소의 정보를 정상적으로 확인할 수 있는 **대처 방법 2가지**를 서술하시오.",
     "type": "essay",
@@ -6508,7 +6508,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e08",
-    "ref": "Controlling Event 서술 10제 #8",
+    "ref": "서술형 4세트 #8",
     "topic": "09-events",
     "question": "Todo 리스트 실습에서의 DOM 조작 및 예외 처리 흐름\nTodo 프로그램 실습에서 사용자가 `<input>`에 할 일을 입력하고 `+` 버튼을 클릭했을 때, 입력된 텍스트가 화면의 `<ul>` 목록에 추가되기까지의 **DOM 조작 및 초기화 과정**을 순서대로 설명하고, **빈 문자열이나 공백만 입력되는 것을 방지하기 위해 사용한 방법**을 함께 서술하시오.",
     "type": "essay",
@@ -6530,7 +6530,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e09",
-    "ref": "Controlling Event 서술 10제 #9",
+    "ref": "서술형 4세트 #9",
     "topic": "09-events",
     "question": "`event.preventDefault()`의 역할과 실제 활용 사례\n`event.preventDefault()` 메서드의 역할이 무엇인지 강의 자료의 **'택배 기사님 비유'** 또는 개념 정의를 바탕으로 설명하고, 실제 웹 개발에서 이 메서드가 사용되는 **구체적인 활용 예시를 2가지 이상** 들어 서술하시오.",
     "type": "essay",
@@ -6552,7 +6552,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-e10",
-    "ref": "Controlling Event 서술 10제 #10",
+    "ref": "서술형 4세트 #10",
     "topic": "09-events",
     "question": "`addEventListener`에서의 화살표 함수와 `this` 바인딩 주의사항\n`addEventListener`의 이벤트 핸들러로 **일반 함수(`function () {}`)**를 사용했을 때와 **화살표 함수(`() => {}`)**를 사용했을 때 함수 내부의 `this`가 가리키는 대상이 어떻게 달라지는지 그 **원인**과 함께 설명하고, 화살표 함수를 사용하면서도 이벤트 리스너가 연결된 요소에 접근할 수 있는 **해결책**을 서술하시오.",
     "type": "essay",
@@ -6574,7 +6574,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s01",
-    "ref": "Controlling Event 주관식 20제 #1",
+    "ref": "주관식 4세트 #1",
     "topic": "09-events",
     "question": "강의 자료의 '카페 키오스크' 비유에서 다음 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 용어를 작성하시오.\n- 손님이 키오스크에서 하는 '주문'(클릭, 입력 등)이 바로 **( ㄱ )**입니다.\n- 이 주문을 감지하고 받는 키오스크가 **( ㄴ )**입니다.\n- 주문에 맞춰 커피를 만드는 바리스타의 행동(특정 이벤트 발생 시 실행되는 콜백 함수)이 **( ㄷ )**입니다.",
     "type": "short",
@@ -6608,7 +6608,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s02",
-    "ref": "Controlling Event 주관식 20제 #2",
+    "ref": "주관식 4세트 #2",
     "topic": "09-events",
     "question": "DOM에서 이벤트가 발생했을 때 브라우저가 자동으로 생성하며, 이벤트 발생 순간의 상세 정보(발생 요소, 마우스 좌표, 눌린 키 등)를 담고 있어 이벤트 핸들러 함수의 첫 번째 매개변수로 자동 전달되는 것은 무엇인가?",
     "type": "short",
@@ -6621,7 +6621,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s03",
-    "ref": "Controlling Event 주관식 20제 #3",
+    "ref": "주관식 4세트 #3",
     "topic": "09-events",
     "question": "특정 DOM 요소에 지정한 이벤트가 발생했을 때 실행할 이벤트 핸들러를 등록(연결)하는 메서드의 이름을 작성하시오.",
     "type": "short",
@@ -6633,7 +6633,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s04",
-    "ref": "Controlling Event 주관식 20제 #4",
+    "ref": "주관식 4세트 #4",
     "topic": "09-events",
     "question": "다음 코드에서 버튼을 클릭했을 때 `handleClick` 함수가 실행되도록 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const button = document.querySelector('button')\n\nconst handleClick = function () {\n  window.alert('버튼이 클릭 되었습니다!')\n}\n\n// 버튼에 클릭 이벤트 핸들러 등록\nbutton.addEventListener('( ㄱ )', ( ㄴ ))",
@@ -6657,7 +6657,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s05",
-    "ref": "Controlling Event 주관식 20제 #5",
+    "ref": "주관식 4세트 #5",
     "topic": "09-events",
     "question": "일반 함수(`function (event) {}`)를 이벤트 핸들러로 사용했을 때, 함수 내부의 `this`가 가리키는 대상은 무엇인지 설명하고, 이와 동일한 요소를 가리키는 `event` 객체의 속성 이름을 함께 작성하시오.",
     "type": "short",
@@ -6666,7 +6666,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s06",
-    "ref": "Controlling Event 주관식 20제 #6",
+    "ref": "주관식 4세트 #6",
     "topic": "09-events",
     "question": "한 요소에 이벤트가 발생하면, 해당 요소의 핸들러가 동작한 후 이어서 부모 요소의 핸들러가 동작하며 최상단의 조상 요소(`document`, `window`)를 만날 때까지 이 과정이 반복되는 현상을 무엇이라고 하는가?",
     "type": "short",
@@ -6680,7 +6680,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s07",
-    "ref": "Controlling Event 주관식 20제 #7",
+    "ref": "주관식 4세트 #7",
     "topic": "09-events",
     "question": "다음과 같이 중첩된 HTML 구조에서 사용자가 가장 안쪽의 `<p id=\"p\">` 요소를 클릭했을 때, 콘솔에 출력되는 문자열을 순서대로 작성하시오.",
     "code": "<form id=\"form\">form\n  <div id=\"div\">div\n    <p id=\"p\">p</p>\n  </div>\n</form>\n<script>\n  document.querySelector('#form').addEventListener('click', () => console.log('form 클릭'))\n  document.querySelector('#div').addEventListener('click', () => console.log('div 클릭'))\n  document.querySelector('#p').addEventListener('click', () => console.log('p 클릭'))\n</script>",
@@ -6691,7 +6691,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s08",
-    "ref": "Controlling Event 주관식 20제 #8",
+    "ref": "주관식 4세트 #8",
     "topic": "09-events",
     "question": "다음 코드는 최상위 요소인 `#outerouter`에만 클릭 이벤트 핸들러가 연결되어 있다. 사용자가 가장 안쪽의 `#inner` 요소를 클릭했을 때 콘솔의 `( ㄱ )`과 `( ㄴ )`에 출력될 값을 각각 작성하시오.",
     "code": "<div id=\"outerouter\">\n  outerouter\n  <div id=\"outer\">\n    outer\n    <div id=\"inner\">inner</div>\n  </div>\n</div>\n<script>\n  const outerOuterElement = document.querySelector('#outerouter')\n\n  const clickHandler = function (event) {\n    console.log(event.currentTarget.id) // ( ㄱ )\n    console.log(event.target.id)        // ( ㄴ )\n  }\n\n  outerOuterElement.addEventListener('click', clickHandler)\n</script>",
@@ -6715,7 +6715,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s09",
-    "ref": "Controlling Event 주관식 20제 #9",
+    "ref": "주관식 4세트 #9",
     "topic": "09-events",
     "question": "표준 DOM 이벤트 전파 과정 중, 이벤트가 최상위 조상(`Window`)에서 시작하여 실제 이벤트가 발생한 타겟(`event.target`) 요소까지 하위로 전파되는 단계를 무엇이라고 하는가?",
     "type": "short",
@@ -6729,7 +6729,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s10",
-    "ref": "Controlling Event 주관식 20제 #10",
+    "ref": "주관식 4세트 #10",
     "topic": "09-events",
     "question": "`<div>` 요소 내부에 각자 다른 동작을 수행하는 `<button>`이 여러 개 있을 때, 각 버튼마다 이벤트 핸들러를 개별 등록하지 않고 공통 조상인 `<div>` 요소 하나에만 이벤트 핸들러를 등록하여 효율적으로 처리할 수 있는 이유를 '이벤트 버블링'과 `event.target`을 포함하여 서술하시오.",
     "type": "short",
@@ -6738,7 +6738,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s11",
-    "ref": "Controlling Event 주관식 20제 #11",
+    "ref": "주관식 4세트 #11",
     "topic": "09-events",
     "question": "다음은 `<input>` 요소에 사용자가 값을 입력할 때마다 실시간으로 `<p>` 요소에 출력하는 코드이다. 빈칸 `( ㄱ )`에 들어갈 이벤트 타입과 `( ㄴ )`에 들어갈 속성 이름을 작성하시오.",
     "code": "<input type=\"text\" id=\"text-input\">\n<p></p>\n<script>\n  const inputTag = document.querySelector('#text-input')\n  const pTag = document.querySelector('p')\n\n  const inputHandler = function (event) {\n    pTag.textContent = event.currentTarget.( ㄴ )\n  }\n\n  inputTag.addEventListener('( ㄱ )', inputHandler)\n</script>",
@@ -6762,7 +6762,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s12",
-    "ref": "Controlling Event 주관식 20제 #12",
+    "ref": "주관식 4세트 #12",
     "topic": "09-events",
     "question": "이벤트 핸들러 내부에서 `console.log(event)`로 이벤트 객체 전체를 출력한 후 개발자 도구 콘솔에서 객체를 펼쳐보면, `currentTarget` 속성의 값이 `null`로 나타난다. 그 이유가 무엇인지 서술하시오.",
     "type": "short",
@@ -6771,7 +6771,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s13",
-    "ref": "Controlling Event 주관식 20제 #13",
+    "ref": "주관식 4세트 #13",
     "topic": "09-events",
     "question": "다음 코드에서 버튼을 클릭할 때마다 `<h1>` 요소에 `'blue'` 클래스가 있으면 제거하고, 없으면 추가하여 CSS 스타일을 번갈아 변경(토글)하려고 한다. 빈칸 `( ㄱ )`에 들어갈 `classList`의 메서드 이름을 작성하시오.",
     "code": "const h1Tag = document.querySelector('h1')\nconst btn = document.querySelector('#btn')\n\nconst clickHandler = function () {\n  h1Tag.classList.( ㄱ )('blue')\n}\nbtn.addEventListener('click', clickHandler)",
@@ -6784,7 +6784,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s14",
-    "ref": "Controlling Event 주관식 20제 #14",
+    "ref": "주관식 4세트 #14",
     "topic": "09-events",
     "question": "다음은 Todo 프로그램 실습 코드이다. 사용자의 입력값을 바탕으로 새로운 `<li>` 요소를 생성하고, 이를 `<ul>` 요소의 자식 요소로 추가하기 위해 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 DOM 메서드 이름을 작성하시오.",
     "code": "const inputTag = document.querySelector('.input-text')\nconst btn = document.querySelector('#btn')\nconst ulTag = document.querySelector('ul')\n\nconst addTodo = function (event) {\n  const inputData = inputTag.value\n  const liTag = document.( ㄱ )('li')\n  liTag.textContent = inputData\n  ulTag.( ㄴ )(liTag)\n  inputTag.value = ''\n}\nbtn.addEventListener('click', addTodo)",
@@ -6808,7 +6808,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s15",
-    "ref": "Controlling Event 주관식 20제 #15",
+    "ref": "주관식 4세트 #15",
     "topic": "09-events",
     "question": "위 14번의 Todo 프로그램에서 사용자가 빈 문자열이나 공백만 입력했을 때 리스트에 추가되는 것을 방지하려고 한다. 문자열 양끝의 공백을 제거하여 입력값 유무를 검사하는 문자열 메서드 `( ㄱ )`을 작성하시오.",
     "code": "const addTodo = function (event) {\n  const inputData = inputTag.value\n  if (inputData.( ㄱ )()) {\n    // li 생성 및 추가 로직\n  } else {\n    alert('할 일을 입력하세요..')\n  }\n}",
@@ -6821,7 +6821,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s16",
-    "ref": "Controlling Event 주관식 20제 #16",
+    "ref": "주관식 4세트 #16",
     "topic": "09-events",
     "question": "다음은 `lodash` 라이브러리를 활용한 로또 번호 생성기 코드의 일부이다. 1부터 45까지의 숫자 배열을 생성하는 메서드 `( ㄱ )`과, 해당 배열에서 6개의 랜덤 번호를 추출하는 메서드 `( ㄴ )`의 이름을 각각 작성하시오.",
     "code": "// 1부터 45까지의 배열 생성\nconst numbers = _.( ㄱ )(1, 46)\n\n// 45개의 요소가 있는 배열에서 6개의 랜덤 번호 추출\nconst sixNumbers = _.( ㄴ )(numbers, 6)",
@@ -6845,7 +6845,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s17",
-    "ref": "Controlling Event 주관식 20제 #17",
+    "ref": "주관식 4세트 #17",
     "topic": "09-events",
     "question": "HTML 요소가 기본적으로 가지고 있는 이벤트 동작(예: `<form>` 제출 시 페이지 새로고침, `<a>` 클릭 시 이동, 텍스트 복사 등)을 실행하지 않도록 취소하는 이벤트 객체의 메서드를 작성하시오.",
     "type": "short",
@@ -6857,7 +6857,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s18",
-    "ref": "Controlling Event 주관식 20제 #18",
+    "ref": "주관식 4세트 #18",
     "topic": "09-events",
     "question": "다음 `<form>` 요소에서 사용자가 Submit 버튼을 클릭하여 폼을 제출할 때 페이지가 새로고침되는 기본 동작을 막으려고 한다. 빈칸 `( ㄱ )`에 들어갈 이벤트 타입과 `( ㄴ )`에 들어갈 실행 구문을 작성하시오.",
     "code": "<form id=\"my-form\">\n  <input type=\"text\" name=\"username\">\n  <button type=\"submit\">Submit</button>\n</form>\n<script>\n  const formTag = document.querySelector('#my-form')\n  const handleSubmit = function (event) {\n    ( ㄴ )\n  }\n  formTag.addEventListener('( ㄱ )', handleSubmit)\n</script>",
@@ -6881,7 +6881,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s19",
-    "ref": "Controlling Event 주관식 20제 #19",
+    "ref": "주관식 4세트 #19",
     "topic": "09-events",
     "question": "다음 코드에서 두 버튼을 각각 클릭했을 때 콘솔의 `( ㄱ )`과 `( ㄴ )`에 출력되는 결과가 무엇인지 각각 작성하시오.",
     "code": "<button id=\"function\">function</button>\n<button id=\"arrow\">arrow</button>\n<script>\n  const functionButton = document.querySelector('#function')\n  const arrowButton = document.querySelector('#arrow')\n\n  functionButton.addEventListener('click', function () {\n    console.log(this) // ( ㄱ )\n  })\n  arrowButton.addEventListener('click', () => {\n    console.log(this) // ( ㄴ )\n  })\n</script>",
@@ -6911,7 +6911,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-s20",
-    "ref": "Controlling Event 주관식 20제 #20",
+    "ref": "주관식 4세트 #20",
     "topic": "09-events",
     "question": "`addEventListener`의 이벤트 핸들러로 화살표 함수를 사용했을 때 `this`가 이벤트 연결 요소를 가리키지 않는 이유를 설명하고, 화살표 함수 내부에서 이벤트 리스너가 연결된 DOM 요소에 접근하기 위한 해결책을 작성하시오.",
     "type": "short",
@@ -6920,7 +6920,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b01",
-    "ref": "Controlling Event 빈칸 20제 #1",
+    "ref": "빈칸 4세트 #1",
     "topic": "09-events",
     "question": "다음은 `<button>` 요소를 선택하고, 클릭 이벤트가 발생했을 때 알림창을 띄우는 이벤트 핸들러를 등록하는 기본 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const button = document.querySelector('button')\n\nconst handleClick = function () {\n  window.alert('버튼이 클릭 되었습니다!')\n}\n\n// 버튼에 click 이벤트 핸들러를 등록 (괄호 없이 함수 전달)\nbutton.( ㄱ )('( ㄴ )', ( ㄷ ))",
@@ -6950,7 +6950,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b02",
-    "ref": "Controlling Event 빈칸 20제 #2",
+    "ref": "빈칸 4세트 #2",
     "topic": "09-events",
     "question": "다음은 강의 자료의 '카페 키오스크' 비유를 코드로 구현한 것이다. `#order-btn` 버튼을 선택하여 클릭 시 `makeCoffee` 핸들러가 실행되도록 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`을 채우시오.",
     "code": "// 1. '주문'을 받을 키오스크(id가 order-btn인 요소) 선택\nconst button = document.querySelector('( ㄱ )')\n\n// 2. '바리스타'의 행동(핸들러) 정의 - 첫 번째 매개변수로 이벤트 객체를 받음\nconst makeCoffee = function (( ㄴ )) {\n  console.log('커피 제조', ( ㄴ ))\n}\n\n// 3. 키오스크에 클릭 '주문'이 들어오면 '바리스타'가 행동하도록 연결\nbutton.addEventListener('click', ( ㄷ ))",
@@ -6981,7 +6981,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b03",
-    "ref": "Controlling Event 빈칸 20제 #3",
+    "ref": "빈칸 4세트 #3",
     "topic": "09-events",
     "question": "다음은 버튼을 클릭했을 때 전달받은 이벤트 객체와 발생한 이벤트의 유형(`'click'`)을 콘솔에 출력하는 코드이다. 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "<button id=\"btn\">버튼</button>\n<script>\n  const btn = document.querySelector('#btn')\n\n  // 이벤트 객체를 첫 번째 매개변수로 받음\n  const detectClick = function (( ㄱ )) {\n    console.log(( ㄱ ))          // PointerEvent 객체 출력\n    console.log(( ㄱ ).( ㄴ ))   // 'click' (이벤트 유형 문자열 출력)\n  }\n\n  btn.addEventListener('click', detectClick)\n</script>",
@@ -7005,7 +7005,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b04",
-    "ref": "Controlling Event 빈칸 20제 #4",
+    "ref": "빈칸 4세트 #4",
     "topic": "09-events",
     "question": "일반 함수를 이벤트 핸들러로 사용했을 때, 이벤트 리스너가 연결된 DOM 요소(`<button id=\"btn\">버튼</button>`)를 콘솔에 출력하는 두 가지 방법이다. 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 알맞은 속성 및 키워드를 작성하시오.",
     "code": "const btn = document.querySelector('#btn')\n\nconst detectClick = function (event) {\n  console.log(event.( ㄱ )) // <button id=\"btn\">버튼</button>\n  console.log(( ㄴ ))       // <button id=\"btn\">버튼</button>\n}\n\nbtn.addEventListener('click', detectClick)",
@@ -7029,7 +7029,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b05",
-    "ref": "Controlling Event 빈칸 20제 #5",
+    "ref": "빈칸 4세트 #5",
     "topic": "09-events",
     "question": "다음은 `form > div > p` 중첩 구조에서 각 요소에 클릭 이벤트를 연결하여 버블링을 확인하는 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "const formElement = document.querySelector('#form')\nconst divElement = document.querySelector('#div')\nconst pElement = document.querySelector('#p')\n\nconst clickHandler1 = function (event) { console.log('form이 클릭되었습니다.') }\nconst clickHandler2 = function (event) { console.log('div가 클릭되었습니다.') }\nconst clickHandler3 = function (event) { console.log('p가 클릭되었습니다.') }\n\nformElement.( ㄱ )('click', clickHandler1)\ndivElement.addEventListener('( ㄴ )', clickHandler2)\npElement.addEventListener('click', ( ㄷ ))",
@@ -7059,7 +7059,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b06",
-    "ref": "Controlling Event 빈칸 20제 #6",
+    "ref": "빈칸 4세트 #6",
     "topic": "09-events",
     "question": "최상위 요소인 `#outerouter`에만 핸들러를 등록하고, 클릭 시 핸들러가 연결된 요소의 `id`와 실제 클릭이 발생한 가장 안쪽 요소의 `id`를 각각 출력하려고 한다. 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 속성을 작성하시오.",
     "code": "<div id=\"outerouter\">\n  outerouter\n  <div id=\"outer\">\n    outer\n    <div id=\"inner\">inner</div>\n  </div>\n</div>\n<script>\n  const outerOuterElement = document.querySelector('#outerouter')\n\n  const clickHandler = function (event) {\n    // 1. 핸들러가 연결된 요소(outerouter)의 id 출력\n    console.log('currentTarget:', event.( ㄱ ).id)\n    // 2. 실제 이벤트가 발생한 요소의 id 출력\n    console.log('target:', event.( ㄴ ).id)\n  }\n\n  outerOuterElement.addEventListener('click', clickHandler)\n</script>",
@@ -7083,7 +7083,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b07",
-    "ref": "Controlling Event 빈칸 20제 #7",
+    "ref": "빈칸 4세트 #7",
     "topic": "09-events",
     "question": "위 6번 코드에서 사용자가 각 요소를 클릭했을 때 콘솔에 출력될 문자열을 주석의 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 알맞게 작성하시오.",
     "code": "// [상황 1] 하늘색 상자인 #inner 요소를 클릭했을 때:\n// currentTarget: ( ㄱ )\n// target: ( ㄴ )\n\n// [상황 2] 빨간색 상자인 #outer 요소를 클릭했을 때:\n// currentTarget: outerouter\n// target: ( ㄷ )",
@@ -7113,7 +7113,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b08",
-    "ref": "Controlling Event 빈칸 20제 #8",
+    "ref": "빈칸 4세트 #8",
     "topic": "09-events",
     "question": "여러 개의 `<button>`을 가진 부모 `<div>` 요소 하나에만 이벤트 핸들러를 등록(이벤트 위임)하여, 실제로 어떤 자식 버튼이 클릭되었는지 콘솔에 출력하는 코드이다. 빈칸 `( ㄱ )`과 `( ㄴ )`을 채우시오.",
     "code": "<div>\n  <button>버튼1</button>\n  <button>버튼2</button>\n</div>\n<script>\n  const divTag = document.querySelector('( ㄱ )')\n  const clickHandler = function (event) {\n    // 실제 클릭이 발생한 버튼 요소를 출력\n    console.log(event.( ㄴ ))\n  }\n  divTag.addEventListener('click', clickHandler)\n</script>",
@@ -7137,7 +7137,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b09",
-    "ref": "Controlling Event 빈칸 20제 #9",
+    "ref": "빈칸 4세트 #9",
     "topic": "09-events",
     "question": "[실습 1] 버튼을 클릭할 때마다 숫자를 1씩 증가시켜 `<span id=\"counter\">`에 출력하는 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "<button id=\"btn\">버튼</button>\n<p>클릭횟수 : <span id=\"counter\">0</span></p>\n<script>\n  // 1. 초기값 0 할당 (재할당이 가능해야 함)\n  ( ㄱ ) initialValue = 0\n  const btn = document.querySelector('#btn')\n\n  const clickHandler = function () {\n    // 2. 초기값을 1 증가시킴\n    initialValue ( ㄴ ) 1\n    const spanTag = document.querySelector('#counter')\n    // 3. span 요소의 텍스트 컨텐츠를 증가된 값으로 설정\n    spanTag.( ㄷ ) = initialValue\n  }\n\n  btn.addEventListener('click', clickHandler)\n</script>",
@@ -7167,7 +7167,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b10",
-    "ref": "Controlling Event 빈칸 20제 #10",
+    "ref": "빈칸 4세트 #10",
     "topic": "09-events",
     "question": "[실습 2] 사용자가 `<input>`에 입력하는 값을 실시간으로 `<p>` 요소에 출력하는 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "<input type=\"text\" id=\"text-input\">\n<p></p>\n<script>\n  const inputTag = document.querySelector('#text-input')\n  const pTag = document.querySelector('p')\n\n  const inputHandler = function (event) {\n    // 1. input 요소에 작성 중인 데이터를 콘솔에 출력\n    console.log(event.currentTarget.( ㄱ ))\n    // 2. p 요소의 텍스트 컨텐츠에 작성 중인 데이터를 실시간 반영\n    pTag.( ㄴ ) = event.currentTarget.( ㄱ )\n  }\n\n  // 3. input 요소에 실시간 입력 이벤트 등록\n  inputTag.addEventListener('( ㄷ )', inputHandler)\n</script>",
@@ -7197,7 +7197,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b11",
-    "ref": "Controlling Event 빈칸 20제 #11",
+    "ref": "빈칸 4세트 #11",
     "topic": "09-events",
     "question": "[실습 3-1] 버튼을 클릭했을 때 `<h1>` 요소에 `.blue` 클래스를 단방향으로 추가하거나(방법 1), 클릭할 때마다 클래스를 넣었다 뺐다 토글하는(방법 2) 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`을 채우시오.",
     "code": "const h1Tag = document.querySelector('h1')\nconst btn = document.querySelector('#btn')\n\nconst clickHandler = function () {\n  // [방법 1] add 방법: 'blue' 클래스 추가\n  h1Tag.( ㄱ ).( ㄴ )('blue')\n\n  // [방법 2] toggle 방법: 'blue' 클래스 토글\n  h1Tag.( ㄱ ).( ㄷ )('blue')\n}\nbtn.addEventListener('click', clickHandler)",
@@ -7227,7 +7227,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b12",
-    "ref": "Controlling Event 빈칸 20제 #12",
+    "ref": "빈칸 4세트 #12",
     "topic": "09-events",
     "question": "[실습 3-2] 위 11번의 `toggle` 메서드를 사용하지 않고 `if ~ else` 조건문으로 동일한 토글 동작을 직접 구현한 코드(방법 3)이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 `classList`의 메서드 이름을 작성하시오.",
     "code": "const clickHandler = function () {\n  // [방법 3] if 방법: 'blue' 클래스 포함 여부에 따라 제거 또는 추가\n  if (h1Tag.classList.( ㄱ )('blue')) {\n    h1Tag.classList.( ㄴ )('blue')\n  } else {\n    h1Tag.classList.( ㄷ )('blue')\n  }\n}",
@@ -7257,7 +7257,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b13",
-    "ref": "Controlling Event 빈칸 20제 #13",
+    "ref": "빈칸 4세트 #13",
     "topic": "09-events",
     "question": "[실습 4-1] Todo 프로그램의 기본 추가 로직이다. 입력창의 데이터를 가져와 새로운 `<li>` 요소를 만들고 `<ul>`에 추가한 뒤 입력창을 비우는 코드의 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`, `( ㄹ )`을 채우시오.",
     "code": "<input type=\"text\" class=\"input-text\">\n<button id=\"btn\">+</button>\n<ul></ul>\n<script>\n  const inputTag = document.querySelector('.input-text')\n  const btn = document.querySelector('#btn')\n  const ulTag = document.querySelector('ul')\n\n  const addTodo = function (event) {\n    // 2.1 사용자 입력 데이터 저장\n    const inputData = inputTag.( ㄱ )\n    // 2.2 데이터를 저장할 li 요소를 생성\n    const liTag = document.( ㄴ )('li')\n    // 2.3 li 요소 컨텐츠에 데이터 입력\n    liTag.textContent = inputData\n    // 2.4 li 요소를 부모 ul 요소의 자식 요소로 추가\n    ulTag.( ㄷ )(liTag)\n    // 2.5 todo 추가 후 input의 입력 데이터는 빈 문자열로 초기화\n    inputTag.( ㄱ ) = ( ㄹ )\n  }\n\n  btn.addEventListener('click', addTodo)\n</script>",
@@ -7294,7 +7294,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b14",
-    "ref": "Controlling Event 빈칸 20제 #14",
+    "ref": "빈칸 4세트 #14",
     "topic": "09-events",
     "question": "[실습 4-2] Todo 프로그램에서 빈 문자열이나 공백만 입력되었을 때 추가를 막고 경고 대화상자를 띄우는 개선된 코드이다. 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 메서드/함수 이름을 작성하시오.",
     "code": "const addTodo = function (event) {\n  const inputData = inputTag.value\n  // 앞뒤 공백을 제거한 문자열이 비어있지 않은지 확인\n  if (inputData.( ㄱ )()) {\n    const liTag = document.createElement('li')\n    liTag.textContent = inputData\n    ulTag.appendChild(liTag)\n    inputTag.value = ''\n  } else {\n    // 입력이 없을 경우 경고 대화상자를 띄움\n    ( ㄴ )('할 일을 입력하세요..')\n  }\n}",
@@ -7319,7 +7319,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b15",
-    "ref": "Controlling Event 빈칸 20제 #15",
+    "ref": "빈칸 4세트 #15",
     "topic": "09-events",
     "question": "[실습 5-1] `lodash` 라이브러리를 사용하여 1부터 45까지의 배열을 생성하고, 그중 6개의 랜덤 번호를 추출하는 로또 번호 생성기 코드의 앞부분이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`, `( ㄹ )`을 채우시오.",
     "code": "const getLottery = function (event) {\n  // 2.1 1부터 45까지의 숫자 배열 생성\n  const numbers = _.( ㄱ )(( ㄴ ), ( ㄷ ))\n  // 2.2 45개의 요소가 있는 배열에서 6개의 랜덤 번호 추출\n  const sixNumbers = _.( ㄹ )(numbers, 6)\n  // ...\n}",
@@ -7356,7 +7356,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b16",
-    "ref": "Controlling Event 빈칸 20제 #16",
+    "ref": "빈칸 4세트 #16",
     "topic": "09-events",
     "question": "[실습 5-2] 위 15번에서 추출한 6개의 번호 배열(`sixNumbers`)을 순회하면서 `<li>` 요소를 만들어 `<ul>`에 추가하고, 완성된 `<ul>`을 `<div>`에 추가하는 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`, `( ㄹ )`을 채우시오.",
     "code": "const getLottery = function (event) {\n  const numbers = _.range(1, 46)\n  const sixNumbers = _.sampleSize(numbers, 6)\n  // 2.3 6개의 li 요소를 담을 ul 요소 생성\n  const ulTag = document.( ㄱ )('ul')\n\n  // 2.4 추출한 번호 배열을 반복하면서 li 요소를 생성\n  sixNumbers.( ㄴ )((number) => {\n    const liTag = document.( ㄱ )('li')\n    liTag.( ㄷ ) = number\n    ulTag.( ㄹ )(liTag)\n  })\n  // 2.8 완성한 ul 요소를 div 요소에 추가\n  divTag.( ㄹ )(ulTag)\n}",
@@ -7392,7 +7392,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b17",
-    "ref": "Controlling Event 빈칸 20제 #17",
+    "ref": "빈칸 4세트 #17",
     "topic": "09-events",
     "question": "사용자가 `<h1>중요한 내용</h1>`의 텍스트를 복사하려 할 때, 복사 기본 동작을 취소하고 경고창을 띄우는 코드이다. 빈칸 `( ㄱ )`과 `( ㄴ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "<h1>중요한 내용</h1>\n<script>\n  const h1Tag = document.querySelector('h1')\n  h1Tag.addEventListener('( ㄱ )', function (event) {\n    event.( ㄴ )()\n    alert('복사 할 수 없습니다.')\n  })\n</script>",
@@ -7416,7 +7416,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b18",
-    "ref": "Controlling Event 빈칸 20제 #18",
+    "ref": "빈칸 4세트 #18",
     "topic": "09-events",
     "question": "`<form>` 요소가 제출(submit)될 때 페이지가 새로고침되는 기본 동작을 취소하는 코드이다. 빈칸 `( ㄱ )`, `( ㄴ )`, `( ㄷ )`에 들어갈 알맞은 코드를 작성하시오.",
     "code": "<form id=\"my-form\">\n  <input type=\"text\" name=\"username\">\n  <button type=\"submit\">Submit</button>\n</form>\n<script>\n  const formTag = document.querySelector('( ㄱ )')\n  const handleSubmit = function (event) {\n    event.( ㄴ )()\n  }\n\n  formTag.addEventListener('( ㄷ )', handleSubmit)\n</script>",
@@ -7447,7 +7447,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b19",
-    "ref": "Controlling Event 빈칸 20제 #19",
+    "ref": "빈칸 4세트 #19",
     "topic": "09-events",
     "question": "일반 함수와 화살표 함수를 각각 이벤트 핸들러로 등록했을 때의 차이를 비교하는 코드이다. 빈칸 `( ㄱ )`에 화살표 함수 기호를 작성하고, 두 버튼을 클릭했을 때 콘솔에 출력되는 대상을 `( ㄴ )`과 `( ㄷ )`에 작성하시오.",
     "code": "functionButton.addEventListener('click', function () {\n  console.log(this) // 출력 결과: ( ㄴ )\n})\n\narrowButton.addEventListener('click', () ( ㄱ ) {\n  console.log(this) // 출력 결과: ( ㄷ )\n})",
@@ -7483,7 +7483,7 @@ window.AI_QUESTIONS = [
   },
   {
     "id": "ai-1117-b20",
-    "ref": "Controlling Event 빈칸 20제 #20",
+    "ref": "빈칸 4세트 #20",
     "topic": "09-events",
     "question": "화살표 함수를 이벤트 핸들러로 사용하면서, `this` 대신 이벤트 리스너가 연결된 `arrowButton` 요소를 콘솔에 정상적으로 출력하도록 빈칸 `( ㄱ )`과 `( ㄴ )`을 채워 코드를 수정하시오.",
     "code": "arrowButton.addEventListener('click', (( ㄱ )) => {\n  console.log(( ㄱ ).( ㄴ )) // <button id=\"arrow\">arrow</button> 출력\n})",

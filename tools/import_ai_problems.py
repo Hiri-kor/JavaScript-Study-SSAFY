@@ -38,42 +38,42 @@ def ranges(*pairs):
 
 # 파일 이름: (id 접두어, 표시 이름, 주제 배치)
 FILES = {
-    'javascript_dom_50.md': ('ai-1111', 'DOM 50제', ranges(
+    'javascript_dom_50.md': ('ai-1111', '객관식 1세트', ranges(
         (1, 10, '01-history'), (11, 20, '02-variables'), (21, 42, '08-dom'), (43, 50, '02-variables'))),
-    'javascript_50.md': ('ai-1112', 'Basic Syntax 01 50제', ranges(
+    'javascript_50.md': ('ai-1112', '객관식 2세트', ranges(
         (1, 22, '03-types-operators'), (23, 36, '04-control'), (37, 50, '05-functions'))),
-    'javascript_02_50.md': ('ai-1116', 'Basic Syntax 02 50제', ranges(
+    'javascript_02_50.md': ('ai-1116', '객관식 3세트', ranges(
         (1, 24, '06-objects'), (25, 28, '07-arrays'), (29, 31, '05-functions'),
         (32, 46, '07-arrays'), (47, 49, '06-objects'), (50, 50, '07-arrays'))),
-    'javascript_50 (1).md': ('ai-1117', 'Controlling Event 50제', ranges(
+    'javascript_50 (1).md': ('ai-1117', '객관식 4세트', ranges(
         (1, 50, '09-events'))),
 }
 
 # 서술형/주관식/빈칸: 파일 이름: (id 접두어, 표시 이름, 종류, 주제 배치)
 WRITTEN = {
-    'javascript_dom_10.md': ('ai-1111-e', 'DOM 서술 10제', 'essay', ranges(
+    'javascript_dom_10.md': ('ai-1111-e', '서술형 1세트', 'essay', ranges(
         (1, 2, '01-history'), (3, 4, '02-variables'), (5, 9, '08-dom'), (10, 10, '02-variables'))),
-    'javascript_dom_20.md': ('ai-1111-s', 'DOM 주관식 20제', 'subj', ranges(
+    'javascript_dom_20.md': ('ai-1111-s', '주관식 1세트', 'subj', ranges(
         (1, 2, '01-history'), (3, 4, '02-variables'), (5, 16, '08-dom'), (17, 20, '02-variables'))),
-    'javascript_dom_20 (1).md': ('ai-1111-b', 'DOM 빈칸 20제', 'blank', ranges(
+    'javascript_dom_20 (1).md': ('ai-1111-b', '빈칸 1세트', 'blank', ranges(
         (1, 3, '02-variables'), (4, 17, '08-dom'), (18, 20, '02-variables'))),
-    'javascript_10.md': ('ai-1112-e', 'Basic Syntax 01 서술 10제', 'essay', ranges(
+    'javascript_10.md': ('ai-1112-e', '서술형 2세트', 'essay', ranges(
         (1, 4, '03-types-operators'), (5, 7, '04-control'), (8, 10, '05-functions'))),
-    'javascript_20 (1).md': ('ai-1112-s', 'Basic Syntax 01 주관식 20제', 'subj', ranges(
+    'javascript_20 (1).md': ('ai-1112-s', '주관식 2세트', 'subj', ranges(
         (1, 8, '03-types-operators'), (9, 14, '04-control'), (15, 20, '05-functions'))),
-    'javascript_20 (2).md': ('ai-1112-b', 'Basic Syntax 01 빈칸 20제', 'blank', ranges(
+    'javascript_20 (2).md': ('ai-1112-b', '빈칸 2세트', 'blank', ranges(
         (1, 7, '03-types-operators'), (8, 13, '04-control'), (14, 20, '05-functions'))),
-    'javascript_02_10.md': ('ai-1116-e', 'Basic Syntax 02 서술 10제', 'essay', ranges(
+    'javascript_02_10.md': ('ai-1116-e', '서술형 3세트', 'essay', ranges(
         (1, 4, '06-objects'), (5, 5, '07-arrays'), (6, 6, '05-functions'), (7, 10, '07-arrays'))),
-    'javascript_02_20.md': ('ai-1116-s', 'Basic Syntax 02 주관식 20제', 'subj', ranges(
+    'javascript_02_20.md': ('ai-1116-s', '주관식 3세트', 'subj', ranges(
         (1, 8, '06-objects'), (9, 10, '07-arrays'), (11, 12, '05-functions'), (13, 19, '07-arrays'),
         (20, 20, '06-objects'))),
-    'javascript_02_20 (1).md': ('ai-1116-b', 'Basic Syntax 02 빈칸 20제', 'blank', ranges(
+    'javascript_02_20 (1).md': ('ai-1116-b', '빈칸 3세트', 'blank', ranges(
         (1, 10, '06-objects'), (11, 11, '07-arrays'), (12, 12, '05-functions'), (13, 19, '07-arrays'),
         (20, 20, '06-objects'))),
-    'javascript_10 (1).md': ('ai-1117-e', 'Controlling Event 서술 10제', 'essay', ranges((1, 10, '09-events'))),
-    'javascript_20.md': ('ai-1117-s', 'Controlling Event 주관식 20제', 'subj', ranges((1, 20, '09-events'))),
-    'javascript_20 (3).md': ('ai-1117-b', 'Controlling Event 빈칸 20제', 'blank', ranges((1, 20, '09-events'))),
+    'javascript_10 (1).md': ('ai-1117-e', '서술형 4세트', 'essay', ranges((1, 10, '09-events'))),
+    'javascript_20.md': ('ai-1117-s', '주관식 4세트', 'subj', ranges((1, 20, '09-events'))),
+    'javascript_20 (3).md': ('ai-1117-b', '빈칸 4세트', 'blank', ranges((1, 20, '09-events'))),
 }
 
 MARK = {'①': 0, '②': 1, '③': 2, '④': 3, 'a': 0, 'b': 1, 'c': 2, 'd': 3, '1': 0, '2': 1, '3': 2, '4': 3}
