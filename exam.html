@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>시험 직전 문제 | JS 시험 대비 노트</title>
+<script>try{var t=localStorage.getItem('jsstudy:theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)}catch(e){}</script>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-root="." data-page="exam">
+<header id="site-header"></header>
+<main class="container">
+  <section class="page-hero">
+    <p class="eyebrow">시험 직전 · 문제만 집중</p>
+    <h1>시험 직전 문제</h1>
+    <p>교안 확인 문제와 AI 문제를 골라서 풉니다. 정답은 채점 후에만 공개돼요.</p>
+  </section>
+
+  <form id="exam-form" class="panel exam-form">
+    <fieldset>
+      <legend>문제 출처</legend>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" name="source" value="official" checked> 교안 확인 문제</label>
+        <label class="chip"><input type="checkbox" name="source" value="ai" checked> AI 문제</label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>주제</legend>
+      <div class="chips" id="topic-checks"></div>
+      <div class="row" style="margin-top:6px">
+        <button type="button" class="btn btn-sm" id="topic-all">전체 선택</button>
+        <button type="button" class="btn btn-sm" id="topic-none">전체 해제</button>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>유형</legend>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" name="type" value="mc" checked> 객관식</label>
+        <label class="chip"><input type="checkbox" name="type" value="short" checked> 주관식</label>
+        <label class="chip"><input type="checkbox" name="type" value="essay" checked> 서술형</label>
+        <label class="chip"><input type="checkbox" name="type" value="code" checked> 코드 작성</label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>풀이 방식</legend>
+      <div class="mode-options">
+        <label class="mode-opt"><input type="radio" name="mode" value="practice" checked><div><b>연습 모드</b><span>한 문제씩 채점하고 바로 해설 확인</span></div></label>
+        <label class="mode-opt"><input type="radio" name="mode" value="exam"><div><b>모의고사 모드</b><span>모두 푼 뒤 한 번에 채점 · 그 전엔 정답 비공개</span></div></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>옵션</legend>
+      <div class="chips">
+        <label class="chip"><input type="checkbox" name="shuffle" checked> 순서 섞기</label>
+        <label class="chip"><input type="checkbox" name="onlyWrong"> 오답 노트만</label>
+        <label class="chip"><input type="checkbox" name="onlyNew"> 안 푼 문제만</label>
+        <label class="chip">문항 수
+          <select name="count" style="border:0;background:transparent">
+            <option value="0">전체</option><option value="10">10</option><option value="20">20</option><option value="30">30</option>
+          </select>
+        </label>
+      </div>
+    </fieldset>
+    <div class="row">
+      <button type="submit" class="btn btn-primary">시작하기</button>
+      <span class="muted small" id="pool-count"></span>
+    </div>
+  </form>
+
+  <div id="exam-bar" class="exam-bar" hidden></div>
+  <div id="exam-result"></div>
+  <section id="exam-area" class="q-list"></section>
+  <section class="panel" id="history"></section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<script src="data/topics.js"></script>
+<script src="data/questions.js"></script>
+<script src="data/ai-questions.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/runner.js"></script>
+<script src="assets/js/quiz.js"></script>
+<script src="assets/js/exam.js"></script>
+</body>
+</html>

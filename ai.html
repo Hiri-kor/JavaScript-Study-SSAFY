@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 문제 | JS 시험 대비 노트</title>
+<script>try{var t=localStorage.getItem('jsstudy:theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)}catch(e){}</script>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-root="." data-page="ai">
+<header id="site-header"></header>
+<main class="container">
+  <section class="page-hero">
+    <p class="eyebrow">추가 문제 · 주관식 / 서술형 / 코드</p>
+    <h1>AI 문제</h1>
+    <p>AI로 만든 문제를 넣어 두는 공간입니다. 교안 범위 밖 문제가 섞이지 않도록 프롬프트에 학습 범위를 붙여 넣어 주세요.</p>
+  </section>
+
+  <section class="panel">
+    <h2>① 프롬프트 복사</h2>
+    <p class="small muted">아래 프롬프트의 <b>[출제 조건]</b>과 <b>[학습 범위]</b>를 채워 AI에게 보내세요. 주제 페이지 본문을 복사해 [학습 범위]에 붙여넣으면 교안 범위 안에서만 출제됩니다.</p>
+    <textarea id="prompt-box" class="prompt-box" spellcheck="false" aria-label="AI 프롬프트"></textarea>
+    <div class="row" style="margin-top:8px"><button type="button" class="btn btn-primary" id="copy-prompt">프롬프트 복사</button></div>
+  </section>
+
+  <section class="panel">
+    <h2>② 문제 가져오기</h2>
+    <p class="small muted">AI가 준 JSON 배열을 그대로 붙여넣으세요. 형식을 검사한 뒤 이 브라우저에 저장합니다.</p>
+    <textarea id="import-box" class="import-box" spellcheck="false" placeholder='[ { "topic": "07-arrays", "type": "mc", "question": "…", "options": ["…"], "answer": 0 } ]' aria-label="가져올 JSON"></textarea>
+    <div class="row" style="margin-top:8px">
+      <button type="button" class="btn btn-primary" id="do-import">가져오기</button>
+      <button type="button" class="btn" id="export-file" title="ai_problems 폴더에 저장할 JSON으로 복사">배포용 JSON 복사</button>
+      <button type="button" class="btn btn-ghost" id="clear-imported">브라우저에 저장된 AI 문제 지우기</button>
+    </div>
+    <ul class="msg-list" id="import-msg"></ul>
+    <details style="margin-top:12px">
+      <summary class="small"><b>배포 사이트에도 문제를 올리려면?</b></summary>
+      <ol class="small muted">
+        <li>"배포용 JSON 복사"를 누르고, <code>ai_problems/</code> 폴더에 <code>이름.json</code> 파일로 저장합니다.</li>
+        <li>저장소 루트에서 <code>python tools/import_ai_problems.py</code>를 실행하면 <code>data/ai-questions.js</code>가 다시 만들어집니다.</li>
+        <li>커밋 후 push 하면 GitHub Pages에서도 보입니다. 그 뒤엔 "브라우저에 저장된 AI 문제 지우기"로 중복을 정리하세요.</li>
+        <li>md 형식(객관식 50제처럼)으로 받은 문제는 <code>ai_problems/</code>에 넣고 스크립트 상단 <code>FILES</code>에 주제 배치 규칙을 추가하세요.</li>
+      </ol>
+    </details>
+  </section>
+
+  <section class="panel">
+    <h2>③ AI 문제 현황</h2>
+    <div id="ai-status"></div>
+  </section>
+
+  <section>
+    <div class="row" style="justify-content:space-between">
+      <h2>④ 풀기</h2>
+      <div class="row">
+        <select id="ai-filter-topic" class="btn btn-sm" aria-label="주제 필터"></select>
+        <select id="ai-filter-type" class="btn btn-sm" aria-label="유형 필터"></select>
+      </div>
+    </div>
+    <div id="ai-list" class="q-list"></div>
+  </section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<script src="data/topics.js"></script>
+<script src="data/questions.js"></script>
+<script src="data/ai-questions.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/runner.js"></script>
+<script src="assets/js/quiz.js"></script>
+<script src="assets/js/ai.js"></script>
+</body>
+</html>

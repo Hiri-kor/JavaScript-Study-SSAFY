@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JS 시험 대비 노트</title>
+<meta name="description" content="SSAFY JavaScript 교안(DOM, Basic Syntax 01·02, Controlling Event) 기반 객관식·주관식·서술형 시험 대비 학습 페이지">
+<script>try{var t=localStorage.getItem('jsstudy:theme');if(t)document.documentElement.dataset.theme=JSON.parse(t)}catch(e){}</script>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-root="." data-page="home">
+<header id="site-header"></header>
+
+<main class="container">
+  <section class="hero-home">
+    <p class="eyebrow">SSAFY JavaScript · 객관식 / 주관식 / 서술형 대비</p>
+    <h1>JavaScript 시험 대비 노트</h1>
+    <p>교안 4개(1111 DOM · 1112 Basic Syntax 01 · 1116 Basic Syntax 02 · 1117 Controlling Event)의 내용을 주제별로 다시 묶었습니다.</p>
+  </section>
+
+  <div class="grid mode-grid">
+    <a class="mode-card primary" href="topics/01-history.html">
+      <span class="icon">📘</span><h3>주제별 학습</h3>
+      <p>9개 주제로 나눈 전체 개념 + 어려운 부분 풀이 + 주제별 확인 문제</p>
+    </a>
+    <a class="mode-card" href="summary.html">
+      <span class="icon">⚡</span><h3>시험 직전 개념</h3>
+      <p>핵심만 압축한 한 장 요약, 헷갈리는 비교, 서술형 한 줄 정의</p>
+    </a>
+    <a class="mode-card" href="exam.html">
+      <span class="icon">✍️</span><h3>시험 직전 문제</h3>
+      <p>확인 문제만 모아서 풀기 · 모의고사 모드 · 오답 노트</p>
+    </a>
+    <a class="mode-card" href="ai.html">
+      <span class="icon">🤖</span><h3>AI 문제</h3>
+      <p>AI로 만든 주관식·서술형·코드 문제를 붙여넣어 풀기</p>
+    </a>
+    <a class="mode-card" href="playground.html">
+      <span class="icon">⌨️</span><h3>코드 연습장</h3>
+      <p>HTML · CSS · JS를 직접 쳐서 실행 · 교안 예제 불러오기</p>
+    </a>
+  </div>
+
+  <section class="panel">
+    <div class="row" style="justify-content:space-between">
+      <h2 style="margin:0">📊 나의 학습 현황</h2>
+      <button type="button" class="btn btn-ghost btn-sm" id="reset-progress">기록 초기화</button>
+    </div>
+    <div class="stat-row" id="home-stats" style="margin-top:12px"></div>
+  </section>
+
+  <section>
+    <h2>📚 주제별 학습</h2>
+    <div class="grid topic-grid" id="topic-grid"></div>
+  </section>
+
+  <section class="panel">
+    <h2>🧭 추천 학습 순서</h2>
+    <ol class="guide-list">
+      <li><b>주제별 학습</b>으로 개념을 읽고, 코드 블록의 <b>⌨ 따라치기</b>로 예제를 직접 쳐 봅니다.</li>
+      <li>각 주제 끝의 <b>확인 문제</b>를 풉니다. 정답과 해설은 채점한 뒤에만 보여요.</li>
+      <li><b>AI 문제</b>로 주관식·서술형·코드 문제를 더 풀어 봅니다.</li>
+      <li>시험 전날엔 <b>시험 직전 문제</b>를 모의고사 모드로 풀고 <b>오답 노트</b>를 정리합니다.</li>
+      <li>시험 직전엔 <b>시험 직전 개념</b>만 훑어봅니다.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>🎯 유형별 대비 포인트</h2>
+    <div class="grid tip-grid">
+      <div class="panel">
+        <h3>객관식</h3>
+        <ul>
+          <li>비슷한 짝을 구분: <code>querySelector</code>/<code>All</code>, <code>map</code>/<code>forEach</code>, <code>target</code>/<code>currentTarget</code></li>
+          <li>"아닌 것", "틀린 것"을 묻는 문제에 주의</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h3>주관식</h3>
+        <ul>
+          <li>메서드 이름은 철자·대소문자까지 정확히 (<code>addEventListener</code>, <code>textContent</code>)</li>
+          <li>코드 출력값 예측: <code>==</code>/<code>===</code>, 단축 평가, 호이스팅</li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h3>서술형</h3>
+        <ul>
+          <li><b>정의 → 특징/이유 → 예시</b> 순서로 쓰기</li>
+          <li>시험 직전 개념의 "서술형 한 줄 정의"를 외워 두기</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="data/topics.js"></script>
+<script src="data/questions.js"></script>
+<script src="data/ai-questions.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/home.js"></script>
+</body>
+</html>

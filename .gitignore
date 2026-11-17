@@ -1,0 +1,19 @@
+# ── 교안 원본 PDF ──────────────────────────────
+*.pdf
+
+# ── 교안을 옮겨 적은 정리본 (루트의 강의별 md) ──
+# 사이트 본문(content/ 폴더의 md)은 커밋 대상이므로 파일명을 지정해 제외합니다.
+/1111_JavaScript_DOM.md
+/1112_JavaScript_Basic_Syntax_01.md
+/1116_JavaScript_Basic_Syntax_02.md
+/1117_JavaScript_Controlling_Event.md
+
+# ── OS / 에디터 ─────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python 캐시
+__pycache__/
