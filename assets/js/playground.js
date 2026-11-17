@@ -106,7 +106,7 @@
       ex.lodash = /lodash/i.test(title);
       return ex;
     });
-    sel.innerHTML = '<option value="">📚 교안 예제 불러오기…</option>' + examples.map((e, i) => `<option value="${i}">${App.esc(e.title)}</option>`).join('');
+    sel.innerHTML = '<option value="">📚 예제 불러오기…</option>' + examples.map((e, i) => `<option value="${i}">${App.esc(e.title)}</option>`).join('');
   } catch (err) {
     sel.innerHTML = '<option value="">(예제를 불러오지 못했어요)</option>';
   }

@@ -61,7 +61,7 @@
 > - 이를 통해 이벤트와 관련된 구체적인 정보를 참조할 수 있습니다.
 
 - DOM 요소에서 event가 발생하면, 해당 event는 연결된 이벤트 처리기(**event handler**)에 의해 처리 됨
-- (교안 그림) 손님 `Event (Order)` → 바리스타 `Event Handler (Barista)`
+- (그림) 손님 `Event (Order)` → 바리스타 `Event Handler (Barista)`
 
 ## event handler
 
@@ -433,7 +433,7 @@ form이 클릭되었습니다.
   btn.addEventListener('click', clickHandler)
 </script>
 ```
-- 교안 원문은 세 방법 모두 주석 처리되어 있습니다. 바로 실행해 볼 수 있도록 여기서는 2번(toggle)만 주석을 풀었습니다.
+- 원래 예제는 세 방법 모두 주석 처리되어 있습니다. 바로 실행해 볼 수 있도록 여기서는 2번(toggle)만 주석을 풀었습니다.
 
 > 💡 **쉽게 이해하기** — 1번(add)은 한 번 파랗게 되면 다시 돌아오지 않고, 2번(toggle)과 3번(if)은 누를 때마다 파랑 ↔ 기본색이 바뀝니다. 3번은 toggle이 하는 일을 직접 풀어 쓴 것입니다.
 
@@ -525,7 +525,7 @@ const addTodo = function (event) {
 - 모듈성, 성능 및 추가 기능을 제공하는 **JavaScript 유틸리티 라이브러리**
 - array/object 등 자료구조를 다룰 때, 간편하고 유용한 함수들을 제공
 - 참고 링크: [lodash.com](https://lodash.com/)
-- 교안 그림의 예: `_.sampleSize([1, 2, 3], 2) // => [3, 1]`
+- lodash 문서의 예: `_.sampleSize([1, 2, 3], 2) // => [3, 1]`
 
 > 💡 **쉽게 이해하기** — `_.range(1, 46)`은 1부터 45까지(46은 포함 안 함) 배열을 만들고, `_.sampleSize(배열, 6)`은 그중 6개를 무작위로 뽑습니다. 이 실습은 이벤트 + 배열(forEach) + DOM 조작(createElement, appendChild)을 한 번에 연습합니다.
 
@@ -648,6 +648,6 @@ const addTodo = function (event) {
 | event.currentTarget | 핸들러가 연결된 요소를 참조 | `console.log(event.currentTarget)` |
 | preventDefault | 이벤트의 기본 동작을 취소 | `event.preventDefault()` |
 
-## 교안 실습 문제
+## 실습 문제
 - 이벤트: **1917.** input Event - Bad Word Filter · **1923.** Click Event - ThemeSwitcher · **1919.** change Event - Form Validator · **1920.** submit Event - Card Maker · **3083.** 이벤트 핸들러와 DOM 조작 - 기초
 - 버블링: **3082.** 버블링과 캡처링

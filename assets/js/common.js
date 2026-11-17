@@ -82,7 +82,7 @@
       seen.add(q.id);
       out.push(Object.assign({ source: src }, q));
     };
-    (window.QUESTIONS || []).forEach(q => add(q, '교안'));
+    (window.QUESTIONS || []).forEach(q => add(q, '확인 문제'));
     (window.AI_QUESTIONS || []).forEach(q => add(Object.assign({}, q, { source: 'AI' }), 'AI'));
     Store.get('aiImported', []).forEach(q => add(Object.assign({}, q, { source: 'AI' }), 'AI'));
     return out;

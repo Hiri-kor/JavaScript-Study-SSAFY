@@ -710,7 +710,7 @@ window.AI_QUESTIONS = [
       "[코드 A]: `ReferenceError` / [코드 B]: `SyntaxError`"
     ],
     "answer": 2,
-    "explanation": "`var`는 선언과 초기화(`undefined`)가 동시에 호이스팅되어 `undefined`를 출력하지만, `let`은 선언만 호이스팅되고 초기화되지 않아 TDZ에 의해 `ReferenceError`가 발생합니다. ⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 교안대로 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
+    "explanation": "`var`는 선언과 초기화(`undefined`)가 동시에 호이스팅되어 `undefined`를 출력하지만, `let`은 선언만 호이스팅되고 초기화되지 않아 TDZ에 의해 `ReferenceError`가 발생합니다. ⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
   },
   {
     "id": "ai-1111-47",
@@ -3704,7 +3704,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "modelAnswer": "**[코드 A] 결과: `undefined` / [코드 B] 결과: `ReferenceError` (참조 에러: `Cannot access 'age' before initialization`)**\n• **[코드 B]의 이유 서술**: `var`는 선언과 동시에 `undefined`로 초기화되어 에러가 나지 않지만, `let`(및 `const`)은 선언만 최상단으로 호이스팅되고 실제 코드 선언 줄에 도달하기 전까지 초기화되지 않는다. 따라서 스코프 시작 지점부터 초기화 지점까지의 구간인 **TDZ(일시적 사각지대)**에 갇혀 있어 초기화 전에 접근하면 참조 에러(`ReferenceError`)가 발생한다.",
     "template": "[코드 A] 결과: \n[코드 B] 결과: \n[코드 B]의 이유 서술: ",
-    "explanation": "⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 교안대로 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
+    "explanation": "⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
   },
   {
     "id": "ai-1111-b01",
@@ -4160,7 +4160,7 @@ window.AI_QUESTIONS = [
         ]
       }
     ],
-    "explanation": "`var`는 호이스팅 시 `undefined`로 초기화되지만, `let`과 `const`는 실제 선언 줄에 도달할 때까지 초기화되지 않고 TDZ(일시적 사각지대)에 머무르므로 `ReferenceError`가 발생합니다. ⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 교안대로 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
+    "explanation": "`var`는 호이스팅 시 `undefined`로 초기화되지만, `let`과 `const`는 실제 선언 줄에 도달할 때까지 초기화되지 않고 TDZ(일시적 사각지대)에 머무르므로 `ReferenceError`가 발생합니다. ⚠️ 참고: 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 보입니다. 브라우저에는 원래 `name`이라는 전역 값(`window.name`)이 있어 겹치기 때문입니다. 시험에서는 `undefined`가 답이며, 직접 확인할 때는 변수 이름을 `userName` 등으로 바꿔 보세요."
   },
   {
     "id": "ai-1111-b20",

@@ -563,7 +563,7 @@ console.log(Object.getOwnPropertyDescriptors(numbers))
   length: {value: 3, writable: true, enumerable: false, configurable: false}
 ```
 
-> ⚠️ 교안 캡처에는 value가 `'Alice'`, `'Bella'`, `'Cathy'`로 찍혀 있어 코드(`[1, 2, 3]`)와 맞지 않습니다. 위 출력은 코드에 맞춘 형태입니다. 핵심은 **인덱스(0, 1, 2)가 키**이고 **length 속성**이 있다는 점입니다.
+> ⚠️ 원래 출력 예시에는 value가 `'Alice'`, `'Bella'`, `'Cathy'`로 찍혀 있어 코드(`[1, 2, 3]`)와 맞지 않습니다. 위 출력은 코드에 맞춘 형태입니다. 핵심은 **인덱스(0, 1, 2)가 키**이고 **length 속성**이 있다는 점입니다.
 
 ## 정리: 여러 사람의 데이터를 다루려면?
 
@@ -593,5 +593,5 @@ const userNames = users.map(user => user.name) // ['jayden', 'harry']
 - `filter()`: 콜백이 true를 반환한 요소만 모은 새로운 배열 (없으면 `[]`)
 - `reduce()`: 누적값(acc)을 이어 받아 하나의 결과로 집계
 
-## 교안 실습 문제
+## 실습 문제
 - Array helper method: **3079.** 다양한 함수 표현 · **2968.** 배열 활용하기 · **2971.** 배열 순회2

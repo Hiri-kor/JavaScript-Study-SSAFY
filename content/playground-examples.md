@@ -1,4 +1,4 @@
-# 코드 연습장 예제 (교안 코드)
+# 코드 연습장 예제
 
 "## 제목" 하나가 예제 하나입니다. 각 예제 안의 ```html / ```css / ```js 코드 블록이 연습장의 같은 탭에 들어갑니다.
 제목에 "lodash"가 들어가면 lodash 라이브러리를 함께 불러옵니다.
@@ -26,7 +26,7 @@ function sayHello() {
   console.log('Hello!')
 }
 
-// 교안 코드는 변수 이름이 name인데, 브라우저에서 맨 바깥의 var name은
+// 원래 예제 코드는 변수 이름이 name인데, 브라우저에서 맨 바깥의 var name은
 // 원래 있던 window.name과 겹쳐 undefined 대신 ''가 찍힙니다. 그래서 이름만 바꿨습니다.
 console.log(userName)  // undefined (에러발생 X)
 var userName = '홍길동'

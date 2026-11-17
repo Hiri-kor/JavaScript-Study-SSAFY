@@ -9,7 +9,7 @@
 
 ### Object – 키로 구분된 데이터 집합을 저장하는 자료형 (data collection)
 
-> 💡 **쉽게 이해하기** — 교안 그림처럼 객체는 **이름표가 붙은 서랍장**입니다. `name` 서랍, `age` 서랍, `getItems` 서랍(함수)… 서랍 이름이 key, 안에 든 것이 value입니다.
+> 💡 **쉽게 이해하기** — 그림으로 보면 객체는 **이름표가 붙은 서랍장**입니다. `name` 서랍, `age` 서랍, `getItems` 서랍(함수)… 서랍 이름이 key, 안에 든 것이 value입니다.
 
 ### 객체 구조
 - 중괄호(`{}`)를 이용해 작성
@@ -105,7 +105,7 @@ console.log(person.greeting()) // Hello my name is Alice
 ### 'this' keyword – 함수나 메서드를 호출한 객체를 가리키는 키워드
 - ➤ `'this'` 키워드를 사용해 객체에 대한 특정한 작업을 수행 할 수 있음
 
-> 💡 **쉽게 이해하기** — 교안 그림처럼 this는 **스포트라이트**입니다. person1, person2, person3 중 **지금 호출한 사람**을 비춥니다. 위 예제에서는 `person.greeting()`으로 불렀으니 this = person, `this.name` = 'Alice'.
+> 💡 **쉽게 이해하기** — 그림으로 보면 this는 **스포트라이트**입니다. person1, person2, person3 중 **지금 호출한 사람**을 비춥니다. 위 예제에서는 `person.greeting()`으로 불렀으니 this = person, `this.name` = 'Alice'.
 
 ### JavaScript에서 this는 함수를 **"호출하는 방법"** 에 따라 가리키는 대상이 달라짐
 
@@ -188,7 +188,7 @@ console.log(myObj3.myFunc())
 > - 개발자는 this 의 동작 방식을 충분히 이해하고 장점을 취하면서 실수를 피하는 데에 집중해야 합니다.
 > - this 가 헷갈릴 땐 **'누가 점(.)을 찍어 호출했는가?'** 에 집중해보세요. 점 앞의 객체가 this가 됩니다.
 
-> 💡 **this 판별 순서 (교안 내용 종합)**
+> 💡 **this 판별 순서 (정리)**
 > 1. 화살표 함수인가? → 자기 this 없음, **바깥 스코프의 this**
 > 2. `객체.메서드()`처럼 점을 찍어 호출했나? → **점 앞의 객체**
 > 3. 그냥 `함수()`로 호출했나? → **전역 객체(window)**
@@ -551,5 +551,5 @@ const instance = new ClassName(arg1, arg2)
 - JSON은 문자열 형식. `JSON.stringify()` 객체 → 문자열, `JSON.parse()` 문자열 → 객체
 - 클래스는 객체를 만드는 템플릿, `new`가 constructor를 자동 호출
 
-## 교안 실습 문제
+## 실습 문제
 - 객체: **3080.** 함수와 객체 활용하기 · **2972.** 객체와 메서드 · **2973.** 객체 활용하기

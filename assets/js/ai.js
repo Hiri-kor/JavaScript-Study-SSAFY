@@ -76,7 +76,7 @@ ${topicLines}
 - 문자열 안의 줄바꿈은 \\n 으로, 큰따옴표는 \\" 로 이스케이프해.
 
 [학습 범위]
-(여기에 공부할 교안 내용 또는 이 사이트의 해당 주제 페이지 내용을 붙여넣으세요)
+(여기에 공부할 내용, 예를 들어 이 사이트의 해당 주제 페이지 내용을 붙여넣으세요)
 `;
   document.getElementById('copy-prompt').addEventListener('click', () => App.copyText(promptBox.value));
 

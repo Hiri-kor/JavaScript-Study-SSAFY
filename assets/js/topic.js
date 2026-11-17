@@ -20,7 +20,7 @@
       <p class="eyebrow">주제 ${t.no} / ${all.length}</p>
       <h1 class="topic-title">${App.esc(t.title)}</h1>
       <p class="topic-desc">${App.esc(t.desc)}</p>
-      <div class="legend"><span>💡 쉽게 이해하기(교안 내용 풀이)</span><span>📌 교안 TIP</span><span>📝 서술형 대비 정의</span><span>⚠️ 헷갈리기 쉬운 점</span></div>
+      <div class="legend"><span>💡 쉽게 이해하기</span><span>📌 TIP</span><span>📝 서술형 대비 정의</span><span>⚠️ 헷갈리기 쉬운 점</span></div>
       <div class="topic-actions">
         <a class="btn" href="#topic-quiz">확인 문제로 이동 ↓</a>
         <a class="btn" href="${App.url('exam.html?topic=' + t.id)}">이 주제만 시험 모드로</a>
@@ -50,13 +50,13 @@
     quizEl.className = 'quiz-section';
     quizEl.innerHTML = `
       <h2 id="topic-quiz-title">✅ 확인 문제</h2>
-      <p class="muted small">교안 문제 ${official.length}개${ai.length ? ` · AI 문제 ${ai.length}개` : ''} · 정답과 해설은 <b>채점한 뒤에만</b> 보여요. 결과는 오답 노트에 자동 기록됩니다.</p>
-      <h3 class="quiz-sub">교안 확인 문제</h3>
+      <p class="muted small">확인 문제 ${official.length}개${ai.length ? ` · AI 문제 ${ai.length}개` : ''} · 정답과 해설은 <b>채점한 뒤에만</b> 보여요. 결과는 오답 노트에 자동 기록됩니다.</p>
+      <h3 class="quiz-sub">확인 문제</h3>
       <div class="q-list" id="topic-quiz-list"></div>
       <div id="topic-ai-wrap"></div>`;
     const list = quizEl.querySelector('#topic-quiz-list');
     if (!official.length) {
-      list.innerHTML = '<div class="empty-state"><p>이 주제에 해당하는 교안 확인 문제가 없어요.</p></div>';
+      list.innerHTML = '<div class="empty-state"><p>이 주제에 해당하는 확인 문제가 없어요.</p></div>';
     } else {
       Quiz.renderSet(list, official, { mode: 'practice', showTopic: false, anchorPrefix: 'tq' });
     }

@@ -79,7 +79,7 @@ const number = 20  // 2. 재선언 불가능
 const number       // SyntaxError
 ```
 
-> 💡 **쉽게 이해하기** — `const number` 처럼 값 없이 선언만 하면 SyntaxError입니다. 교안 활동 정리: **const는 선언 시 반드시 초기화해야 합니다.** (`let`은 `let y` 처럼 선언만 해도 되고, 값은 `undefined`)
+> 💡 **쉽게 이해하기** — `const number` 처럼 값 없이 선언만 하면 SyntaxError입니다. 정리: **const는 선언 시 반드시 초기화해야 합니다.** (`let`은 `let y` 처럼 선언만 해도 되고, 값은 `undefined`)
 
 > 💡 **재할당 vs 재선언**
 > - **재할당**: 이미 만든 변수에 `=`로 새 값을 넣는 것 → `number = 20`
@@ -162,7 +162,7 @@ console.log(x) // ReferenceError: x is not defined
    console.log(name)  // undefined (에러발생 X)
    var name = '홍길동'
    ```
-   > ⚠️ 이 교안 코드를 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 찍힙니다. 브라우저에는 원래 `name`이라는 전역 값이 있어서 겹치기 때문이니, 직접 확인할 땐 변수 이름을 `userName` 등으로 바꿔 보세요. 시험에서는 교안대로 **`undefined`** 가 답입니다.
+   > ⚠️ 이 코드를 브라우저(연습장)에서 그대로 실행하면 `undefined` 대신 빈 문자열이 찍힙니다. 브라우저에는 원래 `name`이라는 전역 값이 있어서 겹치기 때문이니, 직접 확인할 땐 변수 이름을 `userName` 등으로 바꿔 보세요. 시험에서는 **`undefined`** 가 답입니다.
 2. **let, const의 호이스팅 (선언만 진행)**
    - 동작: 스코프 최상단으로 선언(이름 등록)은 되지만, 실제 코드 라인에 도달하기 전까지 초기화(메모리 할당)는 되지 않음
    - 결과: 초기화되지 않은 상태에서 접근하려 하므로 참조 에러(ReferenceError)가 발생
@@ -214,7 +214,7 @@ function sayHello() {
 
 ### 출력 결과 예측 연습
 
-교안 예제를 조합한 연습입니다. 답을 먼저 생각한 뒤 펼쳐 보세요.
+예제를 조합한 연습입니다. 답을 먼저 생각한 뒤 펼쳐 보세요.
 
 ```js
 console.log(a)

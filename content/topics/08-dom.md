@@ -346,7 +346,7 @@ DOM 조작
 </script>
 ```
 
-> 💡 **쉽게 이해하기 – 요소 추가 3단계**: ① `createElement`로 **만들고** ② `textContent` 등으로 **채우고** ③ `appendChild`로 **붙인다**. ③을 빼먹으면 화면에 아무것도 안 나옵니다. (교안 화면에 맞춰 연습장에서 바로 실행되도록 `div`와 `p`를 함께 적어 두었습니다.)
+> 💡 **쉽게 이해하기 – 요소 추가 3단계**: ① `createElement`로 **만들고** ② `textContent` 등으로 **채우고** ③ `appendChild`로 **붙인다**. ③을 빼먹으면 화면에 아무것도 안 나옵니다. (연습장에서 바로 실행되도록 `div`와 `p`를 함께 적어 두었습니다.)
 
 ## style 조작
 
@@ -402,7 +402,7 @@ DOM 트리의 각 부분은 Node라는 객체로 표현됨
 > 💡 **쉽게 이해하기** — Node가 "모든 조각"이라면 Element는 그중 "태그 조각"입니다. 텍스트(Text Node)도 Node지만 태그가 아니므로 Element가 아닙니다.
 
 ### Parsing – 브라우저가 문자열을 해석하여 DOM Tree로 만드는 과정 (구문 분석, 해석)
-- (교안 그림) PARSE → STYLE → LAYOUT 단계
+- (그림) PARSE → STYLE → LAYOUT 단계
 
 ## 정리: 다크 모드는 어떻게 만들까?
 
@@ -425,6 +425,6 @@ DOM 트리의 각 부분은 Node라는 객체로 표현됨
 | setAttribute | 요소의 속성 값을 설정 | `a.setAttribute('href', url)` |
 | createElement | 새 HTML 요소를 메모리에 생성 | `document.createElement('h1')` |
 
-## 교안 실습 문제
+## 실습 문제
 - DOM 선택: **3073.** DOM API - HTML 요소 선택과 출력 · **2955.** 할일 목록 만들기 - 요소 선택과 출력
 - DOM 조작: **3074.** DOM API - HTML 속성 및 클래스 속성 조작 · **2953.** 포트폴리오 만들기 - DOM 조작 · **2956.** 할일 목록 만들기 - 속성 수정과 요소 삭제 · **2958.** Card 속성 조작 하기
