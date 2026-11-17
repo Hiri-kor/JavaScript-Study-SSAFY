@@ -123,7 +123,7 @@ def value_answers(v):
             if piece and len(piece) <= 30 and not SENTENCE_RE.search(piece):
                 answers.append(piece)
     full = plain(v)
-    if full and len(full) <= 60 and full not in answers:
+    if full and len(full) <= 60 and '또는' not in full and full not in answers:
         answers.append(full)
     seen, uniq = set(), []
     for a in answers:

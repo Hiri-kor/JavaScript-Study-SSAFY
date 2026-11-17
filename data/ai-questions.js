@@ -3375,8 +3375,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "answers": [
       "V8",
-      "V8 자바스크립트 엔진",
-      "V8 (또는 V8 자바스크립트 엔진)"
+      "V8 자바스크립트 엔진"
     ],
     "explanation": "구글이 자체 개발한 고성능 자바스크립트 엔진으로, Chrome의 시장 우위와 웹 애플리케이션 발전에 핵심적인 역할을 했습니다."
   },
@@ -3424,8 +3423,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "answers": [
       "DOM",
-      "Document Object Model",
-      "DOM (또는 Document Object Model)"
+      "Document Object Model"
     ],
     "explanation": "HTML 문서를 객체 트리 구조로 표현하여 자바스크립트가 웹 페이지를 동적으로 조작할 수 있게 해줍니다."
   },
@@ -3436,8 +3434,7 @@ window.AI_QUESTIONS = [
     "question": "DOM 트리의 최상위 객체이자, HTML 문서의 모든 콘텐츠에 접근하고 조작할 수 있는 진입점 역할을 하는 객체의 이름은 무엇인가요?",
     "type": "short",
     "answers": [
-      "document",
-      "document (또는 document 객체)"
+      "document"
     ],
     "explanation": "DOM에서 모든 요소, 속성, 텍스트는 `document` 객체의 하위 객체로 구성됩니다."
   },
@@ -3462,8 +3459,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "answers": [
       "querySelector",
-      "document.querySelector()",
-      "querySelector (또는 document.querySelector())"
+      "document.querySelector()"
     ],
     "explanation": "선택자와 일치하는 첫 번째 요소를 하나 선택하여 반환합니다."
   },
@@ -3584,8 +3580,7 @@ window.AI_QUESTIONS = [
         "label": "메서드 이름",
         "answers": [
           "removeChild",
-          "Node.removeChild()",
-          "removeChild (또는 Node.removeChild())"
+          "Node.removeChild()"
         ]
       },
       {
@@ -4994,7 +4989,6 @@ window.AI_QUESTIONS = [
         "answers": [
           "i++",
           "i += 1",
-          "i++ (또는 i += 1)",
           "i = i + 1"
         ]
       }
@@ -5544,16 +5538,14 @@ window.AI_QUESTIONS = [
         "label": "A",
         "answers": [
           "JSON.stringify",
-          "JSON.stringify()",
-          "JSON.stringify (또는 JSON.stringify())"
+          "JSON.stringify()"
         ]
       },
       {
         "label": "B",
         "answers": [
           "JSON.parse",
-          "JSON.parse()",
-          "JSON.parse (또는 JSON.parse())"
+          "JSON.parse()"
         ]
       }
     ],
@@ -5844,8 +5836,7 @@ window.AI_QUESTIONS = [
         "label": "B",
         "answers": [
           "constructor",
-          "constructor()",
-          "constructor (또는 constructor())"
+          "constructor()"
         ]
       },
       {
@@ -5934,8 +5925,7 @@ window.AI_QUESTIONS = [
         "label": "A",
         "answers": [
           "(number) =>",
-          "number =>",
-          "(number) => (또는 number =>)"
+          "number =>"
         ]
       }
     ],
@@ -6194,8 +6184,7 @@ window.AI_QUESTIONS = [
         "label": "B",
         "answers": [
           "name => name.length",
-          "(name) => name.length",
-          "name => name.length (또는 (name) => name.length)"
+          "(name) => name.length"
         ]
       }
     ],
@@ -6638,8 +6627,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "answers": [
       "addEventListener",
-      ".addEventListener()",
-      "addEventListener (또는 .addEventListener())"
+      ".addEventListener()"
     ],
     "explanation": "`EventTarget.addEventListener(type, handler)` 메서드를 사용해 특정 DOM 요소에 이벤트 핸들러를 등록합니다."
   },
@@ -6863,8 +6851,7 @@ window.AI_QUESTIONS = [
     "type": "short",
     "answers": [
       "event.preventDefault()",
-      ".preventDefault()",
-      "event.preventDefault() (또는 .preventDefault())"
+      ".preventDefault()"
     ],
     "explanation": "`.preventDefault()` 메서드는 해당 이벤트에 대한 브라우저의 기본 동작을 실행하지 않도록 취소합니다."
   },
@@ -6980,8 +6967,7 @@ window.AI_QUESTIONS = [
         "label": "ㄴ",
         "answers": [
           "event",
-          "e",
-          "event (또는 임의의 매개변수명 e)"
+          "e"
         ]
       },
       {
@@ -7300,8 +7286,7 @@ window.AI_QUESTIONS = [
         "label": "ㄹ",
         "answers": [
           "''",
-          "\"\"",
-          "'' (또는 \"\")"
+          "\"\""
         ]
       }
     ],
@@ -7326,8 +7311,7 @@ window.AI_QUESTIONS = [
         "label": "ㄴ",
         "answers": [
           "alert",
-          "window.alert",
-          "alert (또는 window.alert)"
+          "window.alert"
         ]
       }
     ],
@@ -7443,8 +7427,7 @@ window.AI_QUESTIONS = [
         "label": "ㄱ",
         "answers": [
           "#my-form",
-          "form",
-          "#my-form (또는 form)"
+          "form"
         ]
       },
       {
@@ -7511,8 +7494,7 @@ window.AI_QUESTIONS = [
         "label": "ㄱ",
         "answers": [
           "event",
-          "e",
-          "event (또는 임의의 매개변수명 e)"
+          "e"
         ]
       },
       {
